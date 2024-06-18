@@ -1,0 +1,7 @@
+member_id,customer_key,unaltered_customer_key,display_name,level_id,is_deleted,a_reseaudescription,a_reseaukey,a_reseauparentkey,a_reseausorting
+1,res,Res,Réseau,64910,false,Réseau,Res,Reseau_Total,1
+2,reseau_total,Reseau_Total,Réseau Total,64910,false,Réseau Total,Reseau_Total,Reseau_Root,
+3,hres,HRes,Hors Réseau,64910,false,Hors Réseau,HRes,Reseau_Total,2
+4,reseau_root,Reseau_Root,Reseau (Root),64910,false,Reseau (Root),Reseau_Root,Reseau_Root,
+34,na,NA,NA,64910,false,NA,NA,Reseau_Total,9
+35,si,SI,SI,64910,false,SI,SI,Reseau_Total,3

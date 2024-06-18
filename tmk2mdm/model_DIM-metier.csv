@@ -1,0 +1,14 @@
+member_id,customer_key,unaltered_customer_key,display_name,level_id,is_deleted,a_metierdescription,a_metierdisplay,a_metierkey,a_metierparentkey,a_metiersorting
+1,metier_total,Metier_Total,Métier Total,64907,false,Métier Total,,Metier_Total,Metier_Root,
+2,xx,XX,NA,64907,false,NA,,XX,Metier_Total,9
+3,nvx,NVX,Nvx Métiers,64907,false,Nvx Métiers,,NVX,Metier_Total,3 **
+4,tra,TRA,Transport,64907,false,Transport,,TRA,Metier_Total,1
+5,metier_root,Metier_Root,Métier (Root),64907,false,Métier (Root),,Metier_Root,Metier_Root,
+6,sto,STO,Stockage,64907,false,Stockage,,STO,Metier_Total,2
+8,aut,AUT,Autres nouveaux métiers,64907,false,Autres nouveaux métiers,Autres nouveaux métiers,AUT,NVX,Autres nouveaux métiers
+41,dig,DIG,Multi-Energie et Digital,64907,false,Multi-Energie et Digital,,DIG,NVX,34
+42,hyd,HYD,Hydrogène,64907,false,Hydrogène,,HYD,NVX,35
+73,biomob,BIOMOB,BioMob,64907,false,BioMob,,BIOMOB,NVX,32
+7,bme,BME,Biométhane,64907,false,Biométhane,Biométhane,BME,BIOMOB,322
+40,mog,MOG,Mobilité Gaz,64907,false,Mobilité Gaz,,MOG,BIOMOB,321
+106,co2,CO2,Carbone,64907,false,Carbone,,CO2,NVX,38

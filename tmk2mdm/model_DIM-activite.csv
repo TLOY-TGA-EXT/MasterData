@@ -1,0 +1,669 @@
+member_id,customer_key,unaltered_customer_key,display_name,level_id,is_deleted,a_activitedescription,a_activitedisplay,a_activitekey,a_activitemap2cashflow,a_activitemap2model,a_activitemap2opmodel,a_activiteparentkey,a_activitesorting,a_activitemap2metric
+629,pnl_00206,PNL_00206,Pénalités liées au dépassement de capacités sortie,64904,false,Pénalités liées au dépassement de capacités sortie,,PNL_00206,,,OpMP_ATR,PNL_ATRAutresRecettes,C112-004,OpxY_ChiffreAffaireInp
+474,pnl_00019,PNL_00019,Pénalités liées au dépassement de capacités entrée,64904,false,Pénalités liées au dépassement de capacités entrée,,PNL_00019,,,OpMP_ATR,PNL_ATRAutresRecettes,C112-003,OpxY_ChiffreAffaireInp
+662,pnl_00207,PNL_00207,Achat Gaz Powernext déséqu. Expéditeurs,64904,false,Achat Gaz Powernext déséqu. Expéditeurs,,PNL_00207,,,OpMP_TRCustomersBalance,PNL_AchatVenteGazEquilibrage,C35-001,OpxY_ChiffreAffaireInp
+663,pnl_00208,PNL_00208,Vente Gaz Powernext désequi. Expéditeurs,64904,false,Vente Gaz Powernext désequi. Expéditeurs,,PNL_00208,,,OpMP_TRCustomersBalance,PNL_AchatVenteGazEquilibrage,C35-003,OpxY_ChiffreAffaireInp
+171,pnl_00036,PNL_00036,Vente Gaz aux expéditeurs TR,64904,false,Vente Gaz aux expéditeurs TR,,PNL_00036,,,OpMP_TRCustomersBalance,PNL_AchatVenteGazEquilibrage,C35-003,OpxY_ChiffreAffaireInp
+177,pnl_00034,PNL_00034,Achat Gaz aux expéditeurs,64904,false,Achat Gaz aux expéditeurs,,PNL_00034,,,OpMP_TRCustomersBalance,PNL_AchatVenteGazEquilibrage,C35-001,OpxY_ChiffreAffaireInp
+402,cfs_00015,CFS_00015,Var. Social security agencies,64904,false,Var. Social security agencies,,CFS_00015,BSH_00011,-,,CFS_NonTradeWorkingCapitalVariation,CFS15200,
+401,cfs_00016,CFS_00016,Var. VAT,64904,false,Var. VAT,,CFS_00016,BSH_00013,-,,CFS_NonTradeWorkingCapitalVariation,CFS15300,
+100,bsh_00010,BSH_00010,Personnel,64904,false,Personnel,,BSH_00010,CFS_00014,,,BSH_NonTradeWorkingCapital,BS16-001,
+97,bsh_00011,BSH_00011,Social security agencies,64904,false,Social security agencies,,BSH_00011,CFS_00015,,,BSH_NonTradeWorkingCapital,BS16-002,
+80,cfs_00046,CFS_00046,Debt issuance,64904,false,Debt issuance,,CFS_00046,BSH_00018,-,,CFS_IncreaseDecreaseInFinancialDebt,CFS41100,
+78,cfs_00047,CFS_00047,Debt repayment,64904,false,Debt repayment,,CFS_00047,BSH_00018,-,,CFS_IncreaseDecreaseInFinancialDebt,CFS41200,
+77,cfs_00048,CFS_00048,RCF drawdown,64904,false,RCF drawdown,,CFS_00048,BSH_00018,-,,CFS_IncreaseDecreaseInFinancialDebt,CFS41300,
+49,opms_pbt,OpMS_PBT,PBT,64904,false,PBT,,OpMS_PBT,,,,OpMP,OpMP_Tax1,
+95,bsh_00013,BSH_00013,VAT,64904,false,VAT,,BSH_00013,CFS_00016,,,BSH_NonTradeWorkingCapital,BS16-004,
+96,bsh_00014,BSH_00014,Other,64904,false,Other,,BSH_00014,CFS_00017,,,BSH_NonTradeWorkingCapital,BS16-005,
+404,cfs_00013,CFS_00013,Var. Inventory,64904,false,Var. Inventory,,CFS_00013,BSH_00007,-,,CFS_TradeWorkingCapitalVariation,CFS14300,
+105,bsh_00006,BSH_00006,Financing fee,64904,false,Financing fee,,BSH_00006,,,,BSH_NetAssets,BS14,
+403,cfs_00014,CFS_00014,Var. Personnel,64904,false,Var. Personnel,,CFS_00014,BSH_00010,-,,CFS_NonTradeWorkingCapitalVariation,CFS15100,
+103,bsh_00008,BSH_00008,Trade receivables,64904,false,Trade receivables,,BSH_00008,CFS_00011,,,BSH_TradeWorkingCapital,BS15-002,
+104,bsh_00009,BSH_00009,Trade payables,64904,false,Trade payables,,BSH_00009,CFS_00012,,,BSH_TradeWorkingCapital,BS15-003,
+280,pnl_00176,PNL_00176,Produits financiers Groupe,64904,false,Produits financiers Groupe,,PNL_00176,,,OpMP_FinancialResult,PNL_ProduitsEtChargesFinancieres,U1-001,OpxY_UEBITDA
+421,cfs_00006,CFS_00006,Current tax,64904,false,Current tax,,CFS_00006,BSH_00012,-,,CFS_TaxExpenseIncome,CFS13310,
+432,cfs_00007,CFS_00007,Deferred tax,64904,false,Deferred tax,,CFS_00007,BSH_00017,-,,CFS_TaxExpenseIncome,CFS13320,
+429,cfs_00009,CFS_00009,Tax paid CIT,64904,false,Tax paid CIT,,CFS_00009,BSH_00012,-,,CFS_TaxPaid,CFS13510,
+409,cfs_00010,CFS_00010,Tax paid on dividends,64904,false,Tax paid on dividends,,CFS_00010,BSH_00012,-,,CFS_TaxPaid,CFS13520,
+373,cfs_00040,CFS_00040,Maximum dividend with distribution limits,64904,false,Maximum dividend with distribution limits,,CFS_00040,,,,CFS_FinalDividendPaid,CFS31112,
+426,opmb,OpMB,Balance Sheet,64904,false,Balance Sheet,,OpMB,,,,OpM,OpM3,
+375,cfs_00038,CFS_00038,Equity investments / divestments,64904,false,Equity investments / divestments,,CFS_00038,BSH_00003,-,,CFS_FreeCashFlow,CFS22000,
+505,pnl_00129,PNL_00129,TF,64904,false,TF,,PNL_00129,,,OpMP_BusinessTaxes,PNL_TaxesDAffaires,O5-004,OpxY_FraisExploitationInp
+107,bsh_00007,BSH_00007,Inventory,64904,false,Inventory,,BSH_00007,CFS_00013,,,BSH_TradeWorkingCapital,BS15-001,
+169,pnl_00037,PNL_00037,Ventes gaz,64904,false,Ventes gaz,,PNL_00037,,,OpMP_TRCustomersBalance,PNL_AchatVenteGazEquilibrage,C35-004,OpxY_ChiffreAffaireInp
+174,pnl_00035,PNL_00035,Variation Stock gaz Expéditeurs TR,64904,false,Variation Stock gaz Expéditeurs TR,,PNL_00035,,,OpMP_TRCustomersBalance,PNL_AchatVenteGazEquilibrage,C35-002,OpxY_ChiffreAffaireInp
+160,pnl_fraisdestockage,PNL_FraisDeStockage,Frais de stockage,64904,false,Frais de stockage,Eco_CRE_TRA_STO_34¦OpXC_DOP¦OpXC_DOT,PNL_FraisDeStockage,,,,PNL_EtudesEtAutresDepensesLieesALExploitation,O47,
+268,pnl_00169,PNL_00169,ELIMINATION INTRA-CO TR,64904,false,ELIMINATION INTRA-CO TR,,PNL_00169,,,OpMP_IntracoEliminationsOpEx,PNL_ChargesEliminationIntraCo,QA-001,OpxY_FraisExploitationInp
+180,pnl_00044,PNL_00044,Compression gazière de gaz,64904,false,Compression gazière de gaz,,PNL_00044,,,OpMP_Energy,PNL_Gaz,O11-001,OpxY_EnergieInp
+181,pnl_00165,PNL_00165,Autres prestations assistance & honoraires,64904,false,Autres prestations assistance & honoraires,,PNL_00165,,,OpMP_CentralCosts,PNL_AutresPrestationsAssistanceHonoraires,Q7-001,OpxY_FraisStructureInp
+182,pnl_00043,PNL_00043,ELIMINATION INTRA-CO TR,64904,false,ELIMINATION INTRA-CO TR,,PNL_00043,,,OpMP_IntracoEliminationsRevenue,PNL_ChiffreDAffairesEliminationIntraCo,C4-002,OpxY_ChiffreAffaireInp
+184,pnl_00042,PNL_00042,ELIMINATION INTRA-CO ST,64904,false,ELIMINATION INTRA-CO ST,,PNL_00042,,,OpMP_IntracoEliminationsRevenue,PNL_ChiffreDAffairesEliminationIntraCo,C4-001,OpxY_ChiffreAffaireInp
+165,pnl_00039,PNL_00039,Autres (Pression TEGHF),64904,false,Autres (Pression TEGHF),,PNL_00039,,,OpMP_RevenueOthers,PNL_ChiffreDAffairesAntiCTL,C36-002,OpxY_ChiffreAffaireInp
+210,pnl_00146,PNL_00146,Transform - Projets FS,64904,false,Transform - Projets FS,,PNL_00146,,,OpMP_CentralCosts,PNL_FraisDeStructureTransform,Q21-003,OpxY_FraisStructureInpSI
+383,cfs_00031,CFS_00031,Transform - Projets,64904,false,Transform - Projets,,CFS_00031,,,DTDP,CFS_SystemedInformation,CFS21622,
+436,pnl_fraisdestructuretransform,PNL_FraisDeStructureTransform,Transform FS,64904,false,Transform FS,,PNL_FraisDeStructureTransform,,,,PNL_GestionDesInfrastructuresInformatiquesApplicationsDEntreprise,Q21,
+1124,sap_t6999,SAP_T6999,Cpt Tech 6999,64904,false,Cpt Tech 6999,,SAP_T6999,,,,SAP_S4_Technical,SAP_T6999,
+213,pnl_00145,PNL_00145,Transform - Etudes conceptuelles FS,64904,false,Transform - Etudes conceptuelles FS,,PNL_00145,,,OpMP_CentralCosts,PNL_FraisDeStructureTransform,Q21-002,OpxY_FraisStructureInpSI
+215,pnl_00144,PNL_00144,Transform - Etudes d'opportunités,64904,false,Transform - Etudes d'opportunités,,PNL_00144,,,OpMP_CentralCosts,PNL_FraisDeStructureTransform,Q21-001,OpxY_FraisStructureInpSI
+224,pnl_00150,PNL_00150,Frais de déplacement et Missions,64904,false,Frais de déplacement et Missions,,PNL_00150,,,OpMP_CentralCosts,PNL_FraisDeDeplacementEtMissions,Q3-001,OpxY_FraisStructureInp
+233,pnl_00179,PNL_00179,Intérêts long terme Hors Groupe,64904,false,Intérêts long terme Hors Groupe,,PNL_00179,,,OpMP_FinancialResult,PNL_ProduitsEtChargesFinancieres,U1-004,OpxY_UEBITDA
+235,pnl_00178,PNL_00178,Intérêts long terme Groupe,64904,false,Intérêts long terme Groupe,,PNL_00178,,,OpMP_FinancialResult,PNL_ProduitsEtChargesFinancieres,U1-003,OpxY_UEBITDA
+237,pnl_00177,PNL_00177,Produits financiers Hors Groupe,64904,false,Produits financiers Hors Groupe,,PNL_00177,,,OpMP_FinancialResult,PNL_ProduitsEtChargesFinancieres,U1-002,OpxY_UEBITDA
+242,pnl_00186,PNL_00186,Impôt sur dividendes,64904,false,Impôt sur dividendes,,PNL_00186,,,OpMP_IncomeTax,PNL_ImpotsSurLeRevenu,W-003,OpxY_UEBITDA
+201,pnl_00029,PNL_00029,Achat/vente de gaz Equilibrage,64904,false,Achat/vente de gaz Equilibrage,,PNL_00029,,,OpMP_OtherIncome,PNL_AutresRecettes,C26-002,OpxY_ChiffreAffaireInp
+203,pnl_00028,PNL_00028,Pénalités,64904,false,Pénalités,,PNL_00028,,,OpMP_OtherIncome,PNL_AutresRecettes,C26-001,OpxY_ChiffreAffaireInp
+244,pnl_00185,PNL_00185,Impôt différé,64904,false,Impôt différé,,PNL_00185,,,OpMP_DeferredTax,PNL_ImpotsSurLeRevenu,W-002,OpxY_UEBITDA
+246,pnl_00184,PNL_00184,IS social,64904,false,IS social,,PNL_00184,,,OpMP_IncomeTax,PNL_ImpotsSurLeRevenu,W-001,OpxY_UEBITDA
+250,pnl_00182,PNL_00182,Amortissements des frais financiers,64904,false,Amortissements des frais financiers,,PNL_00182,,,OpMP_FinancingFeeAmortisation,PNL_AmortissementsDesFraisFinanciers,U2-001,OpxY_UEBITDA
+252,pnl_00181,PNL_00181,Intérêts court terme Hors Groupe,64904,false,Intérêts court terme Hors Groupe,,PNL_00181,,,OpMP_FinancialResult,PNL_ProduitsEtChargesFinancieres,U1-006,OpxY_UEBITDA
+254,pnl_00180,PNL_00180,Intérêts court terme Groupe,64904,false,Intérêts court terme Groupe,,PNL_00180,,,OpMP_FinancialResult,PNL_ProduitsEtChargesFinancieres,U1-005,OpxY_UEBITDA
+265,pnl_00049,PNL_00049,Ventes achats expéditeur,64904,false,Ventes achats expéditeur,,PNL_00049,,,OpMP_Energy,PNL_Gaz,O11-006,OpxY_EnergieInp
+267,pnl_00048,PNL_00048,EBT : Ecart bilan Technique,64904,false,EBT : Ecart bilan Technique,,PNL_00048,,,OpMP_Energy,PNL_Gaz,O11-005,OpxY_EnergieInp
+270,pnl_00047,PNL_00047,Pertes diffuses,64904,false,Pertes diffuses,,PNL_00047,,,OpMP_Energy,PNL_Gaz,O11-004,OpxY_EnergieInp
+274,pnl_00046,PNL_00046,Accident,64904,false,Accident,,PNL_00046,,,OpMP_Energy,PNL_Gaz,O11-003,OpxY_EnergieInp
+277,pnl_00045,PNL_00045,Venting,64904,false,Venting,,PNL_00045,,,OpMP_Energy,PNL_Gaz,O11-002,OpxY_EnergieInp
+278,pnl_00166,PNL_00166,Service de Courrier et Reprographie,64904,false,Service de Courrier et Reprographie,,PNL_00166,,,OpMP_CentralCosts,PNL_FraisDeStructureDivers,Q8-001,OpxY_FraisStructureInp
+243,pnl_00064,PNL_00064,Réparations compteurs,64904,false,Réparations compteurs,,PNL_00064,,,OpMP_MajorMaintenance,PNL_AutresGrosEntretiens,O2114-010,OpxY_FraisExploitationInp
+285,pnl_00174,PNL_00174,Produits Exceptionnels,64904,false,Produits Exceptionnels,,PNL_00174,,,OpMP_ExceptionalResult,PNL_ResultatExceptionnel,S-001,OpxY_UEBITDA
+286,pnl_00052,PNL_00052,TICPE,64904,false,TICPE,,PNL_00052,,,OpMP_Energy,PNL_TICPE,O14-001,OpxY_EnergieInp
+287,pnl_00173,PNL_00173,AMORTISSEMENTS SUBVENTIONS,64904,false,AMORTISSEMENTS SUBVENTIONS,,PNL_00173,,,OpMP_DepreciationAndAmortization,PNL_Amortissement,R-003,CapY_Amortissement
+288,pnl_00051,PNL_00051,Coûts CO2,64904,false,Coûts CO2,,PNL_00051,,,OpMP_Energy,PNL_CO2,O13-001,OpxY_EnergieInp
+289,pnl_00172,PNL_00172,AMORTISSEMENTS INCORPORELS,64904,false,AMORTISSEMENTS INCORPORELS,,PNL_00172,,,OpMP_DepreciationAndAmortization,PNL_Amortissement,R-002,CapY_Amortissement
+290,pnl_00050,PNL_00050,Compression électrique de gaz,64904,false,Compression électrique de gaz,,PNL_00050,,,OpMP_Energy,PNL_Electricite,O12-001,OpxY_EnergieInp
+291,pnl_00171,PNL_00171,AMORTISSEMENTS CORPORELS,64904,false,AMORTISSEMENTS CORPORELS,,PNL_00171,,,OpMP_DepreciationAndAmortization,PNL_Amortissement,R-001,CapY_Amortissement
+319,pnl_00189,PNL_00189,"Provisions CT (créances douteuses, …)",64904,false,"Provisions CT (créances douteuses, …)",,PNL_00189,,,OpMP_ProvisionAndOther,PNL_ProvisionsCT,O62-001,OpxY_FraisExploitationInp
+1125,sap_t7999,SAP_T7999,Cpt Tech 7999,64904,false,Cpt Tech 7999,,SAP_T7999,,,,SAP_S4_Technical,SAP_T7999,
+336,pnl_00192,PNL_00192,Charges Exceptionnelles,64904,false,Charges Exceptionnelles,,PNL_00192,,,OpMP_ExceptionalResult,PNL_ResultatExceptionnel,S-002,OpxY_UEBITDA
+338,pnl_00191,PNL_00191,C3S,64904,false,C3S,,PNL_00191,,,OpMP_BusinessTaxes,PNL_TaxesDAffaires,O5-005,OpxY_FraisExploitationInp
+339,pnl_00190,PNL_00190,Provisions LT,64904,false,Provisions LT,,PNL_00190,,,OpMP_ProvisionAndOther,PNL_ProvisionsLT,O63-001,OpxY_FraisExploitationInp
+335,pnl_00071,PNL_00071,Inspection par mesures électriques,64904,false,Inspection par mesures électriques,,PNL_00071,,,OpMP_SafetyEnvironment,PNL_Inspection,O223-001,OpxY_FraisExploitationInp
+477,pnl_00139,PNL_00139,Mise à disposition Fournitures,64904,false,Mise à disposition Fournitures,,PNL_00139,,,OpMP_CentralCosts,PNL_EntretienDesLocaux,Q31-005,OpxY_FraisStructureInp
+480,pnl_00138,PNL_00138,Mise à disposition Utilités,64904,false,Mise à disposition Utilités,,PNL_00138,,,OpMP_CentralCosts,PNL_EntretienDesLocaux,Q31-004,OpxY_FraisStructureInp
+482,pnl_00137,PNL_00137,Entretien espaces verts,64904,false,Entretien espaces verts,,PNL_00137,,,OpMP_CentralCosts,PNL_EntretienDesLocaux,Q31-003,OpxY_FraisStructureInp
+484,pnl_00136,PNL_00136,Nettoyage des locaux,64904,false,Nettoyage des locaux,,PNL_00136,,,OpMP_CentralCosts,PNL_EntretienDesLocaux,Q31-002,OpxY_FraisStructureInp
+487,pnl_00135,PNL_00135,Entretien des locaux,64904,false,Entretien des locaux,,PNL_00135,,,OpMP_CentralCosts,PNL_EntretienDesLocaux,Q31-001,OpxY_FraisStructureInp
+489,pnl_00134,PNL_00134,Sécurisation des locaux,64904,false,Sécurisation des locaux,,PNL_00134,,,OpMP_CentralCosts,PNL_SecurisationDesLocaux,Q12-001,OpxY_FraisStructureInp
+1157,pnl_venteservices,PNL_VenteServices,Vente de Services,64904,false,Vente de Services,,PNL_VenteServices,,,,PNL_RevenuNonRegule,C36b-002,
+491,pnl_00133,PNL_00133,Mise à disposition des locaux,64904,false,Mise à disposition des locaux,,PNL_00133,,,OpMP_CentralCosts,PNL_MiseAdispositionDesLocaux,Q11-001,OpxY_FraisStructureInp
+494,pnl_00143,PNL_00143,Entretien & Réparations Flotte,64904,false,Entretien & Réparations Flotte,,PNL_00143,,,OpMP_CentralCosts,PNL_GestionDeLaFlotte,Q14-003,OpxY_FraisStructureInp
+496,pnl_00142,PNL_00142,Fonctionnement de la Flotte,64904,false,Fonctionnement de la Flotte,,PNL_00142,,,OpMP_CentralCosts,PNL_GestionDeLaFlotte,Q14-002,OpxY_FraisStructureInp
+498,pnl_00141,PNL_00141,Mise à disposition de la Flotte,64904,false,Mise à disposition de la Flotte,,PNL_00141,,,OpMP_CentralCosts,PNL_GestionDeLaFlotte,Q14-001,OpxY_FraisStructureInp
+508,pnl_00128,PNL_00128,CVAE,64904,false,CVAE,,PNL_00128,,,OpMP_BusinessTaxes,PNL_TaxesDAffaires,O5-003,OpxY_FraisExploitationInp
+510,pnl_00127,PNL_00127,CFE,64904,false,CFE,,PNL_00127,,,OpMP_BusinessTaxes,PNL_TaxesDAffaires,O5-002,OpxY_FraisExploitationInp
+512,pnl_00126,PNL_00126,IFER,64904,false,IFER,,PNL_00126,,,OpMP_BusinessTaxes,PNL_TaxesDAffaires,O5-001,OpxY_FraisExploitationInp
+526,pnl_00130,PNL_00130,Autres,64904,false,Autres,,PNL_00130,,,OpMP_BusinessTaxes,PNL_TaxesDAffaires,O5-006,OpxY_FraisExploitationInp
+563,pnl_00204,PNL_00204,Documentation,64904,false,Documentation,,PNL_00204,,,OpMP_CentralCosts,PNL_FraisDeStructureDivers,Q8-011,OpxY_FraisStructureInp
+564,pnl_00205,PNL_00205,Cotisations associations,64904,false,Cotisations associations,,PNL_00205,,,OpMP_CentralCosts,PNL_FraisDeStructureDivers,Q8-012,OpxY_FraisStructureInp
+282,pnl_00175,PNL_00175,Amortissements Dérogatoires,64904,false,Amortissements Dérogatoires,,PNL_00175,,,OpMP_AcceleratedDepreciation,PNL_AmortissementsDerogatoires,T-001,CapY_Amortissement
+167,pnl_00038,PNL_00038,Capacité stockage (note débit),64904,false,Capacité stockage (note débit),,PNL_00038,,,OpMP_RevenueOthers,PNL_ChiffreDAffairesAntiCTL,C36-001,OpxY_ChiffreAffaireInp
+293,pnl_00170,PNL_00170,ELIMINATION INTRA-CO ST,64904,false,ELIMINATION INTRA-CO ST,,PNL_00170,,,OpMP_IntracoEliminationsOpEx,PNL_ChargesEliminationIntraCo,QA-002,OpxY_FraisExploitationInp
+1091,sap_s4_technical,SAP_S4_Technical,SAP Activités Techniques,64904,false,SAP Activités Techniques,,SAP_S4_Technical,,,,STA_Statistic,SAP_S4_Technical,
+205,pnl_00027,PNL_00027,Protocole stockage (note de débit),64904,false,Protocole stockage (note de débit),,PNL_00027,,,OpMP_StorageCapacitiesSold,PNL_CapacitesDeStockageVenduesATR,C25-001,OpxY_ChiffreAffaireInp
+207,pnl_00026,PNL_00026,CTL (note de débit),64904,false,CTL (note de débit),,PNL_00026,,,OpMP_CompressorCapacitiesSold,PNL_CTLCapaciteCompressionvenduesATR,C24-001,OpxY_ChiffreAffaireInp
+209,pnl_00025,PNL_00025,Service additionnel,64904,false,Service additionnel,,PNL_00025,,,OpMP_AdditionalServices,PNL_ServicesAdditionnels,C23-001,OpxY_ChiffreAffaireInp
+211,pnl_00024,PNL_00024,Compensation,64904,false,Compensation,,PNL_00024,,,OpMP_CapacitiesRevenues,PNL_ATSCompensation,C22-001,OpxY_ChiffreAffaireInp
+214,pnl_00023,PNL_00023,Capacités,64904,false,Capacités,,PNL_00023,,,OpMP_CapacitiesRevenues,PNL_ATSCapacites,C21-001,OpxY_ChiffreAffaireInp
+216,pnl_00033,PNL_00033,Remboursement externalisation CREA,64904,false,Remboursement externalisation CREA,,PNL_00033,,,OpMP_RevenueOthers,PNL_RemboursementExternalisationCREA,C34-001,OpxY_ChiffreAffaireInp
+218,pnl_00032,PNL_00032,Subvention exploitation,64904,false,Subvention exploitation,,PNL_00032,,,OpMP_RevenueOthers,PNL_SubventionsExploitation,C33-001,OpxY_ChiffreAffaireInp
+220,pnl_00031,PNL_00031,Prestations à tiers,64904,false,Prestations à tiers,,PNL_00031,,,OpMP_RevenueServicesTo3rdParties,PNL_PrestationsATiers,C32-001,OpxY_ChiffreAffaireInp
+222,pnl_00030,PNL_00030,En cours prestations (facture client),64904,false,En cours prestations (facture client),,PNL_00030,,,OpMP_RevenueOthers,PNL_ProductionStockee,C31-001,OpxY_ChiffreAffaireInp
+231,pnl_00059,PNL_00059,Gros entretien compression Lias,64904,false,Gros entretien compression Lias,,PNL_00059,,,OpMP_MajorMaintenance,PNL_GrosEntretienCompression,O2113-004,OpxY_FraisExploitationInp
+232,pnl_00058,PNL_00058,Gros entretien compression Barbaira,64904,false,Gros entretien compression Barbaira,,PNL_00058,,,OpMP_MajorMaintenance,PNL_GrosEntretienCompression,O2113-003,OpxY_FraisExploitationInp
+234,pnl_00057,PNL_00057,Gros entretien compression Montauban,64904,false,Gros entretien compression Montauban,,PNL_00057,,,OpMP_MajorMaintenance,PNL_GrosEntretienCompression,O2113-002,OpxY_FraisExploitationInp
+236,pnl_00056,PNL_00056,Gros entretien compression Mont,64904,false,Gros entretien compression Mont,,PNL_00056,,,OpMP_MajorMaintenance,PNL_GrosEntretienCompression,O2113-001,OpxY_FraisExploitationInp
+239,pnl_00066,PNL_00066,Maintenance curative,64904,false,Maintenance curative,,PNL_00066,,,OpMP_TechnicalOperations,PNL_MaintenanceCurative,O212-001,OpxY_FraisExploitationInp
+245,pnl_00063,PNL_00063,Gros entretien aménagements,64904,false,Gros entretien aménagements,,PNL_00063,,,OpMP_MajorMaintenance,PNL_AutresGrosEntretiens,O2114-001,OpxY_FraisExploitationInp
+247,pnl_00062,PNL_00062,Gros entretien compression Lussagnet,64904,false,Gros entretien compression Lussagnet,,PNL_00062,,,OpMP_MajorMaintenance,PNL_GrosEntretienCompression,O2113-007,OpxY_FraisExploitationInp
+248,pnl_00061,PNL_00061,Gros entretien compression AGU,64904,false,Gros entretien compression AGU,,PNL_00061,,,OpMP_MajorMaintenance,PNL_GrosEntretienCompression,O2113-006,OpxY_FraisExploitationInp
+251,pnl_00060,PNL_00060,Gros entretien compression Sauveterre,64904,false,Gros entretien compression Sauveterre,,PNL_00060,,,OpMP_MajorMaintenance,PNL_GrosEntretienCompression,O2113-005,OpxY_FraisExploitationInp
+271,pnl_00168,PNL_00168,Prestation Groupe - Opex,64904,false,Prestation Groupe - Opex,,PNL_00168,,,OpMP_CentralCosts,PNL_PrestationsIntraGroupe,Q9-001,OpxY_FraisStructureInp
+279,pnl_00055,PNL_00055,Peinture / Sablage,64904,false,Peinture / Sablage,,PNL_00055,,,OpMP_TechnicalOperations,PNL_PeintureSablage,O221-001,OpxY_FraisExploitationInp
+281,pnl_00054,PNL_00054,Entretien général du réseau,64904,false,Entretien général du réseau,,PNL_00054,,,OpMP_TechnicalOperations,PNL_EntretienGeneralDuReseau,O2112-001,OpxY_FraisExploitationInp
+284,pnl_00053,PNL_00053,Maintenance préventive,64904,false,Maintenance préventive,,PNL_00053,,,OpMP_TechnicalOperations,PNL_MaintenancePreventive,O2111-001,OpxY_FraisExploitationInp
+300,pnl_00079,PNL_00079,Réhabilitation sites,64904,false,Réhabilitation sites,,PNL_00079,,,OpMP_OtherRepairsAndDamages,PNL_RecuperationSuiteAInspection,O225-002,OpxY_FraisExploitationInp
+302,pnl_00078,PNL_00078,Réparations suite à inspection,64904,false,Réparations suite à inspection,,PNL_00078,,,OpMP_OtherRepairsAndDamages,PNL_RecuperationSuiteAInspection,O225-001,OpxY_FraisExploitationInp
+304,pnl_00087,PNL_00087,Bouchage d'ouvrages de stockage,64904,false,Bouchage d'ouvrages de stockage,,PNL_00087,,,OpMP_OtherRepairsAndDamages,PNL_AbandonsEtBouchages,O24-002,OpxY_FraisExploitationInp
+305,pnl_00086,PNL_00086,Abandons d'ouvrages de transport,64904,false,Abandons d'ouvrages de transport,,PNL_00086,,,OpMP_OtherRepairsAndDamages,PNL_AbandonsEtBouchages,O24-001,OpxY_FraisExploitationInp
+306,pnl_00085,PNL_00085,Travaux de tiers à proximité,64904,false,Travaux de tiers à proximité,,PNL_00085,,,OpMP_SafetyEnvironment,PNL_Surveillance,O23-006,OpxY_FraisExploitationInp
+307,pnl_00084,PNL_00084,Traversées aériennes,64904,false,Traversées aériennes,,PNL_00084,,,OpMP_SafetyEnvironment,PNL_Surveillance,O23-005,OpxY_FraisExploitationInp
+308,pnl_00083,PNL_00083,Traversées sous-fluviales,64904,false,Traversées sous-fluviales,,PNL_00083,,,OpMP_SafetyEnvironment,PNL_Surveillance,O23-004,OpxY_FraisExploitationInp
+309,pnl_00082,PNL_00082,Surveillance Réseau par aéronef,64904,false,Surveillance Réseau par aéronef,,PNL_00082,,,OpMP_SafetyEnvironment,PNL_Surveillance,O23-003,OpxY_FraisExploitationInp
+310,pnl_00081,PNL_00081,Surveillance Réseau au sol,64904,false,Surveillance Réseau au sol,,PNL_00081,,,OpMP_SafetyEnvironment,PNL_Surveillance,O23-002,OpxY_FraisExploitationInp
+311,pnl_00080,PNL_00080,Suivi Gisement,64904,false,Suivi Gisement,,PNL_00080,,,OpMP_SafetyEnvironment,PNL_Surveillance,O23-001,OpxY_FraisExploitationInp
+206,pnl_00148,PNL_00148,Operate - Support FS,64904,false,Operate - Support FS,,PNL_00148,,,OpMP_CentralCosts,PNL_FraisDeStructureOperate,Q23-002,OpxY_FraisStructureInpSI
+318,pnl_00068,PNL_00068,Intégrité Puits,64904,false,Intégrité Puits,,PNL_00068,,,OpMP_MajorMaintenance,PNL_TravauxDAmelioration,O213-002,OpxY_FraisExploitationInp
+320,pnl_00067,PNL_00067,Travaux d'amélioration,64904,false,Travaux d'amélioration,,PNL_00067,,,OpMP_MajorMaintenance,PNL_TravauxDAmelioration,O213-001,OpxY_FraisExploitationInp
+323,pnl_00077,PNL_00077,Excavation,64904,false,Excavation,,PNL_00077,,,OpMP_OtherRepairsAndDamages,PNL_Excavation,O224-001,OpxY_FraisExploitationInp
+325,pnl_00076,PNL_00076,Visite & Epreuves réglementaires,64904,false,Visite & Epreuves réglementaires,,PNL_00076,,,OpMP_SafetyEnvironment,PNL_Inspection,O223-006,OpxY_FraisExploitationInp
+327,pnl_00075,PNL_00075,Inspection installations de surface,64904,false,Inspection installations de surface,,PNL_00075,,,OpMP_SafetyEnvironment,PNL_Inspection,O223-005,OpxY_FraisExploitationInp
+328,pnl_00195,PNL_00195,Contrat d'interface PITD,64904,false,Contrat d'interface PITD,,PNL_00195,,,OpMP_ConnectionIncome,PNL_RedevancesRaccordement,C1231-004,OpxY_ChiffreAffaireInp
+329,pnl_00074,PNL_00074,Inspection appareils à pression,64904,false,Inspection appareils à pression,,PNL_00074,,,OpMP_SafetyEnvironment,PNL_Inspection,O223-004,OpxY_FraisExploitationInp
+330,pnl_00194,PNL_00194,Redevances GNV,64904,false,Redevances GNV,,PNL_00194,,,OpMP_ConnectionIncome,PNL_RedevancesRaccordement,C1231-003,OpxY_ChiffreAffaireInp
+331,pnl_00073,PNL_00073,Inspection par terrassement,64904,false,Inspection par terrassement,,PNL_00073,,,OpMP_SafetyEnvironment,PNL_Inspection,O223-003,OpxY_FraisExploitationInp
+333,pnl_00072,PNL_00072,Inspection par piston,64904,false,Inspection par piston,,PNL_00072,,,OpMP_SafetyEnvironment,PNL_Inspection,O223-002,OpxY_FraisExploitationInp
+337,pnl_00070,PNL_00070,Travaux - Protection cathodique,64904,false,Travaux - Protection cathodique,,PNL_00070,,,OpMP_SafetyEnvironment,PNL_ProtectionCathodique,O222-001,OpxY_FraisExploitationInp
+354,pnl_00099,PNL_00099,Etudes équipement / installation,64904,false,Etudes équipement / installation,,PNL_00099,,,OpMP_TechnicalOperations,PNL_EtudesEquipementInstallation,O413-001,OpxY_FraisExploitationInp
+355,pnl_00098,PNL_00098,Etudes procédés,64904,false,Etudes procédés,,PNL_00098,,,OpMP_TechnicalOperations,PNL_EtudesProcedes,O412-001,OpxY_FraisExploitationInp
+357,pnl_00097,PNL_00097,Etudes Réglementaires,64904,false,Etudes Réglementaires,,PNL_00097,,,OpMP_TechnicalOperations,PNL_Etudes,O411-005,OpxY_FraisExploitationInp
+358,pnl_00096,PNL_00096,Etudes Surveillance,64904,false,Etudes Surveillance,,PNL_00096,,,OpMP_TechnicalOperations,PNL_Etudes,O411-004,OpxY_FraisExploitationInp
+359,pnl_00095,PNL_00095,Etudes Inspection / Intégrité,64904,false,Etudes Inspection / Intégrité,,PNL_00095,,,OpMP_TechnicalOperations,PNL_Etudes,O411-003,OpxY_FraisExploitationInp
+360,pnl_00094,PNL_00094,Etudes Maintenance,64904,false,Etudes Maintenance,,PNL_00094,,,OpMP_TechnicalOperations,PNL_Etudes,O411-002,OpxY_FraisExploitationInp
+361,pnl_00093,PNL_00093,Etudes générales,64904,false,Etudes générales,,PNL_00093,,,OpMP_TechnicalOperations,PNL_Etudes,O411-001,OpxY_FraisExploitationInp
+362,pnl_00092,PNL_00092,Mises en conformité,64904,false,Mises en conformité,,PNL_00092,,,OpMP_MajorMaintenance,PNL_MisesEnConformite,O32-001,OpxY_FraisExploitationInp
+363,pnl_00091,PNL_00091,Autre,64904,false,Autre,,PNL_00091,,,OpMP_TechnicalOperations,PNL_ControleReglementaire,O31-002,OpxY_FraisExploitationInp
+364,pnl_00090,PNL_00090,Métrologie,64904,false,Métrologie,,PNL_00090,,,OpMP_TechnicalOperations,PNL_ControleReglementaire,O31-001,OpxY_FraisExploitationInp
+416,pnl_00203,PNL_00203,Repart congestion-Facture TEREGA à GRT,64904,false,Repart congestion-Facture TEREGA à GRT,,PNL_00203,,,OpMP_ChargesLieesALaLeveeDesCongestions,PNL_Congestion,C122-004,OpxY_ChiffreAffaireInp
+418,pnl_00202,PNL_00202,Vente de gaz congestion,64904,false,Vente de gaz congestion,,PNL_00202,,,OpMP_ChargesLieesALaLeveeDesCongestions,PNL_Congestion,C122-003,OpxY_ChiffreAffaireInp
+419,pnl_00201,PNL_00201,Repart congestion-Facture GRT à TEREGA,64904,false,Repart congestion-Facture GRT à TEREGA,,PNL_00201,,,OpMP_ChargesLieesALaLeveeDesCongestions,PNL_Congestion,C122-002,OpxY_ChiffreAffaireInp
+437,pnl_00119,PNL_00119,Tiers extérieurs,64904,false,Tiers extérieurs,,PNL_00119,,,OpMP_ServicesTo3rdParties,PNL_ServicesAuxTiers,O45-001,OpxY_FraisExploitationInp
+440,pnl_00116,PNL_00116,Operate - Support FE,64904,false,Operate - Support FE,,PNL_00116,,,OpMP_TechnicalOperations,PNL_FraisDExploitationOperate,O443-002,OpxY_FraisExploitationInpSI
+441,pnl_00115,PNL_00115,Operate - MCO FE,64904,false,Operate - MCO FE,,PNL_00115,,,OpMP_TechnicalOperations,PNL_FraisDExploitationOperate,O443-001,OpxY_FraisExploitationInpSI
+353,pnl_00089,PNL_00089,SINISTRES,64904,false,SINISTRES,,PNL_00089,,,OpMP_OtherRepairsAndDamages,PNL_AutresReparationsEtDommages,O25-001,OpxY_FraisExploitationInp
+1092,sap_t2310,SAP_T2310,IEC Corp - Technique,64904,false,IEC Corp - Technique,,SAP_T2310,,,,SAP_S4_Technical,SAP_T2310,
+1093,sap_t2320,SAP_T2320,IEC Incorp - Technique,64904,false,IEC Incorp - Technique,,SAP_T2320,,,,SAP_S4_Technical,SAP_T2320,
+1094,sap_t2999,SAP_T2999,Cpte de reprise immo,64904,false,Cpte de reprise immo,,SAP_T2999,,,,SAP_S4_Technical,SAP_T2999,
+447,pnl_00111,PNL_00111,Vêtements de travail & EPI,64904,false,Vêtements de travail & EPI,,PNL_00111,,,OpMP_TechnicalOperations,PNL_HygieneEtSanteDivers,O437-001,OpxY_FraisExploitationInp
+448,pnl_00121,PNL_00121,Ecarts sur stock magasin,64904,false,Ecarts sur stock magasin,,PNL_00121,,,OpMP_TechnicalOperations,PNL_GestionDuStock,O46-002,OpxY_FraisExploitationInp
+449,pnl_00120,PNL_00120,Variation stock de magasin,64904,false,Variation stock de magasin,,PNL_00120,,,OpMP_TechnicalOperations,PNL_GestionDuStock,O46-001,OpxY_FraisExploitationInp
+455,pnl_00109,PNL_00109,Développement durable,64904,false,Développement durable,,PNL_00109,,,OpMP_SafetyEnvironment,PNL_DeveloppementDurable,O435-001,OpxY_FraisExploitationInp
+456,pnl_00108,PNL_00108,Sureté,64904,false,Sureté,,PNL_00108,,,OpMP_SafetyEnvironment,PNL_Surete,O434-001,OpxY_FraisExploitationInp
+457,pnl_00107,PNL_00107,Qualité,64904,false,Qualité,,PNL_00107,,,OpMP_SafetyEnvironment,PNL_Qualite,O433-001,OpxY_FraisExploitationInp
+458,pnl_00106,PNL_00106,Environnement,64904,false,Environnement,,PNL_00106,,,OpMP_SafetyEnvironment,PNL_Environnement,O432-001,OpxY_FraisExploitationInp
+460,pnl_00105,PNL_00105,Sécurité,64904,false,Sécurité,,PNL_00105,,,OpMP_SafetyEnvironment,PNL_Securite,O431-001,OpxY_FraisExploitationInp
+461,pnl_00104,PNL_00104,Opérations de production,64904,false,Opérations de production,,PNL_00104,,,OpMP_TechnicalOperations,PNL_OperationsDeProduction,O423-001,OpxY_FraisExploitationInp
+462,pnl_00103,PNL_00103,Suivi nappe,64904,false,Suivi nappe,,PNL_00103,,,OpMP_SafetyEnvironment,PNL_DiversLiesALEploitation,O422-002,OpxY_FraisExploitationInp
+463,pnl_00102,PNL_00102,Divers liés à l'exploitation,64904,false,Divers liés à l'exploitation,,PNL_00102,,,OpMP_TechnicalOperations,PNL_DiversLiesALEploitation,O422-001,OpxY_FraisExploitationInp
+465,pnl_00101,PNL_00101,Assistance et Audits techniques,64904,false,Assistance et Audits techniques,,PNL_00101,,,OpMP_TechnicalOperations,PNL_AssistanceEtAuditsTechniques,O421-001,OpxY_FraisExploitationInp
+466,pnl_00100,PNL_00100,Mise à jour plans,64904,false,Mise à jour plans,,PNL_00100,,,OpMP_TechnicalOperations,PNL_MiseAJourPlans,O414-001,OpxY_FraisExploitationInp
+467,pnl_00110,PNL_00110,Hygiène et santé,64904,false,Hygiène et santé,,PNL_00110,,,OpMP_SafetyEnvironment,PNL_HygieneEtSante,O436-001,OpxY_FraisExploitationInp
+476,pnl_00018,PNL_00018,Redevances Biométhane,64904,false,Redevances Biométhane,,PNL_00018,,,OpMP_ConnectionIncome,PNL_RedevancesRaccordement,C1231-001,OpxY_ChiffreAffaireInp
+479,pnl_00017,PNL_00017,Pénalités liées au spread localisé,64904,false,Pénalités liées au spread localisé,,PNL_00017,,,OpMP_ATR,PNL_ATRAutresRecettes,C112-002,OpxY_ChiffreAffaireInp
+481,pnl_00016,PNL_00016,Revenu ITC,64904,false,Revenu ITC,,PNL_00016,,,OpMP_ATR,PNL_RevenuATRCapacites,C1112,OpxY_ChiffreAffaireInp
+483,pnl_00015,PNL_00015,Revenu PITT Premium,64904,false,Revenu PITT Premium,,PNL_00015,,,OpMP_ATR,PNL_ATRAutresRecettes,C112-001,OpxY_ChiffreAffaireInp
+485,pnl_00014,PNL_00014,Revenu PITS L,64904,false,Revenu PITS L,,PNL_00014,,,OpMP_ATR,PNL_ATRCapacitésHorsITC,C1111-007,OpxY_ChiffreAffaireInp
+488,pnl_00013,PNL_00013,Revenus PEG,64904,false,Revenus PEG,,PNL_00013,,,OpMP_ATR,PNL_ATRCapacitésHorsITC,C1111-003,OpxY_ChiffreAffaireInp
+490,pnl_00012,PNL_00012,Revenu PITT L,64904,false,Revenu PITT L,,PNL_00012,,,OpMP_ATR,PNL_ATRCapacitésHorsITC,C1111-002,OpxY_ChiffreAffaireInp
+493,pnl_00022,PNL_00022,Interconnexion & transit GDF Transport,64904,false,Interconnexion & transit GDF Transport,,PNL_00022,,,OpMP_InterconnectionAndTransitGRT,PNL_InterconnexionEtTransit,C124-001,OpxY_ChiffreAffaireInp
+495,pnl_00021,PNL_00021,Reliquat raccordement,64904,false,Reliquat raccordement,,PNL_00021,,,OpMP_ConnectionIncome,PNL_RecettesDeRaccordement,C1233,OpxY_ChiffreAffaireInp
+497,pnl_00020,PNL_00020,Redevances PIC,64904,false,Redevances PIC,,PNL_00020,,,OpMP_ConnectionIncome,PNL_RedevancesRaccordement,C1231-002,OpxY_ChiffreAffaireInp
+503,pnl_00009,PNL_00009,Cale tarifaire,64904,false,Cale tarifaire,,PNL_00009,,,OpMP_ATR,PNL_ATRCapacitésHorsITC,C1111-011,OpxY_ChiffreAffaireInp
+504,pnl_00008,PNL_00008,Revenu PIC,64904,false,Revenu PIC,,PNL_00008,,,OpMP_ATR,PNL_ATRCapacitésHorsITC,C1111-010,OpxY_ChiffreAffaireInp
+506,pnl_00007,PNL_00007,Revenu PITD,64904,false,Revenu PITD,,PNL_00007,,,OpMP_ATR,PNL_ATRCapacitésHorsITC,C1111-009,OpxY_ChiffreAffaireInp
+509,pnl_00006,PNL_00006,Revenu PS,64904,false,Revenu PS,,PNL_00006,,,OpMP_ATR,PNL_ATRCapacitésHorsITC,C1111-008,OpxY_ChiffreAffaireInp
+511,pnl_00005,PNL_00005,Revenu SET,64904,false,Revenu SET,,PNL_00005,,,OpMP_ATR,PNL_ATRCapacitésHorsITC,C1111-005,OpxY_ChiffreAffaireInp
+513,pnl_00004,PNL_00004,Revenu UBI,64904,false,Revenu UBI,,PNL_00004,,,OpMP_ATR,PNL_ATRCapacitésHorsITC,C1111-004,OpxY_ChiffreAffaireInp
+514,pnl_00125,PNL_00125,Autres (Pression TEGHF),64904,false,Autres (Pression TEGHF),,PNL_00125,,,OpMP_StorageExpenses,PNL_FraisDExploitationAntiCTL,O48-002,OpxY_FraisExploitationInp
+515,pnl_00003,PNL_00003,Revenu PITS E,64904,false,Revenu PITS E,,PNL_00003,,,OpMP_ATR,PNL_ATRCapacitésHorsITC,C1111-006,OpxY_ChiffreAffaireInp
+516,pnl_00124,PNL_00124,Capacité stockage (note débit),64904,false,Capacité stockage (note débit),,PNL_00124,,,OpMP_StorageExpenses,PNL_FraisDExploitationAntiCTL,O48-001,OpxY_FraisExploitationInp
+518,pnl_00123,PNL_00123,Protocole stockage (note de débit),64904,false,Protocole stockage (note de débit),,PNL_00123,,,OpMP_StorageExpenses,PNL_FraisDeStockage,O47-002,OpxY_FraisExploitationInp
+519,pnl_00001,PNL_00001,Revenu PITT E,64904,false,Revenu PITT E,,PNL_00001,,,OpMP_ATR,PNL_ATRCapacitésHorsITC,C1111-001,OpxY_ChiffreAffaireInp
+520,pnl_00122,PNL_00122,CTL (note de débit),64904,false,CTL (note de débit),,PNL_00122,,,OpMP_StorageExpenses,PNL_FraisDeStockage,O47-001,OpxY_FraisExploitationInp
+524,pnl_00010,PNL_00010,Reliquat N-1,64904,false,Reliquat N-1,,PNL_00010,,,OpMP_ATR,PNL_ATRCapacitésHorsITC,C1111-012,OpxY_ChiffreAffaireInp
+517,pnl_00002,PNL_00002,Reversement ITC,64904,false,Reversement ITC,,PNL_00002,,,OpMP_ReversementInterOperateur,PNL_RevenuATRCapacites,C1113,OpxY_ChiffreAffaireInp
+423,cfs_00004,CFS_00004,Interest expense / income,64904,false,Interest expense / income,,CFS_00004,BSH_00016,-,,CFS_InterestsTaxes,CFS13100,
+422,cfs_00005,CFS_00005,Interest paid / collected,64904,false,Interest paid / collected,,CFS_00005,BSH_00016,-,,CFS_InterestsTaxes,CFS13200,
+14,cfs_netresult,CFS_NetResult,Net Result,64904,false,Net Result,,CFS_NetResult,BSH_00026,+,,CFS_NetOperatingCashFlow,CFS10000,
+82,cfs_00044,CFS_00044,ORA interests paid,64904,false,ORA interests paid,,CFS_00044,BSH_00016,-,,CFS_EquityCashFlow,CFS31200,
+81,cfs_00045,CFS_00045,Capital injection / Share capital repayment,64904,false,Capital injection / Share capital repayment,,CFS_00045,BSH_00021,+,,CFS_EquityCashFlow,CFS31300,
+74,cfs_00050,CFS_00050,Derivative instruments,64904,false,Derivative instruments,,CFS_00050,BSH_00020,+,,CFS_Other,CFS42100,
+2,activite_root,Activite_Root,Activite (Root),64904,false,Activite (Root),,Activite_Root,,,,Activite_Root,0,
+5,bsh_tradeworkingcapital,BSH_TradeWorkingCapital,Trade working capital,64904,false,Trade working capital,,BSH_TradeWorkingCapital,,,,BSH_NetAssets,BS15,
+7,opmb_cashandcashequivalent,OpMB_CashAndCashEquivalent,Cash & cash equivalents,64904,false,Cash & cash equivalents,,OpMB_CashAndCashEquivalent,,,,OpMB_NetAssets,OpMB18,
+8,opmp_intracoeliminationsrevenue,OpMP_IntracoEliminationsRevenue,Intra-co eliminations,64904,false,Intra-co eliminations,,OpMP_IntracoEliminationsRevenue,,,,OpMP_Revenues,OpMP46,
+9,opmb_sharecapital,OpMB_ShareCapital,Share capital,64904,false,Share capital,,OpMB_ShareCapital,,,,OpMB_ShareCapitalAndPremium,OpMB211,
+10,opms_incometaxrate,OpMS_IncomeTaxRate,Income Tax rate,64904,false,Income Tax rate,,OpMS_IncomeTaxRate,,,,OpA,OpA2Tx1,
+11,activite_modello,Activite_Modello,"RESULTAT NET, BILAN, CASH FLOW",64904,false,"RESULTAT NET, BILAN, CASH FLOW",,Activite_Modello,,,,Activite_Root,M,
+13,sta_wkc_00006,STA_Wkc_00006,Net VAT rate,64904,false,Net VAT rate,%,STA_Wkc_00006,,,,STA_Wkc_Statistic,STA_Wkc_00006,
+15,sta_wkc_00005,STA_Wkc_00005,Social security agencies rate,64904,false,Social security agencies rate,%,STA_Wkc_00005,,,,STA_Wkc_Statistic,STA_Wkc_00005,
+522,pnl_00132,PNL_00132,Capitalisation,64904,false,Capitalisation,Eco_CRE_TRA_STO_40,PNL_00132,,,OpMP_Capitalisation,PNL_FraisDePersonnel,P2,OpxY_MasseSalarialeCapi
+58,pnl_diversliesalexploitation,PNL_DiversLiesALExploitation,Divers liés à l'exploitation (**),64904,false,Divers liés à l'exploitation (**),,PNL_DiversLiesALExploitation,,,OpMP_TechnicalOperations,PNL_DiversLiesALEploitation,O422-003**,OpxY_FraisExploitationInp
+16,sta_wkc_00004,STA_Wkc_00004,Unpaid salaries / personnel expenses in days,64904,false,Unpaid salaries / personnel expenses in days,Days,STA_Wkc_00004,,,,STA_Wkc_Statistic,STA_Wkc_00004,
+17,sta_wkc_00003,STA_Wkc_00003,DIO excluding VAT,64904,false,DIO excluding VAT,Days,STA_Wkc_00003,,,,STA_Wkc_Statistic,STA_Wkc_00003,
+18,sta_wkc_00002,STA_Wkc_00002,DPO excluding VAT,64904,false,DPO excluding VAT,Days,STA_Wkc_00002,,,,STA_Wkc_Statistic,STA_Wkc_00002,
+19,cfs_finaldividendpaid,CFS_FinalDividendPaid,Final dividend paid (distrubtion of Y-1 result),64904,false,Final dividend paid (distrubtion of Y-1 result),,CFS_FinalDividendPaid,,,,CFS_TotalDividendsPaid,CFS31110,
+20,sta_wkc_00001,STA_Wkc_00001,DSO excluding VAT,64904,false,DSO excluding VAT,Days,STA_Wkc_00001,,,,STA_Wkc_Statistic,STA_Wkc_00001,
+21,opms_taxatentitylevel,OpMS_TaxAtEntityLevel,Tax at Entity Level,64904,false,Tax at Entity Level,,OpMS_TaxAtEntityLevel,,,,OpMP,OpMP_Tax2,
+23,opmp_otherrevenues,OpMP_OtherRevenues,Other revenues,64904,false,Other revenues,,OpMP_OtherRevenues,,,,OpMP_Revenues,OpMP45,
+26,opmp_ebit,OpMP_EBIT,EBIT,64904,false,EBIT,,OpMP_EBIT,,,,OpMP_NetResult,OpMPN1,
+27,opmb_financingfee,OpMB_FinancingFee,Financing fee,64904,false,Financing fee,,OpMB_FinancingFee,,,,OpMB_NetAssets,OpMB116,
+28,c,C,"TM1 CR, INVEST",64904,false,"TM1 CR, INVEST",,C,,,,Activite_Root,T,
+30,opms_taxadjustment,OpMS_TaxAdjustment,Tax Adjustment (C3S..),64904,false,Tax Adjustment (C3S..),,OpMS_TaxAdjustment,,,,OpMP,OpMP_Tax7,
+31,sta_fin_statistic,STA_Fin_Statistic,Fin Statistic,64904,false,Fin Statistic,,STA_Fin_Statistic,,,,STA_Statistic,STA_Fin_Statistic,
+32,opmb_netassets,OpMB_NetAssets,Net assets,64904,false,Net assets,,OpMB_NetAssets,,,,OpMB,OpMB1,
+37,opms_cpiinflation,OpMS_CPIInflation,CPI inflation - Index 2018,64904,false,CPI inflation - Index 2018,,OpMS_CPIInflation,,,,OpA,OpA1,
+38,pnl_gaz,PNL_Gaz,GAZ,64904,false,GAZ,,PNL_Gaz,,,,PNL_Energie,O11,
+1095,sap_t4019,SAP_T4019,Cpt Tech Reprise FRN,64904,false,Cpt Tech Reprise FRN,,SAP_T4019,,,,SAP_S4_Technical,SAP_T4019,
+44,opms_taxdeductibleprovision,OpMS_TaxDeductibleProvision,"Tax deductible provision (CAA,MIP)",64904,false,"Tax deductible provision (CAA,MIP)",,OpMS_TaxDeductibleProvision,,,,OpMP,OpMP_Tax8,
+45,pnl_chiffredaffaires,PNL_ChiffreDAffaires,CHIFFRE D'AFFAIRES,64904,false,CHIFFRE D'AFFAIRES,,PNL_ChiffreDAffaires,,,,PNL_EBITDA,C,
+92,bsh_00018,BSH_00018,Financial debt,64904,false,Financial debt,,BSH_00018,,,,BSH_NetAssets,BS1A,
+48,opmb_socialsecurityagencies,OpMB_SocialSecurityAgencies,Social security agencies,64904,false,Social security agencies,,OpMB_SocialSecurityAgencies,,,,OpMB_NonTradeWorkingCapital,OpMB132,
+55,opms_thresholdforinterest100pcttaxdeductible,OpMS_ThresholdForInterest100PctTaxDeductible,Threshold for interest 100% tax deductible,64904,false,Threshold for interest 100% tax deductible,,OpMS_ThresholdForInterest100PctTaxDeductible,,,,OpA,OpA2Tx9,
+59,opmb_accruedinterest,OpMB_AccruedInterest,Accrued interest,64904,false,Accrued interest,,OpMB_AccruedInterest,,,,OpMB_NetAssets,OpMB15,
+60,pnl_assistanceetauditstechniques,PNL_AssistanceEtAuditsTechniques,Assistance et Audits techniques,64904,false,Assistance et Audits techniques,,PNL_AssistanceEtAuditsTechniques,,,,PNL_PrestationsAutresDepensesLieesALEploitation,O421,
+61,pnl_prestationsdestockage,PNL_PrestationsDeStockage,PRESTATIONS DE STOCKAGE,64904,false,PRESTATIONS DE STOCKAGE,,PNL_PrestationsDeStockage,,,,PNL_ChiffreDAffaires,C2,
+62,opmb_vat,OpMB_VAT,VAT,64904,false,VAT,,OpMB_VAT,,,,OpMB_NonTradeWorkingCapital,OpMB134,
+24,pnl_capacitesdestockagevenduesatr,PNL_CapacitesDeStockageVenduesATR,CAPACITES DE STOCKAGE VENDUES A TR,64904,false,CAPACITES DE STOCKAGE VENDUES A TR,Eco_CRE_STO_13,PNL_CapacitesDeStockageVenduesATR,,,,PNL_PrestationsDeStockage,C25,
+34,pnl_fraisdepersonnel,PNL_FraisDePersonnel,FRAIS DE PERSONNEL,64904,false,FRAIS DE PERSONNEL,Eco_CRE_TRA_STO_38,PNL_FraisDePersonnel,,,,PNL_EBITDA,P,
+35,pnl_interconnexionettransit,PNL_InterconnexionEtTransit,INTERCONNEXION ET TRANSIT,64904,false,INTERCONNEXION ET TRANSIT,Eco_CRE_TRA_11,PNL_InterconnexionEtTransit,,,,PNL_RevenuHorsATR,C124,
+22,pnl_provisionetautres,PNL_ProvisionEtAutres,Provision et autres,64904,false,Provision et autres,Eco_CRE_TRA_STO_37¦OpXC_DOP¦OpXC_DOT,PNL_ProvisionEtAutres,,,,PNL_FraisDExploitation,O6,
+66,opmb_tangibleassets,OpMB_TangibleAssets,Tangible assets,64904,false,Tangible assets,,OpMB_TangibleAssets,,,,OpMB_FixedAssets,OpMB112,
+68,pnl_resultatfinancier,PNL_ResultatFinancier,RESULTAT FINANCIER,64904,false,RESULTAT FINANCIER,,PNL_ResultatFinancier,,,,PNL_UEBIT,U,
+70,cfs_00053,CFS_00053,Cash at end of the period,64904,false,Cash at end of the period,,CFS_00053,,,,CFS_CashFlowStatement,CFS70000,
+56,pnl_divers,PNL_Divers,DIVERS (AUTRES REVENUS),64904,false,DIVERS (AUTRES REVENUS),,PNL_Divers,,,,PNL_AutresRevenus,C37,
+53,opmp_dividendreceived,OpMP_DividendReceived,Dividend received,64904,false,Dividend received,,OpMP_DividendReceived,,,,OpMP_NetResult,OpMPN42,
+72,cfs_00052,CFS_00052,Cash at beginning of period,64904,false,Cash at beginning of period,,CFS_00052,,,,CFS_CashFlowStatement,CFS60000,
+73,cfs_00051,CFS_00051,Net Cash Flow After Debt,64904,false,Net Cash Flow After Debt,,CFS_00051,,,,CFS_CashFlowStatement,CFS50000,
+75,opmb_fixedassets,OpMB_FixedAssets,Fixed assets,64904,false,Fixed assets,,OpMB_FixedAssets,,,,OpMB_NetAssets,OpMB11,
+79,pnl_atrautresrecettes,PNL_ATRAutresRecettes,ATR - Autres recettes,64904,false,ATR - Autres recettes,,PNL_ATRAutresRecettes,,,,PNL_RevenuATR,C112,
+84,opmp_energy,OpMP_Energy,Energy,64904,false,Energy,,OpMP_Energy,,,,OpMP_OperationalExpenses,OpMP51,
+86,bsh_fixedassets,BSH_FixedAssets,Fixed assets,64904,false,Fixed assets,,BSH_FixedAssets,,,,BSH_NetAssets,BS12,
+87,pnl_amortissementsdesfraisfinanciers,PNL_AmortissementsDesFraisFinanciers,AMORTISSEMENTS DES FRAIS FINANCIERS,64904,false,AMORTISSEMENTS DES FRAIS FINANCIERS,,PNL_AmortissementsDesFraisFinanciers,,,,PNL_ResultatFinancier,U2,
+90,bsh_00019,BSH_00019,Cash & cash equivalents,64904,false,Cash & cash equivalents,,BSH_00019,,,,BSH_NetAssets,BS1B,
+91,bsh_00017,BSH_00017,Deferred tax,64904,false,Deferred tax,,BSH_00017,,,,BSH_NetAssets,BS19,
+94,bsh_00016,BSH_00016,Accrued interest,64904,false,Accrued interest,,BSH_00016,,,,BSH_NetAssets,BS18,
+98,bsh_00012,BSH_00012,Corporate income tax & deferred tax,64904,false,Corporate income tax & deferred tax,,BSH_00012,,,,BSH_NonTradeWorkingCapital,BS16-003,
+99,pnl_impotssurlerevenu,PNL_ImpotsSurLeRevenu,IMPÔT SUR LE REVENU,64904,false,IMPÔT SUR LE REVENU,,PNL_ImpotsSurLeRevenu,,,,PNL_UEBIT,W,
+102,pnl_provisionslt,PNL_ProvisionsLT,Provisions LT,64904,false,Provisions LT,,PNL_ProvisionsLT,,,,PNL_ProvisionEtAutres,O63,
+106,sta_wkc_statistic,STA_Wkc_Statistic,Wkc Statistic,64904,false,Wkc Statistic,,STA_Wkc_Statistic,,,,STA_Statistic,STA_Wkc_Statistic,
+108,bsh_00004,BSH_00004,Intra-group short term loan,64904,false,Intra-group short term loan,,BSH_00004,,,,BSH_FixedAssets,BS12-004,
+109,pnl_chiffredaffaireseliminationintraco,PNL_ChiffreDAffairesEliminationIntraCo,ELIMINATION INTRA-CO,64904,false,ELIMINATION INTRA-CO,,PNL_ChiffreDAffairesEliminationIntraCo,,,,PNL_ChiffreDAffaires,C4,
+110,bsh_00002,BSH_00002,Tangible assets,64904,false,Tangible assets,,BSH_00002,,,,BSH_FixedAssets,BS12-002,
+111,bsh_00003,BSH_00003,Financial assets,64904,false,Financial assets,,BSH_00003,,,,BSH_FixedAssets,BS12-003,
+112,bsh_00001,BSH_00001,Intangible assets,64904,false,Intangible assets,,BSH_00001,,,,BSH_FixedAssets,BS12-001,
+114,pnl_redevancesraccordement,PNL_RedevancesRaccordement,Redevances Raccordement,64904,false,Redevances Raccordement,,PNL_RedevancesRaccordement,,,,PNL_RecettesDeRaccordement,C1231,
+173,sta_00012,STA_00012,(Reserved) STA_0012,64904,false,(Reserved) STA_0012,,STA_00012,,,,STA_Fin_Statistic,STA_00012,
+115,pnl_achatventegazequilibrage,PNL_AchatVenteGazEquilibrage,ACHAT/VENTE GAZ EQUILIBRAGE,64904,false,ACHAT/VENTE GAZ EQUILIBRAGE,,PNL_AchatVenteGazEquilibrage,,,,PNL_AutresRevenus,C35,
+118,opmb_revaluationreserves,OpMB_RevaluationReserves,Revaluation reserves,64904,false,Revaluation reserves,,OpMB_RevaluationReserves,,,,OpMB_ShareholderEquity,OpMB22,
+119,bsh_netassets,BSH_NetAssets,Net Assets,64904,false,Net Assets,,BSH_NetAssets,,,,BSH_BalanceSheet,BS1,
+120,pnl_autre,PNL_Autre,Autre,64904,false,Autre,,PNL_Autre,,,,PNL_GestionDesInfrastructuresInformatiquesApplicationsDEntreprise,Q29,
+121,opmp_businesstaxes,OpMP_BusinessTaxes,Business taxes,64904,false,Business taxes,,OpMP_BusinessTaxes,,,,OpMP_OperationalExpenses,OpMP56,
+122,opmb_nontradeworkingcapital,OpMB_NonTradeWorkingCapital,Non trade working capital,64904,false,Non trade working capital,,OpMB_NonTradeWorkingCapital,,,,OpMB_NetAssets,OpMB13,
+123,pnl_atscompensation,PNL_ATSCompensation,ATS - COMPENSATION,64904,false,ATS - COMPENSATION,,PNL_ATSCompensation,,,,PNL_PrestationsDeStockage,C22,
+124,cfs_interimdividendpaid,CFS_InterimDividendPaid,Interim dividend paid,64904,false,Interim dividend paid,,CFS_InterimDividendPaid,,,,CFS_TotalDividendsPaid,CFS31120,
+125,bsh_00028,BSH_00028,Investments subsidies,64904,false,Investments subsidies,,BSH_00028,,,,BSH_ShareholderEquity,B27,
+126,bsh_00029,BSH_00029,Accelerated depreciation,64904,false,Accelerated depreciation,,BSH_00029,,,,BSH_ShareholderEquity,B28,
+128,bsh_00026,BSH_00026,Result of the year,64904,false,Result of the year,,BSH_00026,,,,BSH_ShareholderEquity,B25,
+129,bsh_00027,BSH_00027,Interim dividends,64904,false,Interim dividends,,BSH_00027,,,,BSH_ShareholderEquity,B26,
+130,bsh_00024,BSH_00024,Reserves,64904,false,Reserves,,BSH_00024,,,,BSH_ShareholderEquity,B23,
+131,bsh_00025,BSH_00025,Retained earnings,64904,false,Retained earnings,,BSH_00025,,,,BSH_ShareholderEquity,B24,
+63,pnl_environnement,PNL_Environnement,Environnement,64904,false,Environnement,OpXC_DOT,PNL_Environnement,,,,PNL_HygieneSanteSecuriteEnvironnement,O432,
+101,pnl_congestion,PNL_Congestion,CONGESTION,64904,false,CONGESTION,Eco_CRE_TRA_03,PNL_Congestion,,,,PNL_RevenuHorsATR,C122,
+132,bsh_00022,BSH_00022,Share premium account,64904,false,Share premium account,,BSH_00022,,,,BSH_ShareCapitalPremium,BS21-002,
+133,bsh_00023,BSH_00023,Revaluation reserves,64904,false,Revaluation reserves,,BSH_00023,,,,BSH_ShareholderEquity,B22,
+134,bsh_00020,BSH_00020,Derivative instruments,64904,false,Derivative instruments,,BSH_00020,,,,BSH_NetAssets,BS1C,
+137,opmp_otheroperatings,OpMP_OtherOperatings,Other operatings,64904,false,Other operatings,,OpMP_OtherOperatings,,,,OpMP_OperationalExpenses,OpMP58,
+135,bsh_00021,BSH_00021,Share capital,64904,false,Share capital,,BSH_00021,CFS_00045,,,BSH_ShareCapitalPremium,BS21-001,
+139,pnl_amortissement,PNL_Amortissement,AMORTISSEMENT,64904,false,AMORTISSEMENT,,PNL_Amortissement,,,,PNL_EBIT,R,
+140,opmb_accelerateddepreciation,OpMB_AcceleratedDepreciation,Accelerated depreciation,64904,false,Accelerated depreciation,,OpMB_AcceleratedDepreciation,,,,OpMB_ShareholderEquity,OpMB28,
+141,pnl_ebit,PNL_EBIT,EBIT,64904,false,EBIT,,PNL_EBIT,,,,PNL_ResultatNet,CR1,
+142,opms_taxcredit,OpMS_TaxCredit,Tax Credit,64904,false,Tax Credit,,OpMS_TaxCredit,,,,OpMP,OpMP_Tax9,
+144,pnl_uebit,PNL_UEBIT,Under EBIT,64904,false,Under EBIT,,PNL_UEBIT,,,,PNL_ResultatNet,CR9,
+145,pnl_resultatexceptionnel,PNL_ResultatExceptionnel,RESULTAT EXCEPTIONNEL,64904,false,RESULTAT EXCEPTIONNEL,,PNL_ResultatExceptionnel,,,,PNL_UEBIT,S,
+147,pnl_ebitda,PNL_EBITDA,EBITDA,64904,false,EBITDA,,PNL_EBITDA,,,,PNL_EBIT,CR11,
+148,pnl_revenuatr,PNL_RevenuATR,Revenu ATR,64904,false,Revenu ATR,,PNL_RevenuATR,,,,PNL_PrestationsDeTransport,C11,
+151,opmb_sharecapitalandpremium,OpMB_ShareCapitalAndPremium,Share capital & premium,64904,false,Share capital & premium,,OpMB_ShareCapitalAndPremium,,,,OpMB_ShareholderEquity,OpMB21,
+152,pnl_prestationsdetransport,PNL_PrestationsDeTransport,PRESTATIONS DE TRANSPORT,64904,false,PRESTATIONS DE TRANSPORT,,PNL_PrestationsDeTransport,,,,PNL_ChiffreDAffaires,C1,
+154,opmb_personnel,OpMB_Personnel,Personnel,64904,false,Personnel,,OpMB_Personnel,,,,OpMB_NonTradeWorkingCapital,OpMB131,
+156,pnl_electricite,PNL_Electricite,ELECTRICITE,64904,false,ELECTRICITE,,PNL_Electricite,,,,PNL_Energie,O12,
+158,opmb_intangibleassets,OpMB_IntangibleAssets,Intangible assets,64904,false,Intangible assets,,OpMB_IntangibleAssets,,,,OpMB_FixedAssets,OpMB111,
+159,opmp_majoroverhaulandrepairs,OpMP_MajorOverhaulAndRepairs,Major overhaul & repairs,64904,false,Major overhaul & repairs,,OpMP_MajorOverhaulAndRepairs,,,,OpMP_OperationalExpenses,OpMP53,
+161,opmb_inventory,OpMB_Inventory,Inventory,64904,false,Inventory,,OpMB_Inventory,,,,OpMB_TradeWorkingCapital,OpMB121,
+162,bsh_sharecapitalpremium,BSH_ShareCapitalPremium,Share capital & premium,64904,false,Share capital & premium,,BSH_ShareCapitalPremium,,,,BSH_ShareholderEquity,B21,
+164,opmp_intracoeliminationsopex,OpMP_IntracoEliminationsOpEx,Intraco eliminations,64904,false,Intraco eliminations,,OpMP_IntracoEliminationsOpEx,,,,OpMP_OperationalExpenses,OpMP59,
+166,pnl_provisionsct,PNL_ProvisionsCT,Provisions CT,64904,false,Provisions CT,,PNL_ProvisionsCT,,,,PNL_ProvisionEtAutres,O62,
+176,sta_00011,STA_00011,(Reserved) STA_0011,64904,false,(Reserved) STA_0011,,STA_00011,,,,STA_Fin_Statistic,STA_00011,
+179,sta_00010,STA_00010,(Reserved) STA_0010,64904,false,(Reserved) STA_0010,,STA_00010,,,,STA_Fin_Statistic,STA_00010,
+187,pnl_chargesdiverses,PNL_ChargesDiverses,CHARGES DIVERSES,64904,false,CHARGES DIVERSES,,PNL_ChargesDiverses,,,,PNL_ProvisionEtAutres,O61,
+189,opmb_financialdebt,OpMB_FinancialDebt,Financial debt,64904,false,Financial debt,,OpMB_FinancialDebt,,,,OpMB_NetAssets,OpMB17,
+193,opmb_investmentsubisidies,OpMB_InvestmentSubisidies,Investment subsidies,64904,false,Investment subsidies,,OpMB_InvestmentSubisidies,,,,OpMB_ShareholderEquity,OpMB27,
+194,opmb_reserves,OpMB_Reserves,Reserves,64904,false,Reserves,,OpMB_Reserves,,,,OpMB_ShareholderEquity,OpMB23,
+195,pnl_chiffredaffairesantictl,PNL_ChiffreDAffairesAntiCTL,ANTI-CTL,64904,false,ANTI-CTL,,PNL_ChiffreDAffairesAntiCTL,,,,PNL_AutresRevenus,C36,
+196,opmb_tradereceivables,OpMB_TradeReceivables,Trade receivables,64904,false,Trade receivables,,OpMB_TradeReceivables,,,,OpMB_TradeWorkingCapital,OpMB122,
+155,opmp_deferredtax,OpMP_DeferredTax,Deferred tax,64904,false,Deferred tax,,OpMP_DeferredTax,CFS_00007,-,,OpMP_NetResult,OpMPN8,
+198,bsh_balancesheet,BSH_BalanceSheet,Balance Sheet,64904,false,Balance Sheet,,BSH_BalanceSheet,,,,Activite_Modello,Mod2,
+200,opms_taxdeductibleinterestpct,OpMS_TaxDeductibleInterestPct,Tax deductible interest %,64904,false,Tax deductible interest %,,OpMS_TaxDeductibleInterestPct,,,,OpA,OpA2Tx3,
+227,opmb_othernontradeworkingcapital,OpMB_OtherNonTradeWorkingCapital,Other,64904,false,Other,,OpMB_OtherNonTradeWorkingCapital,,,,OpMB_NonTradeWorkingCapital,OpMB135,
+229,pnl_ticpe,PNL_TICPE,TICPE,64904,false,TICPE,,PNL_TICPE,,,,PNL_Energie,O14,
+238,pnl_remboursementexternalisationcrea,PNL_RemboursementExternalisationCREA,REMBOURSEMENT EXTERNALISATION CREA,64904,false,REMBOURSEMENT EXTERNALISATION CREA,,PNL_RemboursementExternalisationCREA,,,,PNL_AutresRevenus,C34,
+146,pnl_travauxdamelioration,PNL_TravauxDAmelioration,Travaux d'amélioration,64904,false,Travaux d'amélioration,OpXC_DOP¦OpXC_DOT,PNL_TravauxDAmelioration,,,,PNL_Maintenance,O213,
+153,pnl_energie,PNL_Energie,ENERGIE,64904,false,ENERGIE,Eco_CRE_TRA_STO_17,PNL_Energie,,,,PNL_FraisDExploitation,O1,
+202,pnl_autresrevenus,PNL_AutresRevenus,AUTRES REVENUS,64904,false,AUTRES REVENUS,Eco_CRE_TRA_STO_14,PNL_AutresRevenus,,,,PNL_ChiffreDAffaires,C3,
+253,opmb_shareholderequity,OpMB_ShareholderEquity,Shareholder equity,64904,false,Shareholder equity,,OpMB_ShareholderEquity,,,,OpMB,OpMB2,
+255,opa,OpA,Macro Assumptions,64904,false,Macro Assumptions,,OpA,,,,OpM,OpA1,
+257,pnl_productionstockee,PNL_ProductionStockee,PRODUCTION STOCKEE,64904,false,PRODUCTION STOCKEE,,PNL_ProductionStockee,,,,PNL_AutresRevenus,C31,
+259,sta_00009,STA_00009,(Reserved) STA_0009,64904,false,(Reserved) STA_0009,,STA_00009,,,,STA_Fin_Statistic,STA_00009,
+260,sta_00008,STA_00008,(Reserved) STA_0008,64904,false,(Reserved) STA_0008,,STA_00008,,,,STA_Fin_Statistic,STA_00008,
+1096,sap_t4119,SAP_T4119,Cpt Tech Reprise CLT,64904,false,Cpt Tech Reprise CLT,,SAP_T4119,,,,SAP_S4_Technical,SAP_T4119,
+1097,sap_t9999,SAP_T9999,Cpt Tech 9999,64904,false,Cpt Tech 9999,,SAP_T9999,,,,SAP_S4_Technical,SAP_T9999,
+263,sta_00005,STA_00005,Financing fee amortization (Debt),64904,false,Financing fee amortization (Debt),,STA_00005,,,,STA_Fin_Statistic,STA_00005,
+264,sta_00004,STA_00004,Financial Result (Debt),64904,false,Financial Result (Debt),,STA_00004,,,,STA_Fin_Statistic,STA_00004,
+283,cfs_totaldividendspaid,CFS_TotalDividendsPaid,Total dividends paid,64904,false,Total dividends paid,,CFS_TotalDividendsPaid,,,,CFS_EquityCashFlow,CFS31100,
+273,opm,OpM,Operating Model,64904,false,Operating Model,,OpM,,,,STA_Statistic,STA_OpModel,
+298,cfs_taxpaid,CFS_TaxPaid,Tax paid,64904,false,Tax paid,,CFS_TaxPaid,,,,CFS_InterestsTaxes,CFS13500,
+312,opmb_resultoftheyear,OpMB_ResultOfTheYear,Result of the year,64904,false,Result of the year,,OpMB_ResultOfTheYear,,,,OpMB_ShareholderEquity,OpMB25,
+314,bsh_nontradeworkingcapital,BSH_NonTradeWorkingCapital,Non trade working capital,64904,false,Non trade working capital,,BSH_NonTradeWorkingCapital,,,,BSH_NetAssets,BS16,
+316,pnl_diversliesaleploitation,PNL_DiversLiesALEploitation,Divers liés à l'exploitation,64904,false,Divers liés à l'exploitation,,PNL_DiversLiesALEploitation,,,,PNL_PrestationsAutresDepensesLieesALEploitation,O422,
+341,opmb_iterimdividends,OpMB_IterimDividends,Interim Dividends,64904,false,Interim Dividends,,OpMB_IterimDividends,,,,OpMB_ShareholderEquity,OpMB26,
+342,pnl_servicesadditionnels,PNL_ServicesAdditionnels,SERVICES ADDITIONNELS,64904,false,SERVICES ADDITIONNELS,,PNL_ServicesAdditionnels,,,,PNL_PrestationsDeStockage,C23,
+295,opmp_netresult,OpMP_NetResult,Net result,64904,false,Net result,,OpMP_NetResult,,,,OpMP_NetResultGroupShare,OpMP_NG1,
+199,cfs_generaux,CFS_Generaux,Généraux,64904,false,Généraux,,CFS_Generaux,,,,CFS_TechnicalInvestments,CFS21600**,
+343,opmb_tradepayables,OpMB_TradePayables,Trade payables,64904,false,Trade payables,,OpMB_TradePayables,,,,OpMB_TradeWorkingCapital,OpMB123,
+345,sta_statistic,STA_Statistic,Statistic,64904,false,Statistic,,STA_Statistic,,,,Activite_Modello,ModS,
+346,opmp_ebitda,OpMP_EBITDA,EBITDA,64904,false,EBITDA,,OpMP_EBITDA,,,,OpMP_EBIT,OpMPE1,
+348,opms_taxdeductibleinterest,OpMS_TaxDeductibleInterest,Tax deductible interest,64904,false,Tax deductible interest,,OpMS_TaxDeductibleInterest,,,,OpMP,OpMP_Tax0,
+349,pnl_revenuhorsatr,PNL_RevenuHorsATR,Revenu Hors ATR,64904,false,Revenu Hors ATR,,PNL_RevenuHorsATR,,,,PNL_PrestationsDeTransport,C12,
+350,opmb_financialassets,OpMB_FinancialAssets,Financial assets,64904,false,Financial assets,,OpMB_FinancialAssets,,,,OpMB_FixedAssets,OpMB113,
+351,pnl_resultatnet,PNL_ResultatNet,RESULTAT NET,64904,false,RESULTAT NET,,PNL_ResultatNet,,,,Activite_Modello,CR,
+356,pnl_co2,PNL_CO2,CO2,64904,false,CO2,,PNL_CO2,,,,PNL_Energie,O13,
+266,sta_00003,STA_00003,Retirement Provisions (Stat),64904,false,Retirement Provisions (Stat),,STA_00003,CFS_00002,-,,STA_Fin_Statistic,STA_00003,
+272,sta_00001,STA_00001,Interim Dividend Paid (Stat),64904,false,Interim Dividend Paid (Stat),,STA_00001,CFS_00042,+,,STA_Fin_Statistic,STA_00001,
+365,opmp_exceptionalresult,OpMP_ExceptionalResult,Exceptional result,64904,false,Exceptional result,,OpMP_ExceptionalResult,,,,OpMP_NetResult,OpMPN2,
+249,pnl_hygieneetsante,PNL_HygieneEtSante,Hygiène et santé,64904,false,Hygiène et santé,OpXC_DOT,PNL_HygieneEtSante,,,,PNL_HygieneSanteSecuriteEnvironnement,O436,
+296,pnl_recettesderaccordement,PNL_RecettesDeRaccordement,RECETTES DE RACCORDEMENT,64904,false,RECETTES DE RACCORDEMENT,Eco_CRE_TRA_05,PNL_RecettesDeRaccordement,,,,PNL_RevenuHorsATR,C123,
+313,pnl_prestationshorscontratsd'interface,PNL_PrestationsHorsContratsD'Interface,Prestations Hors Contrats D'Interface,64904,false,Prestations Hors Contrats D'Interface,Eco_CRE_TRA_06,PNL_PrestationsHorsContratsD'Interface,,,,PNL_RecettesDeRaccordement,C1232,
+368,opmb_citanddeferredtax,OpMB_CITAndDeferredTax,CIT & deferred tax,64904,false,CIT & deferred tax,,OpMB_CITAndDeferredTax,,,,OpMB_NonTradeWorkingCapital,OpMB133,
+370,pnl_atrcapacitéshorsitc,PNL_ATRCapacitésHorsITC,ATR - Capacités hors ITC,64904,false,ATR - Capacités hors ITC,,PNL_ATRCapacitésHorsITC,,,,PNL_RevenuATRCapacites,C1111,
+371,cfs_00041,CFS_00041,Maximum dividend without distribution limits,64904,false,Maximum dividend without distribution limits,,CFS_00041,,,,CFS_FinalDividendPaid,CFS31113,
+372,pnl_autresrecettes,PNL_AutresRecettes,AUTRES RECETTES,64904,false,AUTRES RECETTES,,PNL_AutresRecettes,,,,PNL_PrestationsDeStockage,C26,
+374,cfs_00039,CFS_00039,Final dividend : Amount decided for distrubtion of Y-1 result,64904,false,Final dividend : Amount decided for distrubtion of Y-1 result,,CFS_00039,,,,CFS_FinalDividendPaid,CFS31111,
+1158,pnl_00215,PNL_00215,Vente de Services - licences et abonnements,64904,false,Vente de Services - licences et abonnements,,PNL_00215,,,OPMP_ServiceSales,PNL_VenteServices,C36b-0022,OpxY_ChiffreAffaireInp
+377,opmp_operationalexpenses,OpMP_OperationalExpenses,Operational expenses,64904,false,Operational expenses,,OpMP_OperationalExpenses,,,,OpMP_EBITDA,OpMP5,
+379,pnl_operationsdeproduction,PNL_OperationsDeProduction,Opérations de production,64904,false,Opérations de production,,PNL_OperationsDeProduction,,,,PNL_PrestationsAutresDepensesLieesALEploitation,O423,
+382,opmb_tradeworkingcapital,OpMB_TradeWorkingCapital,Trade working capital,64904,false,Trade working capital,,OpMB_TradeWorkingCapital,,,,OpMB_NetAssets,OpMB12,
+385,opmp_revenues,OpMP_Revenues,Revenues,64904,false,Revenues,,OpMP_Revenues,,,,OpMP_EBITDA,OpMP4,
+1190,pnl_00216,PNL_00216,Vente de Services - études et prestations,64904,false,Vente de Services - études et prestations,,PNL_00216,,,OPMP_ServiceSales,PNL_VenteServices,C36b-0021,OpxY_ChiffreAffaireInp
+1058,pnl_00214,PNL_00214,Amortissements Dérogatoires sur Frais d'Acquistion,64904,false,Amortissements Dérogatoires sur Frais d'Acquistion,,PNL_00214,,,OpMP_AcceleratedDepreciation,PNL_AmortissementsDerogatoires,T-002,CapY_Amortissement
+204,pnl_00149,PNL_00149,Non production costs,64904,false,Non production costs,,PNL_00149,,,OpMP_CentralCosts,PNL_Autre,Q29-001,OpxY_FraisStructureInpSI
+396,opmp,OpMP,Income Statement,64904,false,Income Statement,,OpMP,,,,OpM,OpM1,
+400,cfs_00017,CFS_00017,Var. Other,64904,false,Var. Other,,CFS_00017,BSH_00014,-,,CFS_NonTradeWorkingCapitalVariation,CFS15400,
+405,opmb_provisions,OpMB_Provisions,Provisions,64904,false,Provisions,,OpMB_Provisions,,,,OpMB_NetAssets,OpMB14,
+411,pnl_amortissementsderogatoires,PNL_AmortissementsDerogatoires,AMORTISSEMENTS DEROGATOIRES,64904,false,AMORTISSEMENTS DEROGATOIRES,,PNL_AmortissementsDerogatoires,,,,PNL_UEBIT,T,
+208,pnl_00147,PNL_00147,Operate - MCO FS,64904,false,Operate - MCO FS,,PNL_00147,,,OpMP_CentralCosts,PNL_FraisDeStructureOperate,Q23-001,OpxY_FraisStructureInpSI
+417,cfs_taxexpenseincome,CFS_TaxExpenseIncome,Tax Expense / Income,64904,false,Tax Expense / Income,,CFS_TaxExpenseIncome,,,,CFS_InterestsTaxes,CFS13300,
+424,opmc,OpMC,Cash Flow Statements,64904,false,Cash Flow Statements,,OpMC,,,,OpM,OpM2,
+433,opmp_transmissionservices,OpMP_TransmissionServices,Transmission services,64904,false,Transmission services,,OpMP_TransmissionServices,,,,OpMP_Revenues,OpMP41,
+434,opmb_derivativeinstruments,OpMB_DerivativeInstruments,Derivative instruments,64904,false,Derivative instruments,,OpMB_DerivativeInstruments,,,,OpMB_NetAssets,OpMB19,
+435,pnl_atscapacites,PNL_ATSCapacites,ATS - CAPACITES,64904,false,ATS - CAPACITES,,PNL_ATSCapacites,,,,PNL_PrestationsDeStockage,C21,
+446,pnl_subventionsexploitation,PNL_SubventionsExploitation,SUBVENTIONS EXPLOITATION,64904,false,SUBVENTIONS EXPLOITATION,,PNL_SubventionsExploitation,,,,PNL_AutresRevenus,C33,
+452,pnl_revenuatrcapacites,PNL_RevenuATRCapacites,Revenu ATR - Capacités,64904,false,Revenu ATR - Capacités,,PNL_RevenuATRCapacites,,,,PNL_RevenuATR,C111,
+453,opmp_storageservices,OpMP_StorageServices,Storage services,64904,false,Storage services,,OpMP_StorageServices,,,,OpMP_Revenues,OpMP43,
+378,cfs_00036,CFS_00036,"Mobilier, matériel et outillage",64904,false,"Mobilier, matériel et outillage",,CFS_00036,,,,CFS_MoyensGeneraux,CFS_00036,
+502,pnl_miseajourdebdd,PNL_MiseAjourdeBDD,Mise à jour de BDD,64904,false,Mise à jour de BDD,,PNL_MiseAjourdeBDD,,,,PNL_GestionDesInfrastructuresInformatiquesApplicationsIndustrielles,O444,
+438,pnl_00118,PNL_00118,Maj BDD technique,64904,false,Maj BDD technique,,PNL_00118,,,OpMP_TechnicalOperations,PNL_MiseAjourdeBDD,O444-002,OpxY_FraisExploitationInpSI
+454,opmb_longtermcapitalgain,OpMB_LongTermCapitalGain,Long term capital gain,64904,false,Long term capital gain,,OpMB_LongTermCapitalGain,,,,OpMB_NetAssets,OpMB115,
+393,pnl_protectioncathodique,PNL_ProtectionCathodique,Protection cathodique,64904,false,Protection cathodique,OpXC_DOP¦OpXC_DOT,PNL_ProtectionCathodique,,,,PNL_InspectionIntegrite,O222,
+410,pnl_qualite,PNL_Qualite,Qualité,64904,false,Qualité,OpXC_DOT,PNL_Qualite,,,,PNL_HygieneSanteSecuriteEnvironnement,O433,
+394,cfs_00021,CFS_00021,Maintien (**),64904,false,Maintien (**),,CFS_00021,,,,CFS_Maintien,CFS21511**,
+428,cfs_00001,CFS_00001,Depreciation and amortisation,64904,false,Depreciation and amortisation,,CFS_00001,,,,CFS_NonMonetaryComponents,CFS11110,
+367,pnl_controlereglementaire,PNL_ControleReglementaire,Contrôle réglementaire,64904,false,Contrôle réglementaire,Eco_CRE_TRA_STO_25,PNL_ControleReglementaire,,,,PNL_ContrôleReglementairesEtMiseEnConformite,O31,
+459,pnl_ctlcapacitecompressionvenduesatr,PNL_CTLCapaciteCompressionvenduesATR,CTL - CAPACITES COMPRESSION VENDUES A TR,64904,false,CTL - CAPACITES COMPRESSION VENDUES A TR,,PNL_CTLCapaciteCompressionvenduesATR,,,,PNL_PrestationsDeStockage,C24,
+464,opms_deferredtaxrate,OpMS_DeferredTaxRate,Deferred Tax rate,64904,false,Deferred Tax rate,,OpMS_DeferredTaxRate,,,,OpA,OpA2Tx2,
+468,opmb_intragroupshorttermloan,OpMB_IntraGroupShortTermLoan,Intra-group short term loan,64904,false,Intra-group short term loan,,OpMB_IntraGroupShortTermLoan,,,,OpMB_FixedAssets,OpMB114,
+469,opmb_sharepremiumaccount,OpMB_SharePremiumAccount,Share premium account,64904,false,Share premium account,,OpMB_SharePremiumAccount,,,,OpMB_ShareCapitalAndPremium,OpMB212,
+470,opmp_managementfees,OpMP_ManagementFees,Management fees,64904,false,Management fees,,OpMP_ManagementFees,,,,OpMP_Revenues,OpMP44,
+472,pnl_produitsetchargesfinancieres,PNL_ProduitsEtChargesFinancieres,PRODUITS ET CHARGES FINANCIERS,64904,false,PRODUITS ET CHARGES FINANCIERS,,PNL_ProduitsEtChargesFinancieres,,,,PNL_ResultatFinancier,U1,
+492,opmb_deferredtax,OpMB_DeferredTax,Deferred tax,64904,false,Deferred tax,,OpMB_DeferredTax,,,,OpMB_NetAssets,OpMB16,
+499,bsh_shareholderequity,BSH_ShareholderEquity,Shareholder equity,64904,false,Shareholder equity,,BSH_ShareholderEquity,,,,BSH_BalanceSheet,BS2,
+523,opmp_technicalcosts,OpMP_TechnicalCosts,Technical costs,64904,false,Technical costs,,OpMP_TechnicalCosts,,,,OpMP_OperationalExpenses,OpMP52,
+430,cfs_00008,CFS_00008,Tax payment received,64904,false,Tax payment received,,CFS_00008,BSH_00012,-,,CFS_InterestsTaxes,CFS13400,
+408,cfs_00011,CFS_00011,Var. Accounts receivable,64904,false,Var. Accounts receivable,,CFS_00011,BSH_00008,-,,CFS_TradeWorkingCapitalVariation,CFS14100,
+407,cfs_00012,CFS_00012,Var. Accounts payable and non trade,64904,false,Var. Accounts payable and non trade,,CFS_00012,BSH_00009,-,,CFS_TradeWorkingCapitalVariation,CFS14200,
+528,pnl_prestationsatiers,PNL_PrestationsATiers,PRESTATIONS A TIERS,64904,false,PRESTATIONS A TIERS,,PNL_PrestationsATiers,,,,PNL_AutresRevenus,C32,
+529,opmb_retainedearnings,OpMB_RetainedEarnings,Retained earnings,64904,false,Retained earnings,,OpMB_RetainedEarnings,,,,OpMB_ShareholderEquity,OpMB24,
+1,cfs_equitycashflow,CFS_EquityCashFlow,Equity cash flow (dividend paid),64904,false,Equity cash flow (dividend paid),,CFS_EquityCashFlow,,,,CFS_NetCashFlow,CFS31000,
+12,cfs_tradeworkingcapitalvariation,CFS_TradeWorkingCapitalVariation,Trade Working Capital variation,64904,false,Trade Working Capital variation,,CFS_TradeWorkingCapitalVariation,,,,CFS_NetOperatingCashFlow,CFS14000,
+46,cfs_technicalinvestments,CFS_TechnicalInvestments,Technical Investments,64904,false,Technical Investments,,CFS_TechnicalInvestments,,,,CFS_FreeCashFlow,CFS21000,
+143,cfs_intereststaxes,CFS_InterestsTaxes,Interests & Taxes,64904,false,Interests & Taxes,,CFS_InterestsTaxes,,,,CFS_NetOperatingCashFlow,CFS13000,
+163,cfs_nontradeworkingcapitalvariation,CFS_NonTradeWorkingCapitalVariation,Non Trade - Working Capital variation,64904,false,Non Trade - Working Capital variation,,CFS_NonTradeWorkingCapitalVariation,,,,CFS_NetOperatingCashFlow,CFS15000,
+230,cfs_increasedecreaseinfinancialdebt,CFS_IncreaseDecreaseInFinancialDebt,Increase / Decrease in Financial debt,64904,false,Increase / Decrease in Financial debt,,CFS_IncreaseDecreaseInFinancialDebt,,,,CFS_00051,CFS41000,
+315,cfs_nonmonetarycomponents,CFS_NonMonetaryComponents,Non-monetary Components,64904,false,Non-monetary Components,,CFS_NonMonetaryComponents,,,,CFS_NetOperatingCashFlow,CFS11000,
+399,cfs_netcashflow,CFS_NetCashFlow,Net Cash Flow,64904,false,Net Cash Flow,,CFS_NetCashFlow,,,,CFS_00051,CFS40000,
+406,cfs_cashflowstatement,CFS_CashFlowStatement,Cash Flow Statement,64904,false,Cash Flow Statement,,CFS_CashFlowStatement,,,,Activite_Modello,,
+414,cfs_netoperatingcashflow,CFS_NetOperatingCashFlow,Net Operating Cash Flow,64904,false,Net Operating Cash Flow,,CFS_NetOperatingCashFlow,,,,CFS_FreeCashFlow,CFS20000,
+415,cfs_freecashflow,CFS_FreeCashFlow,Free Cash Flow,64904,false,Free Cash Flow,,CFS_FreeCashFlow,,,,CFS_NetCashFlow,CFS30000,
+425,cfs_00003,CFS_00003,Net capital losses / gain on asset sales and eliminations,64904,false,Net capital losses / gain on asset sales and eliminations,,CFS_00003,,,,CFS_NetOperatingCashFlow,CFS12000,
+530,cfs_other,CFS_Other,Other,64904,false,Other,,CFS_Other,,,,CFS_00051,CFS42000,
+531,cfs_00054,CFS_00054,Other,64904,false,Other,,CFS_00054,,,,CFS_Other,CFS42200,
+596,opms_taxdeductibleinterestpctebitda,OpMS_TaxDeductibleInterestPctEBITDA,Tax deductible interest %EBITDA,64904,false,Tax deductible interest %EBITDA,,OpMS_TaxDeductibleInterestPctEBITDA,,,,OpA,OpA2Tx4,
+597,opmp_atr,OpMP_ATR,ATR,64904,false,ATR,,OpMP_ATR,,,,OpMP_TransmissionServices,OpMP411,
+598,opmp_connectionincome,OpMP_ConnectionIncome,Connection income,64904,false,Connection income,,OpMP_ConnectionIncome,,,,OpMP_TransmissionServices,OpMP412,
+4,cfs_systemedinformation,CFS_SystemedInformation,Système d'Information,64904,false,Système d'Information,,CFS_SystemedInformation,,,DTDP,CFS_TechnicalInvestments,CFS_CPXA,
+380,cfs_00032,CFS_00032,Maintain - Evolutions,64904,false,Maintain - Evolutions,,CFS_00032,,,DTDP,CFS_SystemedInformation,CFS21624,
+384,cfs_00030,CFS_00030,Transform - Etudes conceptuelles,64904,false,Transform - Etudes conceptuelles,,CFS_00030,,,DTDP,CFS_SystemedInformation,CFS21621,
+475,pnl_fraisdexploitationoperate,PNL_FraisDExploitationOperate,Operate FE,64904,false,Operate FE,,PNL_FraisDExploitationOperate,,,,PNL_GestionDesInfrastructuresInformatiquesApplicationsIndustrielles,O443,
+599,opmp_interconnectionandtransitgrt,OpMP_InterconnectionAndTransitGRT,Interconnection and transit - GRT,64904,false,Interconnection and transit - GRT,,OpMP_InterconnectionAndTransitGRT,,,,OpMP_TransmissionServices,OpMP413,
+507,pnl_misesenconformite,PNL_MisesEnConformite,Mises en conformité,64904,false,Mises en conformité,Eco_CRE_TRA_STO_26,PNL_MisesEnConformite,,,,PNL_ContrôleReglementairesEtMiseEnConformite,O32,
+600,opmp_reversementinteroperateur,OpMP_ReversementInterOperateur,Reversement Inter-Opérateur,64904,false,Reversement Inter-Opérateur,,OpMP_ReversementInterOperateur,,,,OpMP_TransmissionServices,OpMP414,
+601,opmp_chargeslieesalaleveedescongestions,OpMP_ChargesLieesALaLeveeDesCongestions,Charges liées à la levèe des congestions,64904,false,Charges liées à la levèe des congestions,,OpMP_ChargesLieesALaLeveeDesCongestions,,,,OpMP_TransmissionServices,OpMP415,
+602,opmp_capacitiesrevenues,OpMP_CapacitiesRevenues,Capacities revenues,64904,false,Capacities revenues,,OpMP_CapacitiesRevenues,,,,OpMP_StorageServices,OpMP431,
+603,opmp_additionalservices,OpMP_AdditionalServices,Additional services,64904,false,Additional services,,OpMP_AdditionalServices,,,,OpMP_StorageServices,OpMP432,
+604,opmp_compressorcapacitiessold,OpMP_CompressorCapacitiesSold,Compressor capa. Sold to TR (CTL),64904,false,Compressor capa. Sold to TR (CTL),,OpMP_CompressorCapacitiesSold,,,,OpMP_StorageServices,OpMP433,
+605,opmp_storagecapacitiessold,OpMP_StorageCapacitiesSold,Storage capacities sold to TR,64904,false,Storage capacities sold to TR,,OpMP_StorageCapacitiesSold,,,,OpMP_StorageServices,OpMP434,
+606,opmp_otherincome,OpMP_OtherIncome,Other income,64904,false,Other income,,OpMP_OtherIncome,,,,OpMP_StorageServices,OpMP435,
+607,opmp_revenueservicesto3rdparties,OpMP_RevenueServicesTo3rdParties,Services to third parties,64904,false,Services to third parties,,OpMP_RevenueServicesTo3rdParties,,,,OpMP_OtherRevenues,OpMP451,
+608,opmp_revenueothers,OpMP_RevenueOthers,Others,64904,false,Others,,OpMP_RevenueOthers,,,,OpMP_OtherRevenues,OpMP453,
+609,opmp_technicaloperations,OpMP_TechnicalOperations,Technical operations,64904,false,Technical operations,,OpMP_TechnicalOperations,,,,OpMP_TechnicalCosts,OpMP521,
+610,opmp_safetyenvironment,OpMP_SafetyEnvironment,Safety / environment,64904,false,Safety / environment,,OpMP_SafetyEnvironment,,,,OpMP_TechnicalCosts,OpMP522,
+611,opmp_storageexpenses,OpMP_StorageExpenses,Storage expenses,64904,false,Storage expenses,,OpMP_StorageExpenses,,,,OpMP_TechnicalCosts,OpMP523,
+612,opmp_majormaintenance,OpMP_MajorMaintenance,Major maintenance,64904,false,Major maintenance,,OpMP_MajorMaintenance,,,,OpMP_MajorOverhaulAndRepairs,OpMP531,
+613,opmp_otherrepairsanddamages,OpMP_OtherRepairsAndDamages,Other repairs and damages,64904,false,Other repairs and damages,,OpMP_OtherRepairsAndDamages,,,,OpMP_MajorOverhaulAndRepairs,OpMP532,
+614,opmp_servicesto3rdparties,OpMP_ServicesTo3rdParties,Services to third parties,64904,false,Services to third parties,,OpMP_ServicesTo3rdParties,,,,OpMP_MajorOverhaulAndRepairs,OpMP533,
+615,opmp_personelandcentralcosts,OpMP_PersonelAndCentralCosts,Personnel & central costs,64904,false,Personnel & central costs,,OpMP_PersonelAndCentralCosts,,,,OpMP_OperationalExpenses,OpMP54,
+616,opmp_personnelcosts,OpMP_PersonnelCosts,Personnel costs,64904,false,Personnel costs,,OpMP_PersonnelCosts,,,,OpMP_PersonalExpenses,OpMP5411,
+617,opmp_capitalisation,OpMP_Capitalisation,Capitalisation,64904,false,Capitalisation,,OpMP_Capitalisation,,,,OpMP_PersonalExpenses,OpMP5412,
+64,opmp_incometax,OpMP_IncomeTax,Income tax,64904,false,Income tax,,OpMP_IncomeTax,CFS_00006,-,,OpMP_NetResult,OpMPN7,
+67,opmp_financingfeeamortisation,OpMP_FinancingFeeAmortisation,Financing fee amortisation,64904,false,Financing fee amortisation,,OpMP_FinancingFeeAmortisation,CFS_00001,-,,OpMP_NetResult,OpMPN6,
+136,opmp_trcustomersbalance,OpMP_TRCustomersBalance,TR : Customers Balance,64904,false,TR : Customers Balance,,OpMP_TRCustomersBalance,,,,OpMP_OtherRevenues,OpMP452,
+225,opmp_personalexpenses,OpMP_PersonalExpenses,Personnel expenses,64904,false,Personnel expenses,,OpMP_PersonalExpenses,,,,OpMP_PersonelAndCentralCosts,OpMP541,
+228,opmp_accelerateddepreciation,OpMP_AcceleratedDepreciation,Accelerated depreciation,64904,false,Accelerated depreciation,,OpMP_AcceleratedDepreciation,CFS_00001,-,,OpMP_NetResult,OpMPN3,
+381,opmp_depreciationandamortization,OpMP_DepreciationAndAmortization,Depreciation & Amortization,64904,false,Depreciation & Amortization,,OpMP_DepreciationAndAmortization,CFS_00001,-,,OpMP_EBIT,OpMPE2,
+478,opmp_centralcosts,OpMP_CentralCosts,Central costs,64904,false,Central costs,,OpMP_CentralCosts,,,,OpMP_PersonelAndCentralCosts,OpMP542,
+369,cfs_00042,CFS_00042,Interim dividend decided,64904,false,Interim dividend decided,,CFS_00042,,,,CFS_InterimDividendPaid,CFS31121,
+83,cfs_00043,CFS_00043,Theoretical interim dividend,64904,false,Theoretical interim dividend,,CFS_00043,,,,CFS_InterimDividendPaid,CFS31122,
+93,bsh_00015,BSH_00015,Provisions,64904,false,Provisions,,BSH_00015,CFS_00002,,,BSH_NetAssets,BS17,
+269,sta_00002,STA_00002,Final Dividend Paid (Stat),64904,false,Final Dividend Paid (Stat),,STA_00002,CFS_00039,+,,STA_Fin_Statistic,STA_00002,
+240,pnl_00187,PNL_00187,Plus ou moins values de cession,64904,false,Plus ou moins values de cession,,PNL_00187,,,OpMP_OtherOperatings,PNL_ChargesDiverses,O61-001,OpxY_FraisExploitationInp
+76,cfs_00049,CFS_00049,ORA share capital,64904,false,ORA share capital,,CFS_00049,BSH_00018,-,,CFS_IncreaseDecreaseInFinancialDebt,CFS41400,
+695,pnl_00209,PNL_00209,Share of income of joint ventures,64904,false,Share of income of joint ventures,,PNL_00209,,,OpMP_ShareOfIncome,PNL_UEBIT,X,OpxY_UEBITDA
+696,opmp_shareofincome,OpMP_ShareOfIncome,Share Of Income,64904,false,Share Of Income,,OpMP_ShareOfIncome,CFS_00055,-,,OpMP_NetResult,OpMPN9,
+427,cfs_00002,CFS_00002,Provisions for risks and charges,64904,false,Provisions for risks and charges,,CFS_00002,BSH_00015,-,,CFS_NonMonetaryComponents,CFS11130,
+697,cfs_00055,CFS_00055,Share of income of joint ventures,64904,false,Share of income of joint ventures,,CFS_00055,,,,CFS_NonMonetaryComponents,CFS11120,
+168,pnl_00159,PNL_00159,Autres actions de communication,64904,false,Autres actions de communication,OpXC_DOT,PNL_00159,,,OpMP_CentralCosts,PNL_Communication,Q5-003,OpxY_FraisStructureInp
+89,opmp_financialresult,OpMP_FinancialResult,Financial result,64904,false,Financial result,,OpMP_FinancialResult,CFS_00004,-,,OpMP_NetResult,OpMPN40,
+340,opmp_provisionandother,OpMP_ProvisionAndOther,Provision & other,64904,false,Provision & other,,OpMP_ProvisionAndOther,CFS_00002,-,,OpMP_EBIT,OpMPE3,
+186,pnl_00041,PNL_00041,Prestation Groupe - CA,64904,false,Prestation Groupe - CA,,PNL_00041,,,OpMP_ManagementFees,PNL_PrestationGroupe,C38-001,OpxY_ChiffreAffaireInp
+170,pnl_00158,PNL_00158,Relations Clients,64904,false,Relations Clients,OpXC_DOT,PNL_00158,,,OpMP_CentralCosts,PNL_Communication,Q5-002,OpxY_FraisStructureInp
+172,pnl_00157,PNL_00157,Relations publiques & Réceptions,64904,false,Relations publiques & Réceptions,OpXC_DOT,PNL_00157,,,OpMP_CentralCosts,PNL_Communication,Q5-001,OpxY_FraisStructureInp
+175,pnl_00156,PNL_00156,Conformité & dialogue social,64904,false,Conformité & dialogue social,OpXC_DOT,PNL_00156,,,OpMP_CentralCosts,PNL_GestionDesRessourcesHumaines,Q4-006,OpxY_FraisStructureInp
+178,pnl_00155,PNL_00155,Intégration,64904,false,Intégration,OpXC_DOT,PNL_00155,,,OpMP_CentralCosts,PNL_GestionDesRessourcesHumaines,Q4-005,OpxY_FraisStructureInp
+183,pnl_00164,PNL_00164,Domanial,64904,false,Domanial,OpXC_DOT,PNL_00164,,,OpMP_CentralCosts,PNL_AssistanceDomanialeEtJuridique,Q6-003,OpxY_FraisStructureInp
+185,pnl_00163,PNL_00163,Autres assurances,64904,false,Autres assurances,OpXC_DOT,PNL_00163,,,OpMP_CentralCosts,PNL_AssistanceDomanialeEtJuridique,Q6-002,OpxY_FraisStructureInp
+188,pnl_00162,PNL_00162,Assurances Opérations,64904,false,Assurances Opérations,OpXC_DOT,PNL_00162,,,OpMP_CentralCosts,PNL_AssistanceDomanialeEtJuridique,Q6-001,OpxY_FraisStructureInp
+191,pnl_00161,PNL_00161,Dons et sponsoring,64904,false,Dons et sponsoring,OpXC_DOT,PNL_00161,,,OpMP_CentralCosts,PNL_Communication,Q5-005,OpxY_FraisStructureInp
+192,pnl_00160,PNL_00160,Evènementiel TEREGA,64904,false,Evènementiel TEREGA,OpXC_DOT,PNL_00160,,,OpMP_CentralCosts,PNL_Communication,Q5-004,OpxY_FraisStructureInp
+217,pnl_00154,PNL_00154,Recrutement,64904,false,Recrutement,OpXC_DOT,PNL_00154,,,OpMP_CentralCosts,PNL_GestionDesRessourcesHumaines,Q4-004,OpxY_FraisStructureInp
+219,pnl_00153,PNL_00153,Fidélisation des salariés,64904,false,Fidélisation des salariés,OpXC_DOT,PNL_00153,,,OpMP_CentralCosts,PNL_GestionDesRessourcesHumaines,Q4-003,OpxY_FraisStructureInp
+221,pnl_00152,PNL_00152,Gestion prévisionnelle des ressources humaines,64904,false,Gestion prévisionnelle des ressources humaines,OpXC_DOT,PNL_00152,,,OpMP_CentralCosts,PNL_GestionDesRessourcesHumaines,Q4-002,OpxY_FraisStructureInp
+223,pnl_00151,PNL_00151,Formation & accompagnement,64904,false,Formation & accompagnement,OpXC_DOT,PNL_00151,,,OpMP_CentralCosts,PNL_GestionDesRessourcesHumaines,Q4-001,OpxY_FraisStructureInp
+29,pnl_miseadispositiondeslocaux,PNL_MiseAdispositionDesLocaux,Mise à disposition des locaux,64904,false,Mise à disposition des locaux,OpXC_DOT,PNL_MiseAdispositionDesLocaux,,,,PNL_GestionDesLocauxBatimentsEtFlotte,Q11,
+39,pnl_chargeseliminationintraco,PNL_ChargesEliminationIntraCo,ELIMINATION INTRA-CO,64904,false,ELIMINATION INTRA-CO,OpXC_DOP¦OpXC_DOT,PNL_ChargesEliminationIntraCo,,,,PNL_FraisDExploitation,O7,
+41,pnl_etudes,PNL_Etudes,Etudes,64904,false,Etudes,OpXC_DOP,PNL_Etudes,,,,PNL_EtudesTechniques,O411,
+57,pnl_peinturesablage,PNL_PeintureSablage,Peinture / Sablage,64904,false,Peinture / Sablage,OpXC_DOP¦OpXC_DOT,PNL_PeintureSablage,,,,PNL_InspectionIntegrite,O221,
+71,pnl_surete,PNL_Surete,Sureté,64904,false,Sureté,OpXC_DOT,PNL_Surete,,,,PNL_HygieneSanteSecuriteEnvironnement,O434,
+117,pnl_developpementdurable,PNL_DeveloppementDurable,Développement durable,64904,false,Développement durable,OpXC_DOT,PNL_DeveloppementDurable,,,,PNL_HygieneSanteSecuriteEnvironnement,O435,
+50,pnl_gestiondustock,PNL_GestionDuStock,Gestion du stock,64904,false,Gestion du stock,Eco_CRE_TRA_STO_33¦OpXC_DOP¦OpXC_DOT,PNL_GestionDuStock,,,,PNL_EtudesEtAutresDepensesLieesALExploitation,O46,
+149,pnl_securisationdeslocaux,PNL_SecurisationDesLocaux,Sécurisation des locaux,64904,false,Sécurisation des locaux,OpXC_DOT,PNL_SecurisationDesLocaux,,,,PNL_GestionDesLocauxBatimentsEtFlotte,Q12,
+212,pnl_excavation,PNL_Excavation,Excavation,64904,false,Excavation,OpXC_DOP¦OpXC_DOT,PNL_Excavation,,,,PNL_InspectionIntegrite,O224,
+226,pnl_recuperationsuiteainspection,PNL_RecuperationSuiteAInspection,Réparations suite à inspection,64904,false,Réparations suite à inspection,OpXC_DOP¦OpXC_DOT,PNL_RecuperationSuiteAInspection,,,,PNL_InspectionIntegrite,O225,
+292,pnl_inspection,PNL_Inspection,Inspection,64904,false,Inspection,OpXC_DOP¦OpXC_DOT,PNL_Inspection,,,,PNL_InspectionIntegrite,O223,
+297,pnl_etudesequipementinstallation,PNL_EtudesEquipementInstallation,Etudes équipement / installation,64904,false,Etudes équipement / installation,OpXC_DOP,PNL_EtudesEquipementInstallation,,,,PNL_EtudesTechniques,O413,
+299,pnl_securite,PNL_Securite,Sécurité,64904,false,Sécurité,OpXC_DOT,PNL_Securite,,,,PNL_HygieneSanteSecuriteEnvironnement,O431,
+344,pnl_gestiondelaflotte,PNL_GestionDeLaFlotte,Gestion de la flotte,64904,false,Gestion de la flotte,OpXC_DOT,PNL_GestionDeLaFlotte,,,,PNL_GestionDesLocauxBatimentsEtFlotte,Q14,
+366,pnl_maintenancepreventive,PNL_MaintenancePreventive,Maintenance préventive,64904,false,Maintenance préventive,OpXC_DOP,PNL_MaintenancePreventive,,,,PNL_MaintPrev,O2111,
+397,pnl_etudesprocedes,PNL_EtudesProcedes,Etudes procédés,64904,false,Etudes procédés,OpXC_DOP,PNL_EtudesProcedes,,,,PNL_EtudesTechniques,O412,
+431,pnl_miseajourplans,PNL_MiseAJourPlans,Mise à jour plans,64904,false,Mise à jour plans,OpXC_DOP,PNL_MiseAJourPlans,,,,PNL_EtudesTechniques,O414,
+501,pnl_maintenancecurative,PNL_MaintenanceCurative,Maintenance curative,64904,false,Maintenance curative,OpXC_DOP¦OpXC_DOT,PNL_MaintenanceCurative,,,,PNL_Maintenance,O212,
+527,pnl_entretiendeslocaux,PNL_EntretienDesLocaux,ENTRETIEN DES LOCAUX,64904,false,ENTRETIEN DES LOCAUX,OpXC_DOT,PNL_EntretienDesLocaux,,,,PNL_GestionDesLocauxBatimentsEtFlotte,Q13,
+33,pnl_maintprev,PNL_MaintPrev,Maintenance préventive et entretiens,64904,false,Maintenance préventive et entretiens,OpXC_DOT,PNL_MaintPrev,,,,PNL_Maintenance,O211,
+69,pnl_autresgrosentretiens,PNL_AutresGrosEntretiens,Autres Gros Entretiens,64904,false,Autres Gros Entretiens,OpXC_DOP,PNL_AutresGrosEntretiens,,,,PNL_MaintPrev,O2114,
+138,pnl_entretiengeneraldureseau,PNL_EntretienGeneralDuReseau,Entretien général du réseau,64904,false,Entretien général du réseau,OpXC_DOP,PNL_EntretienGeneralDuReseau,,,,PNL_MaintPrev,O2112,
+451,pnl_grosentretiencompression,PNL_GrosEntretienCompression,Gros entretien compression,64904,false,Gros entretien compression,OpXC_DOP,PNL_GrosEntretienCompression,,,,PNL_MaintPrev,O2113,
+127,pnl_assistancedomanialeetjuridique,PNL_AssistanceDomanialeEtJuridique,Assistance domaniale et juridique,64904,false,Assistance domaniale et juridique,Eco_CRE_TRA_STO_47¦OpXC_DOP¦OpXC_DOT,PNL_AssistanceDomanialeEtJuridique,,,,PNL_FraisDeStructure,Q6,
+42,pnl_maintenancedivers,PNL_MaintenanceDivers,Divers (Maintenance),64904,false,Divers (Maintenance),OpXC_DOP¦OpXC_DOT,PNL_MaintenanceDivers,,,,PNL_Maintenance,O214,
+761,sig_statistic,SIG_Statistic,SIG Statistic,64904,false,SIG Statistic,,SIG_Statistic,,,,STA_Statistic,SIG_Statistic,
+762,sig_e0001,SIG_E0001,CHARGES TOTALES,64904,false,CHARGES TOTALES,Eco_CRE_TRA_STO_15,SIG_E0001,,,,SIG_Statistic,SIG_E0001,
+763,sig_e0002,SIG_E0002,Revenu Hors ATR,64904,false,Revenu Hors ATR,Eco_CRE_TRA_01,SIG_E0002,,,,SIG_Statistic,SIG_E0002,
+764,sig_e0003,SIG_E0003,Revenu Hors ATS,64904,false,Revenu Hors ATS,Eco_CRE_STO_12,SIG_E0003,,,,SIG_Statistic,SIG_E0003,
+765,sig_e0004,SIG_E0004,CNE TOTAL,64904,false,CNE TOTAL,Eco_CRE_TRA_STO_55,SIG_E0004,,,,SIG_Statistic,SIG_E0004,
+766,sig_e0005,SIG_E0005,CHARGES HORS ENERGIE & HORS BESOIN TRANSPORTEUR,64904,false,CHARGES HORS ENERGIE & HORS BESOIN TRANSPORTEUR,Eco_CRE_TRA_51,SIG_E0005,,,,SIG_Statistic,SIG_E0005,
+767,sig_e0006,SIG_E0006,CNE HORS ENERGIE & HORS BESOIN TRANSPORTEUR,64904,false,CNE HORS ENERGIE & HORS BESOIN TRANSPORTEUR,Eco_CRE_TRA_52,SIG_E0006,,,,SIG_Statistic,SIG_E0006,
+768,sig_e0007,SIG_E0007,CHARGES HORS ENERGIE,64904,false,CHARGES HORS ENERGIE,Eco_CRE_STO_53,SIG_E0007,,,,SIG_Statistic,SIG_E0007,
+769,sig_e0008,SIG_E0008,CNE HORS ENERGIE,64904,false,CNE HORS ENERGIE,Eco_CRE_STO_54,SIG_E0008,,,,SIG_Statistic,SIG_E0008,
+301,pnl_00199,PNL_00199,Hors Contrat GNV,64904,false,Hors Contrat GNV,Eco_CRE_TRA_10,PNL_00199,,,OpMP_ConnectionIncome,PNL_PrestationsHorsContratsD'Interface,C1232-004,OpxY_ChiffreAffaireInp
+322,pnl_00198,PNL_00198,Hors Contrat Biométhane,64904,false,Hors Contrat Biométhane,Eco_CRE_TRA_09,PNL_00198,,,OpMP_ConnectionIncome,PNL_PrestationsHorsContratsD'Interface,C1232-003,OpxY_ChiffreAffaireInp
+324,pnl_00197,PNL_00197,Hors Contrat PIC,64904,false,Hors Contrat PIC,Eco_CRE_TRA_08,PNL_00197,,,OpMP_ConnectionIncome,PNL_PrestationsHorsContratsD'Interface,C1232-002,OpxY_ChiffreAffaireInp
+326,pnl_00196,PNL_00196,Hors Contrat PITD,64904,false,Hors Contrat PITD,Eco_CRE_TRA_07,PNL_00196,,,OpMP_ConnectionIncome,PNL_PrestationsHorsContratsD'Interface,C1232-001,OpxY_ChiffreAffaireInp
+420,pnl_00200,PNL_00200,Achat de gaz congestion,64904,false,Achat de gaz congestion,Eco_CRE_TRA_04,PNL_00200,,,OpMP_ChargesLieesALaLeveeDesCongestions,PNL_Congestion,C122-001,OpxY_ChiffreAffaireInp
+525,pnl_00131,PNL_00131,Coûts de personnel,64904,false,Coûts de personnel,Eco_CRE_TRA_STO_39,PNL_00131,,,OpMP_PersonnelCosts,PNL_FraisDePersonnel,P1,OpxY_MasseSalarialeInp
+521,pnl_00011,PNL_00011,Gestion annuelle compensation Stockage,64904,false,Gestion annuelle compensation Stockage,Eco_CRE_TRA_02,PNL_00011,,,OpMP_ATR,PNL_RevenuHorsATR,C121,OpxY_ChiffreAffaireInp
+65,pnl_abandonsetbouchages,PNL_AbandonsEtBouchages,Abandons et bouchages,64904,false,Abandons et bouchages,Eco_CRE_TRA_STO_22¦OpXC_DOP¦OpXC_DOT,PNL_AbandonsEtBouchages,,,,PNL_CoutDExploitationEtDeMaintenanceDuReseau,O24,
+294,pnl_etudestechniques,PNL_EtudesTechniques,Etudes techniques,64904,false,Etudes techniques,Eco_CRE_TRA_STO_28¦OpXC_DOP¦OpXC_DOT,PNL_EtudesTechniques,,,,PNL_EtudesEtAutresDepensesLieesALExploitation,O41,
+473,pnl_servicesauxtiers,PNL_ServicesAuxTiers,Services aux tiers,64904,false,Services aux tiers,Eco_CRE_TRA_STO_32¦OpXC_DOP¦OpXC_DOT,PNL_ServicesAuxTiers,,,,PNL_EtudesEtAutresDepensesLieesALExploitation,O45,
+3,pnl_maintenance,PNL_Maintenance,Maintenance,64904,false,Maintenance,Eco_CRE_TRA_STO_19¦OpXC_DOP¦OpXC_DOT,PNL_Maintenance,,,,PNL_CoutDExploitationEtDeMaintenanceDuReseau,O21,
+25,pnl_fraisdexploitationantictl,PNL_FraisDExploitationAntiCTL,ANTI-CTL,64904,false,ANTI-CTL,Eco_CRE_TRA_STO_35¦OpXC_DOP¦OpXC_DOT,PNL_FraisDExploitationAntiCTL,,,,PNL_EtudesEtAutresDepensesLieesALExploitation,O48,
+36,pnl_hygienesantesecuriteenvironnement,PNL_HygieneSanteSecuriteEnvironnement,"Hygiène, Santé, Sécurité, Sûreté, Environnement, Qualité et Développement Durable",64904,false,"Hygiène, Santé, Sécurité, Sûreté, Environnement, Qualité et Développement Durable",Eco_CRE_TRA_STO_30¦OpXC_DOP¦OpXC_DOT,PNL_HygieneSanteSecuriteEnvironnement,,,,PNL_EtudesEtAutresDepensesLieesALExploitation,O43,
+47,pnl_fraisdexploitation,PNL_FraisDExploitation,FRAIS D'EXPLOITATION,64904,false,FRAIS D'EXPLOITATION,Eco_CRE_TRA_STO_16¦OpXC_DOP¦OpXC_DOT,PNL_FraisDExploitation,,,,PNL_EBITDA,O,
+51,pnl_gestiondesressourceshumaines,PNL_GestionDesRessourcesHumaines,Gestion des ressources humaines,64904,false,Gestion des ressources humaines,Eco_CRE_TRA_STO_45¦OpXC_DOP¦OpXC_DOT,PNL_GestionDesRessourcesHumaines,,,,PNL_FraisDeStructure,Q4,
+52,pnl_communication,PNL_Communication,Communication,64904,false,Communication,Eco_CRE_TRA_STO_46¦OpXC_DOP¦OpXC_DOT,PNL_Communication,,,,PNL_FraisDeStructure,Q5,
+85,pnl_prestationsintragroupe,PNL_PrestationsIntraGroupe,Prestations intra-groupe,64904,false,Prestations intra-groupe,Eco_CRE_TRA_STO_50¦OpXC_DOP¦OpXC_DOT,PNL_PrestationsIntraGroupe,,,,PNL_FraisDeStructure,Q9,
+113,pnl_taxesdaffaires,PNL_TaxesDAffaires,TAXES D'AFFAIRES,64904,false,TAXES D'AFFAIRES,Eco_CRE_TRA_STO_36¦OpXC_DOP¦OpXC_DOT,PNL_TaxesDAffaires,,,,PNL_FraisDExploitation,O5,
+116,pnl_coutdexploitationetdemaintenancedureseau,PNL_CoutDExploitationEtDeMaintenanceDuReseau,Coûts d'exploitation et de maintenance du réseau,64904,false,Coûts d'exploitation et de maintenance du réseau,Eco_CRE_TRA_STO_18¦OpXC_DOP¦OpXC_DOT,PNL_CoutDExploitationEtDeMaintenanceDuReseau,,,,PNL_FraisDExploitation,O2,
+197,pnl_fraisdedeplacementetmissions,PNL_FraisDeDeplacementEtMissions,Frais de déplacement et Missions,64904,false,Frais de déplacement et Missions,Eco_CRE_TRA_STO_44¦OpXC_DOP¦OpXC_DOT,PNL_FraisDeDeplacementEtMissions,,,,PNL_FraisDeStructure,Q3,
+256,pnl_inspectionintegrite,PNL_InspectionIntegrite,Inspection / Intégrité,64904,false,Inspection / Intégrité,Eco_CRE_TRA_STO_20¦OpXC_DOP¦OpXC_DOT,PNL_InspectionIntegrite,,,,PNL_CoutDExploitationEtDeMaintenanceDuReseau,O22,
+258,pnl_gestiondesinfrastructuresinformatiquesapplicationsdentreprise,PNL_GestionDesInfrastructuresInformatiquesApplicationsDEntreprise,Gestion des infrastructures informatiques & applications d'entreprise,64904,false,Gestion des infrastructures informatiques & applications d'entreprise,Eco_CRE_TRA_STO_43¦OpXC_DOP¦OpXC_DOT,PNL_GestionDesInfrastructuresInformatiquesApplicationsDEntreprise,,,,PNL_FraisDeStructure,Q2,
+275,pnl_fraisdestructure,PNL_FraisDeStructure,FRAIS DE STRUCTURE,64904,false,FRAIS DE STRUCTURE,Eco_CRE_TRA_STO_41¦OpXC_DOP¦OpXC_DOT,PNL_FraisDeStructure,,,,PNL_EBITDA,Q,
+332,pnl_autresprestationsassistancehonoraires,PNL_AutresPrestationsAssistanceHonoraires,Autres prestations assistance & honoraires,64904,false,Autres prestations assistance & honoraires,Eco_CRE_TRA_STO_48¦OpXC_DOP¦OpXC_DOT,PNL_AutresPrestationsAssistanceHonoraires,,,,PNL_FraisDeStructure,Q7,
+347,pnl_gestiondesinfrastructuresinformatiquesapplicationsindustrielles,PNL_GestionDesInfrastructuresInformatiquesApplicationsIndustrielles,Gestion des infrastructures informatiques & applications industrielles,64904,false,Gestion des infrastructures informatiques & applications industrielles,Eco_CRE_TRA_STO_31¦OpXC_DOP¦OpXC_DOT,PNL_GestionDesInfrastructuresInformatiquesApplicationsIndustrielles,,,,PNL_EtudesEtAutresDepensesLieesALExploitation,O44,
+352,pnl_gestiondeslocauxbatimentsetflotte,PNL_GestionDesLocauxBatimentsEtFlotte,"Gestion des locaux, bâtiments et flotte",64904,false,"Gestion des locaux, bâtiments et flotte",Eco_CRE_TRA_STO_42¦OpXC_DOP¦OpXC_DOT,PNL_GestionDesLocauxBatimentsEtFlotte,,,,PNL_FraisDeStructure,Q1,
+442,pnl_prestationsautresdepenseslieesaleploitation,PNL_PrestationsAutresDepensesLieesALEploitation,Prestations & autres dépenses liées à l'exploitation,64904,false,Prestations & autres dépenses liées à l'exploitation,Eco_CRE_TRA_STO_29¦OpXC_DOP¦OpXC_DOT,PNL_PrestationsAutresDepensesLieesALEploitation,,,,PNL_EtudesEtAutresDepensesLieesALExploitation,O42,
+450,pnl_contrôlereglementairesetmiseenconformite,PNL_ContrôleReglementairesEtMiseEnConformite,Contrôles réglementaires et mise en conformité,64904,false,Contrôles réglementaires et mise en conformité,Eco_CRE_TRA_STO_24¦OpXC_DOP¦OpXC_DOT,PNL_ContrôleReglementairesEtMiseEnConformite,,,,PNL_FraisDExploitation,O3,
+471,pnl_surveillance,PNL_Surveillance,Surveillance,64904,false,Surveillance,Eco_CRE_TRA_STO_21¦OpXC_DOP¦OpXC_DOT,PNL_Surveillance,,,,PNL_CoutDExploitationEtDeMaintenanceDuReseau,O23,
+486,pnl_etudesetautresdepenseslieesalexploitation,PNL_EtudesEtAutresDepensesLieesALExploitation,Etudes et autres dépenses liées à l'exploitation,64904,false,Etudes et autres dépenses liées à l'exploitation,Eco_CRE_TRA_STO_27¦OpXC_DOP¦OpXC_DOT,PNL_EtudesEtAutresDepensesLieesALExploitation,,,,PNL_FraisDExploitation,O4,
+795,sap_typza,SAP_TYPZA,ZA,64904,false,ZA,,SAP_TYPZA,,,,SAP_HR_Statistic,SAP_TYPZA,
+796,sap_typzb,SAP_TYPZB,ZB,64904,false,ZB,,SAP_TYPZB,,,,SAP_HR_Statistic,SAP_TYPZB,
+797,sap_hr_stagroup2,SAP_HR_STAGroup2,Type Autres,64904,false,Type Autres,,SAP_HR_STAGroup2,,,,SAP_HR_Statistic,SAP_TYPZx,
+798,sap_typkr,SAP_TYPKR,KR,64904,false,KR,,SAP_TYPKR,,,,SAP_HR_STAGroup2,SAP_TYPKR,
+799,sap_typsa,SAP_TYPSA,SA,64904,false,SA,,SAP_TYPSA,,,,SAP_HR_STAGroup2,SAP_TYPSA,
+800,sap_typzk,SAP_TYPZK,ZK,64904,false,ZK,,SAP_TYPZK,,,,SAP_HR_STAGroup2,SAP_TYPZK,
+801,sap_typkg,SAP_TYPKG,KG,64904,false,KG,,SAP_TYPKG,,,,SAP_HR_STAGroup2,SAP_TYPKG,
+802,sap_typkz,SAP_TYPKZ,KZ,64904,false,KZ,,SAP_TYPKZ,,,,SAP_HR_STAGroup2,SAP_TYPKZ,
+803,sap_typwe,SAP_TYPWE,WE,64904,false,WE,,SAP_TYPWE,,,,SAP_HR_STAGroup2,SAP_TYPWE,
+804,sap_typdr,SAP_TYPDR,DR,64904,false,DR,,SAP_TYPDR,,,,SAP_HR_STAGroup2,SAP_TYPDR,
+805,sap_typab,SAP_TYPAB,AB,64904,false,AB,,SAP_TYPAB,,,,SAP_HR_STAGroup2,SAP_TYPAB,
+261,sta_00007,STA_00007,Amort Frais Acquisition (Stat),64904,false,Amort Frais Acquisition (Stat),,STA_00007,,,,STA_Fin_Statistic,STA_00007,
+262,sta_00006,STA_00006,Production Immobilisée (Stat),64904,false,Production Immobilisée (Stat),,STA_00006,,,,STA_Fin_Statistic,STA_00006,
+827,opmp_netresultgroupshare,OpMP_NetResultGroupShare,"Net result, Group Share",64904,false,"Net result, Group Share",,OpMP_NetResultGroupShare,,,,OpMP,OpMP_NG,
+828,opmp_minorityinterests,OpMP_MinorityInterests,Minority Interests,64904,false,Minority Interests,,OpMP_MinorityInterests,CFS_00056,-,,OpMP_NetResultGroupShare,OpMP_NG2,
+829,cfs_00056,CFS_00056,Minority Interests,64904,false,Minority Interests,,CFS_00056,BSH_00030,+,,CFS_NonMonetaryComponents,CFS11120,
+830,bsh_00030,BSH_00030,Minority Interests,64904,false,Minority Interests,,BSH_00030,,,,BSH_ShareCapitalPremium,BS21-003,
+831,pnl_00210,PNL_00210,Minority Interests,64904,false,Minority Interests,,PNL_00210,,,OpMP_MinorityInterests,PNL_UEBIT,X,OpxY_UEBITDA
+832,opms_taxratio,OpMS_TaxRatio,Tax Ratio x,64904,false,Tax Ratio x,,OpMS_TaxRatio,,,,OpMP,OpMP_TaxA,
+860,sta_hr_statistic,STA_HR_Statistic,HR Statistic,64904,false,HR Statistic,,STA_HR_Statistic,,,,STA_Statistic,,
+794,sap_hr_statistic,SAP_HR_Statistic,SAP HR par Type Piece,64904,false,SAP HR par Type Piece,,SAP_HR_Statistic,,,,STA_HR_Statistic,SAP_HR_Statistic,
+861,sta_hr_people,STA_HR_People,People,64904,false,People,,STA_HR_People,,,,STA_HR_Statistic,,
+862,sta_hr001,STA_HR001,Poste,64904,false,Poste,,STA_HR001,,,,STA_HR_People,,
+863,sta_hr002,STA_HR002,Headcount,64904,false,Headcount,,STA_HR002,,,,STA_HR_People,,
+864,sta_hr003,STA_HR003,ETP,64904,false,ETP,,STA_HR003,,,,STA_HR_People,,
+865,sta_hr004,STA_HR004,EMS annuel moyen,64904,false,EMS annuel moyen,,STA_HR004,,,,STA_HR_People,,
+893,cfs_ingenierie,CFS_Ingenierie,Ingénierie,64904,false,Ingénierie,,CFS_Ingenierie,,,,CFS_TechnicalInvestments,CFS_CPX1,
+894,cfs_00057,CFS_00057,Etudes de faisabilité/conceptuelles,64904,false,Etudes de faisabilité/conceptuelles,,CFS_00057,,,,CFS_Ingenierie,CFS_00057,
+895,cfs_00058,CFS_00058,Etudes d'ingénierie,64904,false,Etudes d'ingénierie,,CFS_00058,,,,CFS_Ingenierie,CFS_00058,
+896,cfs_00059,CFS_00059,Etudes géotechniques,64904,false,Etudes géotechniques,,CFS_00059,,,,CFS_Ingenierie,CFS_00059,
+897,cfs_00060,CFS_00060,Permitting,64904,false,Permitting,,CFS_00060,,,,CFS_Ingenierie,CFS_00060,
+898,cfs_domanial,CFS_Domanial,Domanial,64904,false,Domanial,,CFS_Domanial,,,,CFS_TechnicalInvestments,CFS_CPX2,
+899,cfs_00061,CFS_00061,Prestation domaniale/topo,64904,false,Prestation domaniale/topo,,CFS_00061,,,,CFS_Domanial,CFS_00061,
+900,cfs_00062,CFS_00062,Indemnités de servitudes,64904,false,Indemnités de servitudes,,CFS_00062,,,,CFS_Domanial,CFS_00062,
+901,cfs_00063,CFS_00063,Indemnités de dommages,64904,false,Indemnités de dommages,,CFS_00063,,,,CFS_Domanial,CFS_00063,
+902,cfs_00064,CFS_00064,"Acquisitions domaniales: Terrains, construction",64904,false,"Acquisitions domaniales: Terrains, construction",,CFS_00064,,,,CFS_Domanial,CFS_00064,
+903,cfs_00065,CFS_00065,Archéologie,64904,false,Archéologie,,CFS_00065,,,,CFS_Domanial,CFS_00065,
+904,cfs_moyensgeneraux,CFS_MoyensGeneraux,Moyens Généraux,64904,false,Moyens Généraux,,CFS_MoyensGeneraux,,,,CFS_TechnicalInvestments,CFS_CPX3,
+905,cfs_00087,CFS_00087,Aménagement Bâtiments et Extérieurs,64904,false,Aménagement Bâtiments et Extérieurs,,CFS_00087,,,,CFS_MoyensGeneraux,CFS_00087,
+906,cfs_materiel,CFS_Materiel,Matériel,64904,false,Matériel,,CFS_Materiel,,,,CFS_TechnicalInvestments,CFS_CPX4,
+907,cfs_00067,CFS_00067,Matériel principal,64904,false,Matériel principal,,CFS_00067,,,,CFS_Materiel,CFS_00067,
+908,cfs_00068,CFS_00068,Autres Equipements,64904,false,Autres Equipements,,CFS_00068,,,,CFS_Materiel,CFS_00068,
+909,cfs_00069,CFS_00069,Prestation de réception de matériel,64904,false,Prestation de réception de matériel,,CFS_00069,,,,CFS_Materiel,CFS_00069,
+910,cfs_supervision,CFS_Supervision,Supervision et coordination SPS,64904,false,Supervision et coordination SPS,,CFS_Supervision,,,,CFS_TechnicalInvestments,CFS_CPX5,
+911,cfs_00070,CFS_00070,Coordination sécurité (CSPS) - Conception et réalisation,64904,false,Coordination sécurité (CSPS) - Conception et réalisation,,CFS_00070,,,,CFS_Supervision,CFS_00070,
+912,cfs_00071,CFS_00071,Supervision de chantier (construction),64904,false,Supervision de chantier (construction),,CFS_00071,,,,CFS_Supervision,CFS_00071,
+913,cfs_00072,CFS_00072,AMOE/AMOA,64904,false,AMOE/AMOA,,CFS_00072,,,,CFS_Supervision,CFS_00072,
+914,cfs_travaux,CFS_Travaux,Travaux,64904,false,Travaux,,CFS_Travaux,,,,CFS_TechnicalInvestments,CFS_CPX6,
+915,cfs_00073,CFS_00073,Travaux préparatoires,64904,false,Travaux préparatoires,,CFS_00073,,,,CFS_Travaux,CFS_00073,
+916,cfs_00074,CFS_00074,Travaux réseaux divers,64904,false,Travaux réseaux divers,,CFS_00074,,,,CFS_Travaux,CFS_00074,
+917,cfs_00075,CFS_00075,Travaux principaux,64904,false,Travaux principaux,,CFS_00075,,,,CFS_Travaux,CFS_00075,
+918,cfs_00076,CFS_00076,Contrôles réglementaires,64904,false,Contrôles réglementaires,,CFS_00076,,,,CFS_Travaux,CFS_00076,
+919,cfs_00077,CFS_00077,Réception de l'ouvrage,64904,false,Réception de l'ouvrage,,CFS_00077,,,,CFS_Travaux,CFS_00077,
+920,cfs_stockageaquifere,CFS_StockageAquifere,Stockage Aquifère,64904,false,Stockage Aquifère,,CFS_StockageAquifere,,,,CFS_TechnicalInvestments,CFS_CPX8,
+921,cfs_00088,CFS_00088,Gaz Coussin,64904,false,Gaz Coussin,,CFS_00088,,,,CFS_StockageAquifere,CFS_00088,
+922,cfs_data,CFS_Data,Data,64904,false,Data,,CFS_Data,,,,CFS_TechnicalInvestments,CFS_CPX9,
+923,cfs_00085,CFS_00085,Collecte de Données,64904,false,Collecte de Données,,CFS_00085,,,,CFS_Data,CFS_00085,
+924,cfs_00086,CFS_00086,Intégration de Données,64904,false,Intégration de Données,,CFS_00086,,,,CFS_Data,CFS_00086,
+925,cfs_divers,CFS_Divers,Divers Investissements,64904,false,Divers Investissements,,CFS_Divers,,,,CFS_TechnicalInvestments,CFS_CPXx,
+926,cfs_00078,CFS_00078,Assurance,64904,false,Assurance,,CFS_00078,,,,CFS_Divers,CFS_00078,
+927,cfs_00079,CFS_00079,Gestion documentaire,64904,false,Gestion documentaire,,CFS_00079,,,,CFS_Divers,CFS_00079,
+928,cfs_00080,CFS_00080,Frais de déplacements,64904,false,Frais de déplacements,,CFS_00080,,,,CFS_Divers,CFS_00080,
+929,cfs_00081,CFS_00081,Communication,64904,false,Communication,,CFS_00081,,,,CFS_Divers,CFS_00081,
+930,cfs_00082,CFS_00082,Prestations juridiques,64904,false,Prestations juridiques,,CFS_00082,,,,CFS_Divers,CFS_00082,
+931,cfs_00083,CFS_00083,Audits,64904,false,Audits,,CFS_00083,,,,CFS_Divers,CFS_00083,
+932,cfs_00084,CFS_00084,Divers (Divers Investissements),64904,false,Divers (Divers Investissements),,CFS_00084,,,,CFS_Divers,CFS_00084,
+933,cfs_suretesecuriteenvironnement,CFS_SureteSecuriteEnvironnement,Sureté Sécurité Environnement,64904,false,Sureté Sécurité Environnement,,CFS_SureteSecuriteEnvironnement,,,,CFS_TechnicalInvestments,CFS_CPX7,
+934,cfs_00089,CFS_00089,Sureté,64904,false,Sureté,,CFS_00089,,,,CFS_SureteSecuriteEnvironnement,CFS_00089,
+935,cfs_00090,CFS_00090,Sécurité Industrielle,64904,false,Sécurité Industrielle,,CFS_00090,,,,CFS_SureteSecuriteEnvironnement,CFS_00090,
+936,cfs_00066,CFS_00066,Compensation Environnementale,64904,false,Compensation Environnementale,,CFS_00066,,,,CFS_SureteSecuriteEnvironnement,CFS_0009x,
+40,cfs_integriteetmodernisation,CFS_IntegriteEtModernisation,Intégrité et modernisation,64904,false,Intégrité et modernisation,,CFS_IntegriteEtModernisation,,,,CFS_TechnicalInvestments,CFS21500**,
+376,cfs_00037,CFS_00037,"Terrain, construction et aménagement",64904,false,"Terrain, construction et aménagement",,CFS_00037,,,,CFS_Generaux,CFS21640**,
+386,cfs_00028,CFS_00028,Retrait zones urbaines,64904,false,Retrait zones urbaines,,CFS_00028,,,,CFS_IntegriteEtModernisation,CFS21570**,
+387,cfs_00027,CFS_00027,Suppression traversées aériennes,64904,false,Suppression traversées aériennes,,CFS_00027,,,,CFS_IntegriteEtModernisation,CFS21560**,
+388,cfs_00026,CFS_00026,Modernisation du réseau,64904,false,Modernisation du réseau,,CFS_00026,,,,CFS_IntegriteEtModernisation,CFS21550**,
+389,cfs_00025,CFS_00025,Modernisation postes,64904,false,Modernisation postes,,CFS_00025,,,,CFS_IntegriteEtModernisation,CFS21540**,
+390,cfs_00024,CFS_00024,Mesures compensatoires,64904,false,Mesures compensatoires,,CFS_00024,,,,CFS_IntegriteEtModernisation,CFS21530**,
+391,cfs_00023,CFS_00023,Mise en conformité,64904,false,Mise en conformité,,CFS_00023,,,,CFS_IntegriteEtModernisation,CFS21520**,
+395,cfs_00029,CFS_00029,Général,64904,false,Général,,CFS_00029,,,,CFS_Generaux,CFS21610**,
+398,cfs_00020,CFS_00020,Alimentations nouvelles,64904,false,Alimentations nouvelles,,CFS_00020,,,,CFS_TechnicalInvestments,CFS21300**,
+412,cfs_00019,CFS_00019,Renforcement,64904,false,Renforcement,,CFS_00019,,,,CFS_TechnicalInvestments,CFS21200**,
+413,cfs_00018,CFS_00018,Développement,64904,false,Développement,,CFS_00018,,,,CFS_TechnicalInvestments,CFS21100**,
+392,cfs_00022,CFS_00022,Maintien I&M,64904,false,Maintien I&M,,CFS_00022,,,,CFS_Maintien,CFS21512**,
+728,cfs_maintien,CFS_Maintien,Maintien,64904,false,Maintien,,CFS_Maintien,,,,CFS_IntegriteEtModernisation,CFS21510**,
+303,pnl_00088,PNL_00088,Divers (Abandons et bouchages),64904,false,Divers (Abandons et bouchages),,PNL_00088,,,OpMP_OtherRepairsAndDamages,PNL_AbandonsEtBouchages,O24-003,OpxY_FraisExploitationInp
+500,pnl_00140,PNL_00140,Divers (ENTRETIEN DES LOCAUX),64904,false,Divers (ENTRETIEN DES LOCAUX),,PNL_00140,,,OpMP_CentralCosts,PNL_EntretienDesLocaux,Q31-006,OpxY_FraisStructureInp
+276,pnl_00167,PNL_00167,Divers (Divers (FRAIS DE STRUCTURE)),64904,false,Divers (Divers (FRAIS DE STRUCTURE)),,PNL_00167,,,OpMP_CentralCosts,PNL_FraisDeStructureDivers,Q8-999,OpxY_FraisStructureInp
+190,pnl_00040,PNL_00040,Divers (DIVERS (AUTRES REVENUS)),64904,false,Divers (DIVERS (AUTRES REVENUS)),,PNL_00040,,,OpMP_RevenueOthers,PNL_Divers,C37-001,OpxY_ChiffreAffaireInp
+317,pnl_00069,PNL_00069,Divers (Divers (Maintenance)),64904,false,Divers (Divers (Maintenance)),,PNL_00069,,,OpMP_MajorMaintenance,PNL_MaintenanceDivers,O214-001,OpxY_FraisExploitationInp
+445,pnl_00112,PNL_00112,Divers (Divers (Hygiène et santé)),64904,false,Divers (Divers (Hygiène et santé)),,PNL_00112,,,OpMP_TechnicalOperations,PNL_HygieneEtSanteDivers,O437-002,OpxY_FraisExploitationInp
+321,pnl_00188,PNL_00188,Divers (CHARGES DIVERSES),64904,false,Divers (CHARGES DIVERSES),,PNL_00188,,,OpMP_OtherOperatings,PNL_ChargesDiverses,O61-002,OpxY_FraisExploitationInp
+43,pnl_hygieneetsantedivers,PNL_HygieneEtSanteDivers,Divers (Hygiène et santé),64904,false,Divers (Hygiène et santé),OpXC_DOT,PNL_HygieneEtSanteDivers,,,,PNL_HygieneSanteSecuriteEnvironnement,O437,
+6,pnl_fraisdestructuredivers,PNL_FraisDeStructureDivers,Divers (FRAIS DE STRUCTURE),64904,false,Divers (FRAIS DE STRUCTURE),Eco_CRE_TRA_STO_49¦OpXC_DOP¦OpXC_DOT,PNL_FraisDeStructureDivers,,,,PNL_FraisDeStructure,Q8,
+959,pnl_00211,PNL_00211,Non-Recurring Items,64904,false,Non-Recurring Items,,PNL_00211,,,OpMP_NonRecurringItems,PNL_UEBIT,V2,OpxY_UEBITDA
+334,pnl_00193,PNL_00193,Dividend received,64904,false,Dividend received,,PNL_00193,,,OpMP_DividendReceived,PNL_UEBIT,V1,OpxY_UEBITDA
+960,opmp_nonrecurringitems,OpMP_NonRecurringItems,Non-Recurring Items,64904,false,Non-Recurring Items,,OpMP_NonRecurringItems,CFS_00091,-,,OpMP_NetResult,OpMPN41,
+961,cfs_00091,CFS_00091,Non-Recurring Items,64904,false,Non-Recurring Items,,CFS_00091,BSH_00003,-,,CFS_NonMonetaryComponents,CFS11140,
+992,pnl_autresreparationsetdommages,PNL_AutresReparationsEtDommages,Autres réparations et dommages,64904,false,Autres réparations et dommages,Eco_CRE_TRA_STO_23¦OpXC_DOP¦OpXC_DOT,PNL_AutresReparationsEtDommages,,,,PNL_CoutDExploitationEtDeMaintenanceDuReseau,O25,
+993,pnl_prestationgroupe,PNL_PrestationGroupe,Prestation Groupe,64904,false,Prestation Groupe,,PNL_PrestationGroupe,,,,PNL_AutresRevenus,C38,
+1025,pnl_revenunonregule,PNL_RevenuNonRegule,REVENU NON REGULE,64904,false,REVENU NON REGULE,,PNL_RevenuNonRegule,,,,PNL_AutresRevenus,C36b,
+1026,pnl_00212,PNL_00212,Vente de Biens,64904,false,Vente de Biens,,PNL_00212,,,OPMP_ProductSales,PNL_RevenuNonRegule,C36b-001,OpxY_ChiffreAffaireInp
+1028,opmp_servicesales,OPMP_ServiceSales,Services Sales,64904,false,Services Sales,,OPMP_ServiceSales,,,,OPMP_OtherRevenues,OpMP454,
+1029,opmp_productsales,OPMP_ProductSales,Products Sales,64904,false,Products Sales,,OPMP_ProductSales,,,,OPMP_OtherRevenues,OpMP455,
+1027,pnl_00213,PNL_00213,Vente de Services - Autres,64904,false,Vente de Services - Autres,,PNL_00213,,,OPMP_ServiceSales,PNL_VenteServices,C36b-002x,OpxY_ChiffreAffaireInp
+443,pnl_00114,PNL_00114,Transform - Projets FE,64904,false,Transform - Projets FE,,PNL_00114,,,OpMP_TechnicalOperations,PNL_FraisDExploitationTransform,O441-002,OpxY_FraisExploitationInpSI
+444,pnl_00113,PNL_00113,Transform - Etudes conceptuelles FE,64904,false,Transform - Etudes conceptuelles FE,,PNL_00113,,,OpMP_TechnicalOperations,PNL_FraisDExploitationTransform,O441-001,OpxY_FraisExploitationInpSI
+439,pnl_00117,PNL_00117,Maj BDD ouvrage,64904,false,Maj BDD ouvrage,,PNL_00117,,,OpMP_TechnicalOperations,PNL_MiseAjourdeBDD,O444-001,OpxY_FraisExploitationInpSI
+1225,pnl_00217,PNL_00217,Maintain - Evolutions FS,64904,false,Maintain - Evolutions FS,,PNL_00217,,,OpMP_CentralCosts,PNL_FraisDeStructureMaintain,Q23-001,OpxY_FraisStructureInpSI
+1226,pnl_00218,PNL_00218,Maintain - MCO FS,64904,false,Maintain - MCO FS,,PNL_00218,,,OpMP_CentralCosts,PNL_FraisDeStructureMaintain,Q23-002,OpxY_FraisStructureInpSI
+1227,pnl_00219,PNL_00219,Maintain - Evolutions FE,64904,false,Maintain - Evolutions FE,,PNL_00219,,,OpMP_TechnicalOperations,PNL_FraisDExploitationMaintain,O443-001,OpxY_FraisExploitationInpSI
+1228,pnl_00220,PNL_00220,Maintain - MCO FE,64904,false,Maintain - MCO FE,,PNL_00220,,,OpMP_TechnicalOperations,PNL_FraisDExploitationMaintain,O443-002,OpxY_FraisExploitationInpSI
+1229,cfs_00092,CFS_00092,Transform - Etudes d'opportunités,64904,false,Transform - Etudes d'opportunités,,CFS_00092,,,DTDP,CFS_SystemedInformation,CFS21623,
+1223,pnl_fraisdestructuremaintain,PNL_FraisDeStructureMaintain,Maintain FS,64904,false,Maintain FS,,PNL_FraisDeStructureMaintain,,,,PNL_GestionDesInfrastructuresInformatiquesApplicationsDEntreprise,Q22,
+88,pnl_fraisdestructureoperate,PNL_FraisDeStructureOperate,Operate FS,64904,false,Operate FS,,PNL_FraisDeStructureOperate,,,,PNL_GestionDesInfrastructuresInformatiquesApplicationsDEntreprise,Q23,
+150,pnl_fraisdexploitationtransform,PNL_FraisDExploitationTransform,Transform FE,64904,false,Transform FE,,PNL_FraisDExploitationTransform,,,,PNL_GestionDesInfrastructuresInformatiquesApplicationsIndustrielles,O441,
+1224,pnl_fraisdexploitationmaintain,PNL_FraisDExploitationMaintain,Maintain FE,64904,false,Maintain FE,,PNL_FraisDExploitationMaintain,,,,PNL_GestionDesInfrastructuresInformatiquesApplicationsIndustrielles,O442,
+1256,pnl_00221,PNL_00221,Gros entretiens REBOURS,64904,false,Gros entretiens REBOURS,,PNL_00221,,,OpMP_MajorMaintenance,PNL_AutresGrosEntretiens,O2114-003,OpxY_FraisExploitationInp
+241,pnl_00065,PNL_00065,Divers (Autres Gros Entretiens),64904,false,Divers (Autres Gros Entretiens),,PNL_00065,,,OpMP_MajorMaintenance,PNL_AutresGrosEntretiens,O2114-999,OpxY_FraisExploitationInp

@@ -1,0 +1,99 @@
+member_id,customer_key,unaltered_customer_key,display_name,level_id,is_deleted,a_categoriedescription,a_categoriekey,a_categorieparentkey,a_categoriesorting,a_categoriemapactivite
+2,dec_trc,dec_trc,Prime TRC,65469,false,Prime TRC,dec_trc,categ_proj,,
+18,dec_mat,dec_mat,Matériel Principal,65469,false,Matériel Principal,dec_mat,categ_proj,,
+21,dec_ing,dec_ing,Ingénierie,65469,false,Ingénierie,dec_ing,categ_proj,,
+23,dec_tra,dec_tra,Travaux,65469,false,Travaux,dec_tra,categ_proj,,
+24,dec_int,dec_int,Frais internes,65469,false,Frais internes,dec_int,categ_proj,,
+27,categ_proj,categ_proj,Découpage Projets CAPEX,65469,false,Découpage Projets CAPEX,categ_proj,Categorie_Root,,
+39,dec_dom,dec_dom,Domanial,65469,false,Domanial,dec_dom,categ_proj,,
+40,categorie_root,Categorie_Root,Categorie (Root),65469,false,Categorie (Root),Categorie_Root,Categorie_Root,,
+41,dec_sup,dec_sup,Supervision et Coordination SPS,65469,false,Supervision et Coordination SPS,dec_sup,categ_proj,,
+42,dec_div,dec_div,Divers,65469,false,Divers,dec_div,categ_proj,,
+43,categ_people,categ_people,Type de chaise,65469,false,Type de chaise,categ_people,Categorie_Root,,
+44,typ_00001,TYP_00001,Permanent,65469,false,Permanent,TYP_00001,categ_people,,
+45,typ_00002,TYP_00002,Aménagé,65469,false,Aménagé,TYP_00002,categ_people,,
+46,typ_00003,TYP_00003,Temporaire,65469,false,Temporaire,TYP_00003,categ_people,,
+47,typ_00004,TYP_00004,Alternant,65469,false,Alternant,TYP_00004,categ_people,,
+48,typ_00005,TYP_00005,Autres,65469,false,Autres,TYP_00005,categ_people,,
+1,dec_00021,dec_00021,Coordination sécurité (CSPS) - Conception et réalisation,65469,false,Coordination sécurité (CSPS) - Conception et réalisation,dec_00021,dec_sup,,CFS_00070
+3,dec_00022,dec_00022,Assistance à Maitrise d'oeuvre,65469,false,Assistance à Maitrise d'oeuvre,dec_00022,dec_sup,,CFS_00072
+4,dec_00020,dec_00020,Supervision de chantier (construction),65469,false,Supervision de chantier (construction),dec_00020,dec_sup,,CFS_00071
+5,dec_00025,dec_00025,EPC Travaux,65469,false,EPC Travaux,dec_00025,dec_tra,,CFS_00075
+6,dec_00003,dec_00003,Etudes Ingénierie,65469,false,Etudes Ingénierie,dec_00003,dec_ing,,CFS_00058
+7,dec_00026,dec_00026,Travaux Réseaux Divers,65469,false,Travaux Réseaux Divers,dec_00026,dec_tra,,CFS_00074
+8,dec_00004,dec_00004,Pemitting (y compris enquête publique,65469,false,Pemitting (y compris enquête publique,dec_00004,dec_ing,,CFS_00060
+9,dec_00023,dec_00023,Travaux,65469,false,Travaux,dec_00023,dec_tra,,CFS_00075
+10,dec_00001,dec_00001,Ingénierie,65469,false,Ingénierie,dec_00001,dec_ing,,CFS_00058
+11,dec_00024,dec_00024,Travaux Préparatoires,65469,false,Travaux Préparatoires,dec_00024,dec_tra,,CFS_00073
+12,dec_00002,dec_00002,Etudes conceptuelles,65469,false,Etudes conceptuelles,dec_00002,dec_ing,,CFS_00057
+13,dec_00007,dec_00007,Domanial,65469,false,Domanial,dec_00007,dec_dom,,CFS_00061
+14,dec_00029,dec_00029,Divers,65469,false,Divers,dec_00029,dec_div,,CFS_00058
+15,dec_00008,dec_00008,Prestation Domaniale,65469,false,Prestation Domaniale,dec_00008,dec_dom,,CFS_00061
+16,dec_00027,dec_00027,Contrôles Réglementaires,65469,false,Contrôles Réglementaires,dec_00027,dec_tra,,CFS_00058
+17,dec_00005,dec_00005,Reprographie,65469,false,Reprographie,dec_00005,dec_ing,,CFS_00084
+20,dec_00006,dec_00006,Etudes géotechniques,65469,false,Etudes géotechniques,dec_00006,dec_ing,,CFS_00059
+76,cpx_technicalinvestments,CPX_TechnicalInvestments,Technical Investments,65469,false,Technical Investments,CPX_TechnicalInvestments,Categorie_Root,cat_l1c,
+77,cpx_ingenierie,CPX_Ingenierie,Ingénierie,65469,false,Ingénierie,CPX_Ingenierie,CPX_TechnicalInvestments,CPX_CPX1,
+78,cpx_00057,CPX_00057,Etudes de faisabilité/conceptuelles,65469,false,Etudes de faisabilité/conceptuelles,CPX_00057,CPX_Ingenierie,CPX_00057,CFS_00057
+79,cpx_00058,CPX_00058,Etudes d'ingénierie,65469,false,Etudes d'ingénierie,CPX_00058,CPX_Ingenierie,CPX_00058,CFS_00058
+80,cpx_00059,CPX_00059,Etudes géotechniques,65469,false,Etudes géotechniques,CPX_00059,CPX_Ingenierie,CPX_00059,CFS_00059
+81,cpx_00060,CPX_00060,Permitting,65469,false,Permitting,CPX_00060,CPX_Ingenierie,CPX_00060,CFS_00060
+82,cpx_domanial,CPX_Domanial,Domanial,65469,false,Domanial,CPX_Domanial,CPX_TechnicalInvestments,CPX_CPX2,
+83,cpx_00061,CPX_00061,Prestation domaniale/topo,65469,false,Prestation domaniale/topo,CPX_00061,CPX_Domanial,CPX_00061,CFS_00061
+84,cpx_00062,CPX_00062,Indemnités de servitudes,65469,false,Indemnités de servitudes,CPX_00062,CPX_Domanial,CPX_00062,CFS_00062
+85,cpx_00063,CPX_00063,Indemnités de dommages,65469,false,Indemnités de dommages,CPX_00063,CPX_Domanial,CPX_00063,CFS_00063
+86,cpx_00064,CPX_00064,"Acquisitions domaniales: Terrains, construction",65469,false,"Acquisitions domaniales: Terrains, construction",CPX_00064,CPX_Domanial,CPX_00064,CFS_00064
+87,cpx_00065,CPX_00065,Archéologie,65469,false,Archéologie,CPX_00065,CPX_Domanial,CPX_00065,CFS_00065
+88,cpx_moyensgeneraux,CPX_MoyensGeneraux,Moyens Généraux,65469,false,Moyens Généraux,CPX_MoyensGeneraux,CPX_TechnicalInvestments,CPX_CPX3,
+89,cpx_00036,CPX_00036,"Mobilier, matériel et outillage",65469,false,"Mobilier, matériel et outillage",CPX_00036,CPX_MoyensGeneraux,CPX_00036,CFS_00036
+90,cpx_00087,CPX_00087,Aménagement Bâtiments et Extérieurs,65469,false,Aménagement Bâtiments et Extérieurs,CPX_00087,CPX_MoyensGeneraux,CPX_00087,CFS_00087
+91,cpx_materiel,CPX_Materiel,Matériel,65469,false,Matériel,CPX_Materiel,CPX_TechnicalInvestments,CPX_CPX4,
+92,cpx_00067,CPX_00067,Matériel principal,65469,false,Matériel principal,CPX_00067,CPX_Materiel,CPX_00067,CFS_00067
+93,cpx_00068,CPX_00068,Autres Equipements,65469,false,Autres Equipements,CPX_00068,CPX_Materiel,CPX_00068,CFS_00068
+94,cpx_00069,CPX_00069,Prestation de réception de matériel,65469,false,Prestation de réception de matériel,CPX_00069,CPX_Materiel,CPX_00069,CFS_00069
+95,cpx_supervision,CPX_Supervision,Supervision et coordination SPS,65469,false,Supervision et coordination SPS,CPX_Supervision,CPX_TechnicalInvestments,CPX_CPX5,
+96,cpx_00070,CPX_00070,Coordination sécurité (CSPS) - Conception et réalisation,65469,false,Coordination sécurité (CSPS) - Conception et réalisation,CPX_00070,CPX_Supervision,CPX_00070,CFS_00070
+97,cpx_00071,CPX_00071,Supervision de chantier (construction),65469,false,Supervision de chantier (construction),CPX_00071,CPX_Supervision,CPX_00071,CFS_00071
+98,cpx_00072,CPX_00072,AMOE/AMOA,65469,false,AMOE/AMOA,CPX_00072,CPX_Supervision,CPX_00072,CFS_00072
+99,cpx_travaux,CPX_Travaux,Travaux,65469,false,Travaux,CPX_Travaux,CPX_TechnicalInvestments,CPX_CPX6,
+100,cpx_00073,CPX_00073,Travaux préparatoires,65469,false,Travaux préparatoires,CPX_00073,CPX_Travaux,CPX_00073,CFS_00073
+101,cpx_00074,CPX_00074,Travaux réseaux divers,65469,false,Travaux réseaux divers,CPX_00074,CPX_Travaux,CPX_00074,CFS_00074
+102,cpx_00075,CPX_00075,Travaux principaux,65469,false,Travaux principaux,CPX_00075,CPX_Travaux,CPX_00075,CFS_00075
+103,cpx_00076,CPX_00076,Contrôles réglementaires,65469,false,Contrôles réglementaires,CPX_00076,CPX_Travaux,CPX_00076,CFS_00076
+104,cpx_00077,CPX_00077,Réception de l'ouvrage,65469,false,Réception de l'ouvrage,CPX_00077,CPX_Travaux,CPX_00077,CFS_00077
+105,cpx_suretesecuriteenvironnement,CPX_SureteSecuriteEnvironnement,Sureté Sécurité Environnement,65469,false,Sureté Sécurité Environnement,CPX_SureteSecuriteEnvironnement,CPX_TechnicalInvestments,CPX_CPX7,
+106,cpx_00089,CPX_00089,Sureté,65469,false,Sureté,CPX_00089,CPX_SureteSecuriteEnvironnement,CPX_00089,CFS_00089
+107,cpx_00090,CPX_00090,Sécurité Industrielle,65469,false,Sécurité Industrielle,CPX_00090,CPX_SureteSecuriteEnvironnement,CPX_00090,CFS_00090
+108,cpx_00066,CPX_00066,Compensation environnementale,65469,false,Compensation environnementale,CPX_00066,CPX_Domanial,CPX_0009x,CFS_00066
+109,cpx_stockageaquifere,CPX_StockageAquifere,Stockage Aquifère,65469,false,Stockage Aquifère,CPX_StockageAquifere,CPX_TechnicalInvestments,CPX_CPX7,
+110,cpx_00088,CPX_00088,Gaz Coussin,65469,false,Gaz Coussin,CPX_00088,CPX_StockageAquifere,CPX_00088,CFS_00088
+111,cpx_data,CPX_Data,Data,65469,false,Data,CPX_Data,CPX_TechnicalInvestments,CPX_CPX8,
+112,cpx_00085,CPX_00085,Collecte de Données,65469,false,Collecte de Données,CPX_00085,CPX_Data,CPX_00085,CFS_00085
+113,cpx_00086,CPX_00086,Intégration de Données,65469,false,Intégration de Données,CPX_00086,CPX_Data,CPX_00086,CFS_00086
+114,cpx_systemedinformation,CPX_SystemedInformation,Système d'Information,65469,false,Système d'Information,CPX_SystemedInformation,CPX_TechnicalInvestments,CPX_CPX9,
+115,cpx_00030,CPX_00030,Etudes conceptuelles,65469,false,Etudes conceptuelles,CPX_00030,CPX_SystemedInformation,CPX_21621,CFS_00030
+116,cpx_00031,CPX_00031,Projets,65469,false,Projets,CPX_00031,CPX_SystemedInformation,CPX_21622,CFS_00031
+117,cpx_00032,CPX_00032,Evolutions,65469,false,Evolutions,CPX_00032,CPX_SystemedInformation,CPX_21623,CFS_00032
+118,cpx_divers,CPX_Divers,Divers Investissements,65469,false,Divers Investissements,CPX_Divers,CPX_TechnicalInvestments,CPX_CPXx,
+119,cpx_00078,CPX_00078,Assurance,65469,false,Assurance,CPX_00078,CPX_Divers,CPX_00078,CFS_00078
+120,cpx_00079,CPX_00079,Gestion documentaire,65469,false,Gestion documentaire,CPX_00079,CPX_Divers,CPX_00079,CFS_00079
+121,cpx_00080,CPX_00080,Frais de déplacements,65469,false,Frais de déplacements,CPX_00080,CPX_Divers,CPX_00080,CFS_00080
+122,cpx_00081,CPX_00081,Communication,65469,false,Communication,CPX_00081,CPX_Divers,CPX_00081,CFS_00081
+123,cpx_00082,CPX_00082,Prestations juridiques,65469,false,Prestations juridiques,CPX_00082,CPX_Divers,CPX_00082,CFS_00082
+124,cpx_00083,CPX_00083,Audits,65469,false,Audits,CPX_00083,CPX_Divers,CPX_00083,CFS_00083
+125,cpx_00084,CPX_00084,Divers (Divers Investissements),65469,false,Divers (Divers Investissements),CPX_00084,CPX_Divers,CPX_00084,CFS_00084
+19,dec_00028,dec_00028,Réception de l'ouvrage,65469,false,Réception de l'ouvrage,dec_00028,dec_tra,,CFS_00057
+22,dec_00009,dec_00009,Indemnités de servitude,65469,false,Indemnités de servitude,dec_00009,dec_dom,,CFS_00062
+25,dec_00010,dec_00010,Indemnités de dommage,65469,false,Indemnités de dommage,dec_00010,dec_dom,,CFS_00063
+26,dec_00032,dec_00032,Frais internes,65469,false,Frais internes,dec_00032,dec_int,,CFS_00084
+28,dec_00011,dec_00011,Actes notariés,65469,false,Actes notariés,dec_00011,dec_dom,,CFS_00064
+29,dec_00030,dec_00030,Gestion Documentaire - Prestation coûts/planning - Frais déplacement,65469,false,Gestion Documentaire - Prestation coûts/planning - Frais déplacement,dec_00030,dec_div,,CFS_00060
+30,dec_00031,dec_00031,Prime TRC,65469,false,Prime TRC,dec_00031,dec_trc,,CFS_00084
+31,dec_00014,dec_00014,Matériel Principal,65469,false,Matériel Principal,dec_00014,dec_mat,,CFS_00067
+32,dec_00015,dec_00015,Tubes,65469,false,Tubes,dec_00015,dec_mat,,CFS_00067
+33,dec_00012,dec_00012,Achats de terrain,65469,false,Achats de terrain,dec_00012,dec_dom,,CFS_00064
+34,dec_00013,dec_00013,Archéologie,65469,false,Archéologie,dec_00013,dec_dom,,CFS_00065
+35,dec_00018,dec_00018,Prestation de réception de matériel,65469,false,Prestation de réception de matériel,dec_00018,dec_mat,,CFS_00069
+36,dec_00019,dec_00019,Supervision et Coordination SPS,65469,false,Supervision et Coordination SPS,dec_00019,dec_sup,,CFS_00071
+37,dec_00016,dec_00016,Equipements,65469,false,Equipements,dec_00016,dec_mat,,CFS_00068
+38,dec_00017,dec_00017,Matériel GI,65469,false,Matériel GI,dec_00017,dec_mat,,CFS_00068

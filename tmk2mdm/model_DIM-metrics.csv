@@ -1,0 +1,455 @@
+member_id,customer_key,unaltered_customer_key,display_name,level_id,is_deleted,a_metricskey,a_metricsparentkey,a_metricsdescription,a_metricssorting,a_metricssequence
+1,metric___root___,METRIC___ROOT___,METRIC___ROOT___,73529,false,METRIC___ROOT___,METRIC___ROOT___,METRIC___ROOT___,METRIC___ROOT___,METRIC___ROOT___
+2,kpi_capaciteendettement,KPI_CapaciteEndettement,Capacité d'endettement,73529,false,KPI_CapaciteEndettement,KPI,Capacité d'endettement,KPI003,
+4,ray_crcpdeliberations,RaY_CRCPDeliberations,***Délibérations,73529,false,RaY_CRCPDeliberations,RA_CRCP,***Délibérations,RA_CRCP_01_Base,
+12,ra_crcp,RA_CRCP,CRCP Metrics (Abstract),73529,false,RA_CRCP,RA,CRCP Metrics (Abstract),,
+13,ray_ccnpostretrait,RaY_CCNpostRetrait,***CCN (Post retraitements tarifaires),73529,false,RaY_CCNpostRetrait,RA_CCN,***CCN (Post retraitements tarifaires),,
+781,rep_y,REP_Y,Reporting Annuel (Abstract),73529,false,REP_Y,REP,Reporting Annuel (Abstract),,
+59,opxy_fraisstructure,OpxY_FraisStructure,Frais de Structure après RAC,73529,false,OpxY_FraisStructure,FIN,Frais de Structure après RAC,Action=O12RAC1 Panel=OA12 Dim=D,OPXb RAC12.5
+546,opxm_input,OpxM_Input,OpeX TotalY=0 (Saisie) [M],73529,false,OpxM_Input,FIN,OpeX TotalY=0 (Saisie) [M],,OPXm O9
+547,opxk_monthkez,OpxK_MonthKez,Clé Mensu UEBIT,73529,false,OpxK_MonthKez,FIN,Clé Mensu UEBIT,,OPXm O0a
+550,opxm_fraisstructurecns,OpxM_FraisStructureCnS,Frais de Structure après RAC {M},73529,false,OpxM_FraisStructureCnS,FIN,Frais de Structure après RAC {M},,OPXm O5
+552,opxm_fraisexploitationcns,OpxM_FraisExploitationCnS,Frais d'Exploitation {M},73529,false,OpxM_FraisExploitationCnS,FIN,Frais d'Exploitation {M},,OPXm O4
+42,tax_gtaxdeductibleinterest,Tax_GTaxDeductibleInterest,TaxG deductible interest,73529,false,Tax_GTaxDeductibleInterest,Tax_GTaxAtEntity,TaxG deductible interest,Sort=Tax1 Panel=TaxModel1,OPXd TaxG1.9
+44,kpi_cpx_bar,KPI_Cpx_BAR,Contribution CAPEX à la BAR,73529,false,KPI_Cpx_BAR,KPI,Contribution CAPEX à la BAR,KPI019,
+555,opxm_energiecns,OpxM_EnergieCnS,Energie {M},73529,false,OpxM_EnergieCnS,FIN,Energie {M},,OPXm O2
+556,opxm_uebitdacns,OpxM_UEBITDACnS,Under EBITDA {M},73529,false,OpxM_UEBITDACnS,FIN,Under EBITDA {M},,OPXm O6
+24,opxy_uebitda,OpxY_UEBITDA,Under EBITDA,73529,false,OpxY_UEBITDA,FIN,Under EBITDA,Action=OA12RAC Panel=O9C Panel=OIF** Dim=D,OPXc 0
+57,taxy_taxpbt,TaxY_TaxPBT,TaxModel (PBT),73529,false,TaxY_TaxPBT,TaxY_TaxAtEntity,TaxModel (PBT),Sort=Tax2 Panel=TaxModel1,OPXd TaxE1.9
+63,raf_crcpmethoderetenue,RaF_CRCPMethodeRetenue,Méthode Apurement Retenue,73529,false,RaF_CRCPMethodeRetenue,RA_CRCP,Méthode Apurement Retenue,,
+66,sysk_horsreseau,SysK_HorsReseau,Clé HorsReseau,73529,false,SysK_HorsReseau,FIN,Clé HorsReseau,RAC R112,OPXb RAC11.2
+18,bsh_opn,BSH_OPN,BSH Opening,73529,false,BSH_OPN,BSH_CLS,BSH Opening,Sort=BSHYa1 Panel=Bsh03,BSH02
+70,kpi_opx_bar,KPI_Opx_BAR,Contribution OPEX à la BAR,73529,false,KPI_Opx_BAR,KPI,Contribution OPEX à la BAR,KPI018,
+71,tax_gtaxdeductibleinterest1,Tax_GTaxDeductibleInterest1,>TaxG deductible interest (30% ebitda ou 3M€),73529,false,Tax_GTaxDeductibleInterest1,Tax_GTaxDeductibleInterest,>TaxG deductible interest (30% ebitda ou 3M€),Sort=Tax1.1 Panel=TaxModel1,OPXd TaxG1.7
+268,bsh_op0,BSH_OP0,BSH Initialisation,73529,false,BSH_OP0,BSH_CLS,BSH Initialisation,"Sort=BSHYa0 Panel=Bsh00,Bsh03",BSH01
+554,capm_subventioncns,CapM_SubventionCnS,Montant Subvention {M} DS=Capex,73529,false,CapM_SubventionCnS,CAP,Montant Subvention {M} DS=Capex,Sort=FWCxB Mode=CS Action=OAXm6 Panel=OAXm,CPXm C03.2
+645,rep,REP,Reporting Metrics (Abstract),73529,false,REP,METRIC___ROOT___,Reporting Metrics (Abstract),A1,
+30,tax,TAX,Tax Metrics (Abstract),73529,false,TAX,METRIC___ROOT___,Tax Metrics (Abstract),Ba,OPXd Tax0
+782,rep_m,REP_M,Reporting Mensuel (Abstract),73529,false,REP_M,REP,Reporting Mensuel (Abstract),,
+553,finm_bsh,FinM_BSH,BSH Closing SAP,73529,false,FinM_BSH,REP_M,BSH Closing SAP,,
+513,opxm_opexnet,OpxM_OpexNet,Total Opex CA (apres RAC et CAPI) [M],73529,false,OpxM_OpexNet,REP_M,Total Opex CA (apres RAC et CAPI) [M],,OPXm Ox
+14,0expensey1a,0ExpenseY1a,(**Test) ToteX (sans Partenaire),73529,false,0ExpenseY1a,OTH_OBS,(**Test) ToteX (sans Partenaire),OpxY_MasseSalarialeInp,XX Demo
+77,kpi_roi,KPI_ROI,ROI,73529,false,KPI_ROI,KPI,ROI,KPI009,
+81,tax_gopexentries,Tax_GOpeXEntries,TaxModel (OpEx Group),73529,false,Tax_GOpeXEntries,TAX,TaxModel (OpEx Group),Panel=TaxModel1,OPXd TaxG1.0
+84,kpi_returnbar,KPI_ReturnBAR,Return on BAR,73529,false,KPI_ReturnBAR,KPI,Return on BAR,KPI007,
+85,taxy_taxdeductibleinterest2,TaxY_TaxDeductibleInterest2,>Tax deductible interest (75% du delta),73529,false,TaxY_TaxDeductibleInterest2,TaxY_TaxDeductibleInterest,>Tax deductible interest (75% du delta),Sort=Tax1.2 Panel=TaxModel1,OPXd TaxE1.8
+483,opxy_massesalarialeinpna,OpxY_MasseSalarialeInpNA,Masse Salariale (Saisie),73529,false,OpxY_MasseSalarialeInpNA,FIN,Masse Salariale (Saisie),Sort=O3 Panel=O3 Dim=A,OPXa O3
+87,taxy_taxdeductibleinterest1,TaxY_TaxDeductibleInterest1,>Tax deductible interest (30% ebitda ou 3M€),73529,false,TaxY_TaxDeductibleInterest1,TaxY_TaxDeductibleInterest,>Tax deductible interest (30% ebitda ou 3M€),Sort=Tax1.1 Panel=TaxModel1,OPXd TaxE1.7
+499,opxm_fraisstructure,OpxM_FraisStructure,Frais de Structure Non SI avant RAC [M],73529,false,OpxM_FraisStructure,FIN,Frais de Structure Non SI avant RAC [M],,OPXm O5
+95,taxy_allocation,TaxY_Allocation,>Tax Allocation Key,73529,false,TaxY_Allocation,TAX,>Tax Allocation Key,Sort=Tax0.0 Panel=TaxModel1 Action=OTx2TaxE,OPXe
+96,ra_ccn,RA_CCN,CCN Metrics (Abstract),73529,false,RA_CCN,RA,CCN Metrics (Abstract),,
+56,ray_opex,RaY_Opex,Operational expenses,73529,false,RaY_Opex,RaY_CNE,Operational expenses,CNE_3_03 TRA STO Metier_Total,RA 02CNE 009 Panel=CNE
+58,ray_provisionandothercalc,RaY_ProvisionAndOtherCalc,Provision & other (calc),73529,false,RaY_ProvisionAndOtherCalc,RaY_CNE,Provision & other (calc),CNE_1_05 TRA,RA 02CNE 013 Panel=CNE
+50,kpi_etp,KPI_ETP,Nombre d'ETP,73529,false,KPI_ETP,KPI,Nombre d'ETP,KPI102,
+712,finm_totexnet,FinM_TotexNet,Total CAPEX OPEX CA (après RAC et CAPI) [M],73529,false,FinM_TotexNet,REP_M,Total CAPEX OPEX CA (après RAC et CAPI) [M],FinM_TotexNet Lnk=FinY_TotexNet,
+43,bsh_mvtcal,BSH_MVTCAL,BSH Mouvement Calculé,73529,false,BSH_MVTCAL,BSH_MVT,BSH Mouvement Calculé,Sort=BSHYa3 Panel=Bsh03,BSH04
+101,kpi_csttr,KPI_CstTR,Coût de transport,73529,false,KPI_CstTR,KPI,Coût de transport,KPI017,
+102,opxk_racpctms,OpxK_RACPctMS,RAC MS%,73529,false,OpxK_RACPctMS,FIN,RAC MS%,OPX Oa1,OPXb RAC10.1.2
+557,opxm_chiffreaffairecns,OpxM_ChiffreAffaireCnS,Chiffre Affaire {M},73529,false,OpxM_ChiffreAffaireCnS,FIN,Chiffre Affaire {M},,OPXm O1
+106,kpi_structurecapital,KPI_StructureCapital,Structure du capital,73529,false,KPI_StructureCapital,KPI,Structure du capital,KPI002,
+113,raf_crcpflagccn,RaF_CRCPFlagCCN,CRCP Flag CCN,73529,false,RaF_CRCPFlagCCN,RA_CRCP,CRCP Flag CCN,,
+115,sysk_reseau,SysK_Reseau,Clé Reseau,73529,false,SysK_Reseau,FIN,Clé Reseau,RAC R113,OPXb RAC11.3
+116,kpi_amortissements_actifsimmo,KPI_Amortissements_ActifsImmo,Amortissements / Actifs immobilisés,73529,false,KPI_Amortissements_ActifsImmo,KPI,Amortissements / Actifs immobilisés,KPI012,
+118,taxy_taxdeductibleinterest,TaxY_TaxDeductibleInterest,Tax deductible interest,73529,false,TaxY_TaxDeductibleInterest,TaxY_TaxAtEntity,Tax deductible interest,Sort=Tax1 Panel=TaxModel1,OPXd TaxE1.9
+559,opxm_amortissementcns,OpxM_AmortissementCnS,Amortissement Mensuel {M},73529,false,OpxM_AmortissementCnS,CAP,Amortissement Mensuel {M},,
+125,tax_gtaxatentity,Tax_GTaxAtEntity,TaxModel (Tax At Group),73529,false,Tax_GTaxAtEntity,TAX,TaxModel (Tax At Group),Sort=Tax3 Panel=TaxModel1,OPXd TaxG2
+54,cfs_tot,CFS_TOT,CFS Total,73529,false,CFS_TOT,CFS,CFS Total,Sort=CFSYa,WKC CFSa
+52,opxy_opexnet,OpxY_OpexNet,Total Opex CA (apres RAC et CAPI),73529,false,OpxY_OpexNet,REP_Y,Total Opex CA (apres RAC et CAPI),Sort=O0 Panel=Ox Dim=D,OPXc 1
+548,finm_opmodelorg,FinM_OpModelOrg,OpModel (M) Org,73529,false,FinM_OpModelOrg,REP_M,OpModel (M) Org,TbD,OPXm Tax9
+133,ray_crcpdef,RaY_CRCPDef,***Résultats Définitifs,73529,false,RaY_CRCPDef,RA_CRCP,***Résultats Définitifs,RA_CRCP_03_Base,
+485,capk_monthkex,CapK_MonthKex,Clé Mensu Subv,73529,false,CapK_MonthKex,FIN,Clé Mensu Subv,Sort=O0b Panel=C*Sm Lnk=CapY_SubventionInp Lnk= CapY_SubventionInpNoCatImmo,CPXm O0b
+135,kpi_volgaztr,KPI_VolGazTR,Volume de gaz transporté,73529,false,KPI_VolGazTR,KPI,Volume de gaz transporté,KPI016,
+486,capm_subvention,CapM_Subvention,Montant Subvention [M],73529,false,CapM_Subvention,CAP,Montant Subvention [M],Lnk=CapY_SubventionCalc,CPXm 103
+137,raf_crcpflagcne,RaF_CRCPFlagCNE,CRCP Flag CNE,73529,false,RaF_CRCPFlagCNE,RA_CRCP,CRCP Flag CNE,,
+1338,opxm_fraisstructuresi,OpxM_FraisStructureSI,Frais de Structure SI avant RAC [M],73529,false,OpxM_FraisStructureSI,FIN,Frais de Structure SI avant RAC [M],,OPXm O5
+488,capm_subvdtdp,CapM_SubvDTDP,Subvention DTDP (avant RAC) [M],73529,false,CapM_SubvDTDP,CAP,Subvention DTDP (avant RAC) [M],Lnk=CapY_SubventionCalc,CPXm 103b
+147,rak_crcpdefcouvpct,RaK_CRCPDefCouvPct,Couverture au CRCP (%),73529,false,RaK_CRCPDefCouvPct,RA_CRCP,Couverture au CRCP (%),RA_CRCP_08_Ecart,
+117,opxk_rac,OpxK_RAC,RAC OpeX (Saisie),73529,false,OpxK_RAC,FIN,RAC OpeX (Saisie),Action=OA10 Panel=OA10 Dim=B,OPXb RAC10.1
+139,opxk_capi,OpxK_Capi,Capi (Saisie),73529,false,OpxK_Capi,FIN,Capi (Saisie),Action=OA10 Panel=OA10 Dim=B,OPXb RAC10.2
+489,capk_monthkey,CapK_MonthKey,Clé Mensu Immo,73529,false,CapK_MonthKey,FIN,Clé Mensu Immo,Sort=O0a Panel=C*Sm Lnk=CapY_ImmoInp Lnk= CapY_ImmoInpNoCatImmo,CPXm O0a
+1339,opxm_fraisexploitationsi,OpxM_FraisExploitationSI,Frais d'Exploitation SI [M],73529,false,OpxM_FraisExploitationSI,FIN,Frais d'Exploitation SI [M],,OPXm O4
+144,opxy_fraisexploitation,OpxY_FraisExploitation,Frais d'Exploitation,73529,false,OpxY_FraisExploitation,FIN,Frais d'Exploitation,Action=O12RAC2 Dim=D,OPXb RAC12.3
+168,opxy_energie,OpxY_Energie,Energie,73529,false,OpxY_Energie,FIN,Energie,Action=O12RAC2 Dim=D,OPXb RAC12.2
+155,kpi_cstdette,KPI_CstDette,Coût de la dette,73529,false,KPI_CstDette,KPI,Coût de la dette,KPI008,
+156,tax_gtaxthreshold,Tax_GTaxThreshold,TaxG Threshold (EBITDA F x 30%),73529,false,Tax_GTaxThreshold,TAX,TaxG Threshold (EBITDA F x 30%),Sort=Tax0.1 Panel=TaxModel1,OPXd TaxG1.6
+162,ray_crcpresultatapurement,RaY_CRCPResultatApurement,Résultat Apurement,73529,false,RaY_CRCPResultatApurement,RA_CRCP,Résultat Apurement,,
+163,wkcy_workingcapitalinp,WkcY_WorkingCapitalInp,Working Capital Saisie,73529,false,WkcY_WorkingCapitalInp,WKC,Working Capital Saisie,,
+167,kpi_pct_nvxmet,KPI_Pct_NvxMet,% de revenus des nouveaux métiers,73529,false,KPI_Pct_NvxMet,KPI,% de revenus des nouveaux métiers,KPI020,
+165,rak_crcptxactu,RaK_CRCPTxActu,Taux d'actualisation CRCP,73529,false,RaK_CRCPTxActu,RA_CRCP,Taux d'actualisation CRCP,RA_CRCP_10,
+170,ray_crcpdefprevecart,RaY_CRCPDefPrevEcart,Ecart Définitif vs Prévisionnel,73529,false,RaY_CRCPDefPrevEcart,RA_CRCP,Ecart Définitif vs Prévisionnel,,
+174,opxk_racpct,OpxK_RACPct,RAC Opx%,73529,false,OpxK_RACPct,FIN,RAC Opx%,OPX Oa1,OPXb RAC10.1.1
+175,opm_amortissement,OpM_Amortissement,**Amortissement Mensuel,73529,false,OpM_Amortissement,CAP,**Amortissement Mensuel,,CAP 04DEP 017 - SoDA 16-17
+176,tax_gtaxpbt,Tax_GTaxPBT,TaxModel (PBT Group),73529,false,Tax_GTaxPBT,Tax_GTaxAtEntity,TaxModel (PBT Group),Sort=Tax2 Panel=TaxModel1,OPXd TaxG1.9
+177,kpi_roe,KPI_ROE,ROE,73529,false,KPI_ROE,KPI,ROE,KPI010,
+178,opy_amortissement,OpY_Amortissement,**Amortissement Annuel,73529,false,OpY_Amortissement,CAP,**Amortissement Annuel,,CAP 04DEP 017 - SoDA 16-17
+650,sysf_organisationdtdp,SysF_OrganisationDTDP,Flag Organisation DTDP (1=DTDP),73529,false,SysF_OrganisationDTDP,FIN,Flag Organisation DTDP (1=DTDP),Sort=A? Panel= Dim=,ADM Oa5x
+183,rak_crcpprevcouvpct,RaK_CRCPPrevCouvPct,***Couverture au CRCP (%),73529,false,RaK_CRCPPrevCouvPct,RA_CRCP,***Couverture au CRCP (%),RA_CRCP_05_Ecart,
+184,kpi_valeurentreprise,KPI_ValeurEntreprise,Valeur d'entreprise,73529,false,KPI_ValeurEntreprise,KPI,Valeur d'entreprise,KPI001,
+157,cap,CAP,Capex Metrics (Abstract),73529,false,CAP,METRIC___ROOT___,Capex Metrics (Abstract),B2,
+186,opxk_massesalariale,OpxK_MasseSalariale,Mensualisation Masse Salariale,73529,false,OpxK_MasseSalariale,FIN,Mensualisation Masse Salariale,Sort=O? Panel= Dim=,OPXm Om3
+646,finy_opexraccapi,FinY_OpexRACCapi,Total Opex (après RAC & CAPI),73529,false,FinY_OpexRACCapi,REP_Y,Total Opex (après RAC & CAPI),,
+161,fin,FIN,Finance Metrics (Abstract),73529,false,FIN,METRIC___ROOT___,Finance Metrics (Abstract),B1,OPX
+173,bsh,BSH,Balance Sheet (Abstract),73529,false,BSH,METRIC___ROOT___,Balance Sheet (Abstract),Bd,
+142,ra,RA,RA Metrics (Abstract),73529,false,RA,METRIC___ROOT___,RA Metrics (Abstract),C1,
+1272,sysf_entitelock1,SysF_EntiteLock1,Flag Entité (-1=lock),73529,false,SysF_EntiteLock1,FIN,Flag Entité (-1=lock),ADM07,ADM LockE
+141,opxy_opexexternes,OpxY_OpexExternes,"Frais (Exploit, Structure) avant RAC",73529,false,OpxY_OpexExternes,FIN,"Frais (Exploit, Structure) avant RAC",Sort=Ox Panel=OxV  Dim=A,OPXa O4v O5v O6v
+148,opxk_racpctfs,OpxK_RACPctFS,RAC FS%,73529,false,OpxK_RACPctFS,FIN,RAC FS%,OPX Oa1 Panel=OA12,OPXb RAC10.1.3
+647,finy_opexinterne,FinY_OpexInterne,Total Opex Internes (après RAC et Capi),73529,false,FinY_OpexInterne,REP_Y,Total Opex Internes (après RAC et Capi),,
+480,finy_massesalarialecapi,FinY_MasseSalarialeCapi,Capitalisation MS (Capex),73529,false,FinY_MasseSalarialeCapi,REP_Y,Capitalisation MS (Capex),Sort=FBCxC,UFin BCxC
+191,kpi_volgazst,KPI_VolGazST,Volume de gaz stocké,73529,false,KPI_VolGazST,KPI,Volume de gaz stocké,KPI014,
+194,raf_crcpmethodeapurement,RaF_CRCPMethodeApurement,Méthode Apurement,73529,false,RaF_CRCPMethodeApurement,RA_CRCP,Méthode Apurement,,
+198,ray_crcpprev,RaY_CRCPPrev,***Résultats Prévisionnels,73529,false,RaY_CRCPPrev,RA_CRCP,***Résultats Prévisionnels,RA_CRCP_02_Base,
+159,ray_ra,RaY_RA,Revenu Autorisé (RA),73529,false,RaY_RA,RA,Revenu Autorisé (RA),RA_16 TRA STO Metier_Total,RA 05RA 001 Panel=Revenu Autorisé
+181,opxy_energieinp,OpxY_EnergieInp,Energie (Saisie),73529,false,OpxY_EnergieInp,FIN,Energie (Saisie),Sort=O2 Panel=O2 Dim=A,OPXa O2
+202,taxy_taxatentity,TaxY_TaxAtEntity,TaxModel (Tax At Entity),73529,false,TaxY_TaxAtEntity,TAX,TaxModel (Tax At Entity),Sort=Tax3 Panel=TaxModel1,OPXd TaxE2
+493,opxm_uebitda,OpxM_UEBITDA,Under EBITDA [M],73529,false,OpxM_UEBITDA,FIN,Under EBITDA [M],,OPXm O6
+494,opxk_monthkey,OpxK_MonthKey,Clé Mensu OPX,73529,false,OpxK_MonthKey,FIN,Clé Mensu OPX,,OPXm O0a
+495,opxm_filterfraisexploitation,OpxM_FilterFraisExploitation,Filtre Seuil [M],73529,false,OpxM_FilterFraisExploitation,FIN,Filtre Seuil [M],,OPXm O1
+498,opxm_energie,OpxM_Energie,Energie [M],73529,false,OpxM_Energie,FIN,Energie [M],,OPXm O2
+217,kpi_cstst,KPI_CstST,Coût de stockage,73529,false,KPI_CstST,KPI,Coût de stockage,KPI015,
+229,kpi_margeebit,KPI_MargeEBIT,Marge EBIT,73529,false,KPI_MargeEBIT,KPI,Marge EBIT,KPI006,
+239,kpi_opex_ca,KPI_OPEX_CA,OPEX / CA,73529,false,KPI_OPEX_CA,KPI,OPEX / CA,KPI011,
+243,kpi_hc,KPI_HC,HC profil,73529,false,KPI_HC,KPI,HC profil,KPI101,
+502,opxm_chiffreaffaire,OpxM_ChiffreAffaire,Chiffre Affaire [M],73529,false,OpxM_ChiffreAffaire,FIN,Chiffre Affaire [M],,OPXm O1
+648,finy_opexrac,FinY_OpexRAC,Total Opex (apres RAC avant CAPI),73529,false,FinY_OpexRAC,REP_Y,Total Opex (apres RAC avant CAPI),,
+213,ray_crcpposte,RaY_CRCPPoste,CRCP Base Total,73529,false,RaY_CRCPPoste,RA_CRCP,CRCP Base Total,,RA 03CRCP 009 Panel=CRCP TR/ST Base
+199,opxy_massesalarialecapi,OpxY_MasseSalarialeCapi,Capitalisation MS (Opex),73529,false,OpxY_MasseSalarialeCapi,FIN,Capitalisation MS (Opex),Action=OA13Capi1 Panel=OA13 Dim=D,OPXb RAC13.1
+227,kpi_cst_etp,KPI_Cst_ETP,Coûts moyen ETP,73529,false,KPI_Cst_ETP,KPI,Coûts moyen ETP,KPI103,
+491,opxm_fraisexploitation,OpxM_FraisExploitation,Frais d'Exploitation Non SI [M],73529,false,OpxM_FraisExploitation,FIN,Frais d'Exploitation Non SI [M],,OPXm O4
+251,tax_gtaxdeductibleinterest2,Tax_GTaxDeductibleInterest2,>TaxG deductible interest (75% du delta),73529,false,Tax_GTaxDeductibleInterest2,Tax_GTaxDeductibleInterest,>TaxG deductible interest (75% du delta),Sort=Tax1.2 Panel=TaxModel1,OPXd TaxG1.8
+252,kpi_ratioliquidite,KPI_RatioLiquidite,Ratio de liquidité,73529,false,KPI_RatioLiquidite,KPI,Ratio de liquidité,KPI004,
+497,opxm_opex,OpxM_Opex,Total Opex CA (avant RAC et CAPI) [M],73529,false,OpxM_Opex,FIN,Total Opex CA (avant RAC et CAPI) [M],,OPXm Ox
+233,equ_opn,EQU_OPN,EQU Opening,73529,false,EQU_OPN,EQU_CLS,EQU Opening,NotUsed,NotUsed
+204,cfs_mvtcal,CFS_MVTCAL,CFS Calculé,73529,false,CFS_MVTCAL,CFS_TOT,CFS Calculé,Sort=CFSYa2,WKC CFSa2
+501,opxm_massesalarialecns,OpxM_MasseSalarialeCnS,Masse Salariale après RAC {M},73529,false,OpxM_MasseSalarialeCnS,FIN,Masse Salariale après RAC {M},,OPXm O3.1
+219,kpi,KPI,KPI Metrics (Abstract),73529,false,KPI,METRIC___ROOT___,KPI Metrics (Abstract),A2,WW
+208,wkc,WKC,Working Capital (Abstract),73529,false,WKC,METRIC___ROOT___,Working Capital (Abstract),Bb,
+218,sysf_horsreseau,SysF_HorsReseau,Flag HorsReseau,73529,false,SysF_HorsReseau,FIN,Flag HorsReseau,RAC R111 Dim=4C Action=AD01CpyPHA,OPXb RAC11.1
+492,opxm_massesalarialecapi,OpxM_MasseSalarialeCapi,Capitalisation MS (OpeX) {M},73529,false,OpxM_MasseSalarialeCapi,FIN,Capitalisation MS (OpeX) {M},,OPXm O3.2
+201,opxy_opex,OpxY_Opex,Total Opex CA (avant RAC et CAPI),73529,false,OpxY_Opex,REP_Y,Total Opex CA (avant RAC et CAPI),Sort=O0 Panel=Ox Dim=A,OPXa Ox
+264,kpi_margeebitda,KPI_MargeEBITDA,Marge EBITDA,73529,false,KPI_MargeEBITDA,KPI,Marge EBITDA,KPI005,
+266,ra_cne,RA_CNE,CNE Metrics (Abstract),73529,false,RA_CNE,RA,CNE Metrics (Abstract),,
+558,capm_immocns,CapM_ImmoCnS,Montant Immo (après RAC CapeX) {M} DS=Capex,73529,false,CapM_ImmoCnS,CAP,Montant Immo (après RAC CapeX) {M} DS=Capex,Sort=FWCxA Mode=CS Action=OAXm6 Panel=OAXm,CPXm C03.1
+182,capy_subventioncalc,CapY_SubventionCalc,Montant Subvention Calc,73529,false,CapY_SubventionCalc,CAP,Montant Subvention Calc,Mode=SD Action=CAP00b,CAP 01REC 013
+496,opxm_massesalariale,OpxM_MasseSalariale,Masse Salariale après RAC [M],73529,false,OpxM_MasseSalariale,FIN,Masse Salariale après RAC [M],,OPXm O3.1
+109,capy_massesalarialecapi,CapY_MasseSalarialeCapi,Capitalisation MS (Capex) DS=Capex,73529,false,CapY_MasseSalarialeCapi,CAP,Capitalisation MS (Capex) DS=Capex,Sort=FVCxD Action=OA13Capi3 Panel=OA13 Dim=E,OPXb RAC13.3
+270,kpi_iec_capex,KPI_IEC_CAPEX,IEC / CAPEX,73529,false,KPI_IEC_CAPEX,KPI,IEC / CAPEX,KPI013,
+276,raf_crcpflagactivite,RaF_CRCPFlagActivite,CRCP Flag Activité Réseau Datasource,73529,false,RaF_CRCPFlagActivite,RA_CRCP,CRCP Flag Activité Réseau Datasource,,
+279,taxy_opexentries,TaxY_OpeXEntries,TaxModel (OpEx),73529,false,TaxY_OpeXEntries,TAX,TaxModel (OpEx),Panel=TaxModel1,OPXd TaxE1.0
+281,taxy_taxthreshold,TaxY_TaxThreshold,Tax Threshold (EBITDA F x 30%),73529,false,TaxY_TaxThreshold,TAX,Tax Threshold (EBITDA F x 30%),Sort=Tax0.1 Panel=TaxModel1,OPXd TaxE1.6
+207,opxy_massesalarialeinp,OpxY_MasseSalarialeInp,Masse Salariale (Saisie ***),73529,false,OpxY_MasseSalarialeInp,FIN,Masse Salariale (Saisie ***),Sort=O3 Panel=***O3 Dim=C,OPXa O3***
+1239,finy_encours,FinY_EnCours,Montant EnCours,73529,false,FinY_EnCours,REP_Y,Montant EnCours,Sort=FBCxE Mode=SD Action=CAP08 DataChannel=OUT-CPXy1,UFin BCxE
+500,capm_massesalarialecapi,CapM_MasseSalarialeCapi,Capitalisation MS (Capex) {M} DS=Capex,73529,false,CapM_MasseSalarialeCapi,CAP,Capitalisation MS (Capex) {M} DS=Capex,Sort=FWCxC Mode=CS Action=O3WSCapi4 Panel=OAXm,OPXm O3.4
+160,cfs_mvtinp,CFS_MVTINP,CFS Saisi,73529,false,CFS_MVTINP,CFS_TOT,CFS Saisi,Sort=CFSYa1,WKC CFSa1
+241,0expensey1b,0ExpenseY1b,(**Test)Tax Allocation Key,73529,false,0ExpenseY1b,OTH_OBS,(**Test)Tax Allocation Key,,XX Demo
+315,kpi_contributionorga,KPI_ContributionOrga,Contribution à l'Organisation,73529,false,KPI_ContributionOrga,KPI,Contribution à l'Organisation,,
+262,oth,OTH,Other Metrics (Abstract),73529,false,OTH,METRIC___ROOT___,Other Metrics (Abstract),Z1,XX
+210,cfs,CFS,Cash Flow (Abstract),73529,false,CFS,METRIC___ROOT___,Cash Flow (Abstract),Bc,WKCb CFS
+319,ray_efficienceaddcalc,RaY_EfficienceAddCalc,Efficience additionnelle (calc),73529,false,RaY_EfficienceAddCalc,RaY_CNE,Efficience additionnelle (calc),CNE_1_09 TRA STO,RA 02CNE 025 Panel=CNE
+320,ray_lissageinp,RaY_LissageInp,Lissage (inp),73529,false,RaY_LissageInp,RaY_CNE,Lissage (inp),CNE_2_10 TRA STO,RA 02CNE 029 Panel=CNE
+321,ray_autres,RaY_Autres,{RA Autres},73529,false,RaY_Autres,RA,{RA Autres},RA_02 STO,"RA 04AUTRES 005 Panel=Autres,Revenu Autorisé"
+322,ray_crcpdefcouv_cs,RaY_CRCPDefCouv_cs,{Couverture au CRCP - Définitif cs},73529,false,RaY_CRCPDefCouv_cs,RaY_CRCPDefActualiseTMP,{Couverture au CRCP - Définitif cs},,Action=RA01TR/ST CSD CRCP Base
+323,ray_crcppostecalc,RaY_CRCPPosteCalc,{CRCP Base Total Calc},73529,false,RaY_CRCPPosteCalc,RA_CRCP,{CRCP Base Total Calc},,RA 03CRCP 010
+324,ray_crcpprovactualisetmp,RaY_CRCPProvActualiseTMP,{TMP CRCP provisoire N-1 actualisé},73529,false,RaY_CRCPProvActualiseTMP,RA_CRCP,{TMP CRCP provisoire N-1 actualisé},,"RA 03CRCP 020 Panel=CRCP Transport,CRCP Stockage Action=RA01TR/ST CSD CRCP Calculé"
+255,capf_flaglibre,CapF_FlagLibre,Flag Libre,73529,false,CapF_FlagLibre,CAP,Flag Libre,Panel=C4C Mode=Input,CAP 03FLG 004 InAction=CAP06
+418,inbound,INBOUND,Inbound SAP (Abstract),73529,false,INBOUND,METRIC___ROOT___,Inbound SAP (Abstract),H1,INB
+581,capm_totalimmo,CapM_TotalImmo,Total Capex (après RAC et CAPI) [M] DS=Capex,73529,false,CapM_TotalImmo,CAP,Total Capex (après RAC et CAPI) [M] DS=Capex,Sort=FWCxD,CPXm C03.X
+325,ray_reversementinteropecalc,RaY_ReversementInterOpeCalc,Reversement inter-opérateur (calc),73529,false,RaY_ReversementInterOpeCalc,RA,Reversement inter-opérateur (calc),RA_13_1 TRA,"RA 04AUTRES 001 Panel=Autres,Revenu Autorisé Action=RA01 Autres"
+326,ray_efficienceadd,RaY_EfficienceAdd,Efficience additionnelle,73529,false,RaY_EfficienceAdd,RaY_CNE,Efficience additionnelle,CNE_3_09 TRA STO Metier_Total,RA 02CNE 027 Panel=CNE
+327,ray_cneinp,RaY_CNEInp,CNE (inp),73529,false,RaY_CNEInp,RA_CNE,CNE (inp),,RA 02CNE 015
+328,ray_lissagecalc,RaY_LissageCalc,Lissage (calc),73529,false,RaY_LissageCalc,RaY_CNE,Lissage (calc),CNE_1_10 TRA STO,RA 02CNE 028 Panel=CNE
+329,ray_crcpprevcouv_cs,RaY_CRCPPrevCouv_cs,{Couverture au CRCP - Prévisionnel cs},73529,false,RaY_CRCPPrevCouv_cs,RaY_CRCPDefActualiseTMP,{Couverture au CRCP - Prévisionnel cs},,Action=RA01TR/ST CSD CRCP Base
+330,ray_reversementinterope_cs,RaY_ReversementInterOpe_cs,Reversement inter-opérateur FA,73529,false,RaY_ReversementInterOpe_cs,RA,Reversement inter-opérateur FA,RA_13_4,"RA 04AUTRES 001 Panel=Autres,Revenu Autorisé Action=RA01 Autres"
+331,ray_efficienceaddinp,RaY_EfficienceAddInp,Efficience additionnelle (inp),73529,false,RaY_EfficienceAddInp,RaY_CNE,Efficience additionnelle (inp),CNE_2_09 TRA STO,RA 02CNE 026 Panel=CNE
+332,ray_crcpdefecartcalc,RaY_CRCPDefEcartCalc,{Ecart Délibérations vs Définitif Calc},73529,false,RaY_CRCPDefEcartCalc,RA_CRCP,{Ecart Délibérations vs Définitif Calc},,RA 03CRCP 011
+487,capm_immo,CapM_Immo,Montant Immo (après RAC CapeX) [M],73529,false,CapM_Immo,CAP,Montant Immo (après RAC CapeX) [M],Lnk=CapY_ImmoCalc,CPXm 101
+334,ray_reversementinteropeinp,RaY_ReversementInterOpeInp,Reversement inter-opérateur (inp),73529,false,RaY_ReversementInterOpeInp,RA,Reversement inter-opérateur (inp),RA_13_2 TRA,"RA 04AUTRES 001 Panel=Autres,Revenu Autorisé Action=RA01 Autres"
+335,ray_lissage,RaY_Lissage,Lissage,73529,false,RaY_Lissage,RaY_CNE,Lissage,CNE_3_10 TRA STO Metier_Total,RA 02CNE 030 Panel=CNE
+6,ray_crcptotalactualise,RaY_CRCPTotalActualise,Total CRCP N actualisé,73529,false,RaY_CRCPTotalActualise,RA_CRCP,Total CRCP N actualisé,RA_CRCP_05_Calcule,"RA 03CRCP 023 Panel=CRCP Transport,CRCP Stockage Action=RA02TR/ST CRCP Apuré=[RaY_CRCPReliquat]+[RaY_CRCPDefActualise]+[RaY_CRCPProvActualise]"
+7,ray_compressorcapainp,RaY_CompressorCapaInp,Compressor capa. sold to TR (inp),73529,false,RaY_CompressorCapaInp,RaY_CNE,Compressor capa. sold to TR (inp),CNE_2_07 STO,RA 02CNE 020 Panel=CNE
+22,ray_crcpprevcouv,RaY_CRCPPrevCouv,Couverture au CRCP - Prévisionnel,73529,false,RaY_CRCPPrevCouv,RA_CRCP,Couverture au CRCP - Prévisionnel,RA_CRCP_06_Ecart,RA 03CRCP 016 Panel=CRCP TR/ST Base
+25,ray_barn,RaY_BarN,BAR au 01/01/N,73529,false,RaY_BarN,RaY_CCN,BAR au 01/01/N,,RA 01CCN 001 Panel=CCN
+26,ray_reversementinterope,RaY_ReversementInterOpe,Reversement inter-opérateur,73529,false,RaY_ReversementInterOpe,RA,Reversement inter-opérateur,RA_13_3 TRA Metier_Total,"RA 04AUTRES 001 Panel=Autres,Revenu Autorisé Action=RA01 Autres"
+31,ray_connectionincomeinp,RaY_ConnectionIncomeInp,Connection income (inp),73529,false,RaY_ConnectionIncomeInp,RaY_CNE,Connection income (inp),CNE_2_01 TRA,RA 02CNE 002 Panel=CNE
+39,ray_otherrevenues,RaY_OtherRevenues,Other revenues,73529,false,RaY_OtherRevenues,RaY_CNE,Other revenues,CNE_3_06 TRA Metier_Total,RA 02CNE 018 Panel=CNE
+40,ray_otherrevenuescalc,RaY_OtherRevenuesCalc,Other revenues (calc),73529,false,RaY_OtherRevenuesCalc,RaY_CNE,Other revenues (calc),CNE_1_06 TRA,RA 02CNE 016 Panel=CNE
+47,ray_crcpreliquat,RaY_CRCPReliquat,Reliquat CRCP antérieurs actualisé,73529,false,RaY_CRCPReliquat,RA_CRCP,Reliquat CRCP antérieurs actualisé,RA_CRCP_02_Calcule,"RA 03CRCP 026 Panel=CRCP Transport,CRCP Stockage Action=RA02TR/ST CRCP Apuré=([RaY_CRCPReliquatHisto]+([RaY_CRCPApureN1] at prevMember(this([TEMPS].[Fiscale].[Fiscale Annee]))))*(1+[RaK_CRCPTxActu]/100)"
+48,ray_storagecapainp,RaY_StorageCapaInp,Storage capacities sold to TR (inp),73529,false,RaY_StorageCapaInp,RaY_CNE,Storage capacities sold to TR (inp),CNE_2_08 STO,RA 02CNE 023 Panel=CNE
+62,ray_compressorcapacalc,RaY_CompressorCapaCalc,Compressor capa. sold to TR (calc),73529,false,RaY_CompressorCapaCalc,RaY_CNE,Compressor capa. sold to TR (calc),CNE_1_07 STO,RA 02CNE 019 Panel=CNE
+65,ray_ccn,RaY_CCN,CCN,73529,false,RaY_CCN,RA_CCN,CCN,RA_04 TRA STO Metier_Total,"RA 01CCN 007 Panel=CCN,Revenu Autorisé"
+68,ray_crcpinput,RaY_CRCPInput,CRCP Résultats Input,73529,false,RaY_CRCPInput,RA_CRCP,CRCP Résultats Input,RA_CRCP_01_Base,RA 03CRCP 008 Panel=CRCP TR/ST Base
+73,ray_crcpdefactualise,RaY_CRCPDefActualise,CRCP définitif N-2 actualisé,73529,false,RaY_CRCPDefActualise,RA_CRCP,CRCP définitif N-2 actualisé,RA_CRCP_03_Calcule,"RA 03CRCP 019 Panel=CRCP Transport,CRCP Stockage Action=RA02TR/ST CRCP Apuré=[RaY_CRCPDefActualiseTMP]*(1+@[RaK_CRCPTxActu]/100)*(1+@[RaK_CRCPTxActu]/100)"
+78,ray_crcplimite,RaY_CRCPLimite,% du RA prévisionnel,73529,false,RaY_CRCPLimite,RA_CRCP,% du RA prévisionnel,RA_CRCP_07_Calcule,"RA 03CRCP 018 Panel=CRCP Transport,CRCP Stockage Action=RA01TR/ST CSD CRCP Calculé"
+89,ray_interconnectiontransit,RaY_InterconnectionTransit,Interconnection and transit - GRT,73529,false,RaY_InterconnectionTransit,RaY_CNE,Interconnection and transit - GRT,CNE_3_02 TRA Metier_Total,RA 02CNE 006 Panel=CNE
+91,ray_rahorscrcp,RaY_RAhorsCRCP,RA prévisionnel hors CRCP,73529,false,RaY_RAhorsCRCP,RA_CRCP,RA prévisionnel hors CRCP,RA_CRCP_06_Calcule,"RA 03CRCP 017 Panel=CRCP Transport,CRCP Stockage Action=RA01TR/ST CSD CRCP Calculé"
+98,ray_crcpdefactualisetmp,RaY_CRCPDefActualiseTMP,{TMP CRCP définitif N-2 actualisé},73529,false,RaY_CRCPDefActualiseTMP,RA_CRCP,{TMP CRCP définitif N-2 actualisé},,"RA 03CRCP 017 Panel=CRCP Transport,CRCP Stockage Action=RA01TR/ST CSD CRCP Calculé"
+99,ray_crcpapuren,RaY_CRCPApureN,CRCP Apuré en N,73529,false,RaY_CRCPApureN,RA_CRCP,CRCP Apuré en N,RA_CRCP_08_Calcule,"RA 03CRCP 024 Panel=CRCP Transport,CRCP Stockage Action=RA02TR/ST CRCP Apuré=if ([RaY_CRCPTotalActualise]*-1)>[RaY_CRCPLimite] then [RaY_CRCPLimite] else [RaY_CRCPTotalActualise]*-1 end"
+114,ray_crcpprovactualise,RaY_CRCPProvActualise,CRCP provisoire N-1 actualisé,73529,false,RaY_CRCPProvActualise,RA_CRCP,CRCP provisoire N-1 actualisé,RA_CRCP_04_Calcule,"RA 03CRCP 021 Panel=CRCP Transport,CRCP Stockage Action=RA02TR/ST CRCP Apuré=[RaY_CRCPProvActualiseTMP]*(1+@[RaK_CRCPTxActu]/100)"
+120,ray_crcpdefcouv,RaY_CRCPDefCouv,Couverture au CRCP - Définitif,73529,false,RaY_CRCPDefCouv,RA_CRCP,Couverture au CRCP - Définitif,RA_CRCP_09_Ecart,RA 03CRCP 015 Panel=CRCP TR/ST Base
+122,ray_provisionandother,RaY_ProvisionAndOther,Provision & other,73529,false,RaY_ProvisionAndOther,RaY_CNE,Provision & other,CNE_3_05 TRA Metier_Total,RA 02CNE 015 Panel=CNE
+126,ray_crcp,RaY_CRCP,CRCP,73529,false,RaY_CRCP,RA_CRCP,CRCP,RA_11 TRA STO Metier_Total,"RA 03CRCP 027 Panel=CRCP Transport,CRCP Stockage,Revenu Autorisé"
+129,ray_interconnectiontransitinp,RaY_InterconnectionTransitInp,Interconnection and transit - GRT (inp),73529,false,RaY_InterconnectionTransitInp,RaY_CNE,Interconnection and transit - GRT (inp),CNE_2_02 TRA,RA 02CNE 005 Panel=CNE
+131,ray_servicestothirdpartiescalc,RaY_ServicesToThirdPartiesCalc,Services to third parties (calc),73529,false,RaY_ServicesToThirdPartiesCalc,RaY_CNE,Services to third parties (calc),CNE_1_04 TRA,RA 02CNE 010 Panel=CNE
+138,ray_storagecapacalc,RaY_StorageCapaCalc,Storage capacities sold to TR (calc),73529,false,RaY_StorageCapaCalc,RaY_CNE,Storage capacities sold to TR (calc),CNE_1_08 STO,RA 02CNE 022 Panel=CNE
+490,capm_immodtdp,CapM_ImmoDTDP,Immo DTDP (avant RAC) [M],73529,false,CapM_ImmoDTDP,CAP,Immo DTDP (avant RAC) [M],Lnk=CapY_ImmoCalc,CPXm 101b
+151,ray_otherrevenuesinp,RaY_OtherRevenuesInp,Other revenues (inp),73529,false,RaY_OtherRevenuesInp,RaY_CNE,Other revenues (inp),CNE_2_06 TRA,RA 02CNE 017 Panel=CNE
+154,ray_opexinp,RaY_OpexInp,Operational expenses (inp),73529,false,RaY_OpexInp,RaY_CNE,Operational expenses (inp),CNE_2_03 TRA STO,RA 02CNE 008 Panel=CNE
+166,rak_crcplimitepct,RaK_CRCPLimitePct,Limite (en % du RA),73529,false,RaK_CRCPLimitePct,RA_CRCP,Limite (en % du RA),,RA 03CRCP 001 Panel=CRCP Limite (% du RA)
+172,ray_crcpapuren1,RaY_CRCPApureN1,CRCP Apuré en N+1,73529,false,RaY_CRCPApureN1,RA_CRCP,CRCP Apuré en N+1,RA_CRCP_09_Calcule,"RA 03CRCP 025 Panel=CRCP Transport,CRCP Stockage Action=RA02TR/ST CRCP Apuré=[RaY_CRCPLimite] - [RaY_CRCPTotalActualise]"
+187,ray_varleveecongestion,RaY_VarLeveeCongestion,Variation du poste Coûts de levée des congestions,73529,false,RaY_VarLeveeCongestion,RA,Variation du poste Coûts de levée des congestions,RA_03 TRA Metier_Total,"RA 04AUTRES 003 Panel=Autres,Revenu Autorisé"
+193,ray_compressorcapa,RaY_CompressorCapa,Compressor capa. sold to TR,73529,false,RaY_CompressorCapa,RaY_CNE,Compressor capa. sold to TR,CNE_3_07 STO Metier_Total,RA 02CNE 021 Panel=CNE
+195,ray_rembar,RaY_RemBar,Rémunération de la BAR,73529,false,RaY_RemBar,RaY_CCN,Rémunération de la BAR,CCN_02,RA 01CCN 003 Panel=CCN
+200,ray_varenergie,RaY_VarEnergie,Variation du poste Energie et quotas de CO2,73529,false,RaY_VarEnergie,RA,Variation du poste Energie et quotas de CO2,RA_02 TRA STO Metier_Total,"RA 04AUTRES 002 Panel=Autres,Revenu Autorisé"
+205,ray_remencours,RaY_RemEnCours,Rémunération des Immobilisations en cours,73529,false,RaY_RemEnCours,RA_CCN,Rémunération des Immobilisations en cours,CCN_03,RA 01CCN 005 Panel=CCN
+206,ray_provisionandotherinp,RaY_ProvisionAndOtherInp,Provision & other (inp),73529,false,RaY_ProvisionAndOtherInp,RaY_CNE,Provision & other (inp),CNE_2_05 TRA,RA 02CNE 014 Panel=CNE
+209,ray_connectionincome,RaY_ConnectionIncome,Connection income,73529,false,RaY_ConnectionIncome,RaY_CNE,Connection income,CNE_3_01 TRA Metier_Total,RA 02CNE 003 Panel=CNE
+220,ray_servicestothirdparties,RaY_ServicesToThirdParties,Services to third parties,73529,false,RaY_ServicesToThirdParties,RaY_CNE,Services to third parties,CNE_3_04 TRA Metier_Total,RA 02CNE 012 Panel=CNE
+223,ray_remsubv,RaY_RemSubv,Rémunération des Subventions,73529,false,RaY_RemSubv,RA_CCN,Rémunération des Subventions,CCN_04,RA 01CCN 004 Panel=CCN
+225,ray_servicestothirdpartiesinp,RaY_ServicesToThirdPartiesInp,Services to third parties (inp),73529,false,RaY_ServicesToThirdPartiesInp,RaY_CNE,Services to third parties (inp),CNE_2_04 TRA,RA 02CNE 011 Panel=CNE
+228,ray_connectionincomecalc,RaY_ConnectionIncomeCalc,Connection income (calc),73529,false,RaY_ConnectionIncomeCalc,RaY_CNE,Connection income (calc),CNE_1_01 TRA,RA 02CNE 001 Panel=CNE
+232,ray_couvctsechus,RaY_CouvCtsEchus,Couverture des coûts échoués,73529,false,RaY_CouvCtsEchus,RA_CCN,Couverture des coûts échoués,CCN_05,RA 01CCN 006 Panel=CCN
+235,ray_opexcalc,RaY_OpexCalc,Operational expenses (calc),73529,false,RaY_OpexCalc,RaY_CNE,Operational expenses (calc),CNE_1_03 TRA STO,RA 02CNE 007 Panel=CNE
+244,ray_ecartrecettesra,RaY_EcartRecettesRA,Ecart annuel recettes/RA,73529,false,RaY_EcartRecettesRA,RA,Ecart annuel recettes/RA,RA_15 TRA STO Metier_Total,"RA 04AUTRES 004 Panel=Autres,Revenu Autorisé"
+247,ray_interconnectiontransitcalc,RaY_InterconnectionTransitCalc,Interconnection and transit - GRT (calc),73529,false,RaY_InterconnectionTransitCalc,RaY_CNE,Interconnection and transit - GRT (calc),CNE_1_02 TRA,RA 02CNE 004 Panel=CNE
+248,ray_cne,RaY_CNE,CNE,73529,false,RaY_CNE,RA_CNE,CNE,RA_01 TRA STO Metier_Total,"RA 02CNE 025 Panel=CNE,Revenu Autorisé"
+256,ray_retraittarif,RaY_RetraitTarif,Retraitements tarifaires,73529,false,RaY_RetraitTarif,RA_CCN,Retraitements tarifaires,CCN_06,RA 01CCN 008 Panel=CCN
+259,ray_storagecapa,RaY_StorageCapa,Storage capacities sold to TR,73529,false,RaY_StorageCapa,RaY_CNE,Storage capacities sold to TR,CNE_3_08 STO Metier_Total,RA 02CNE 024 Panel=CNE
+261,ray_crcpprevecart,RaY_CRCPPrevEcart,Ecart Délibérations vs Prévisionnel,73529,false,RaY_CRCPPrevEcart,RA_CRCP,Ecart Délibérations vs Prévisionnel,RA_CRCP_04_Ecart,RA 03CRCP 012 Panel=CRCP TR/ST Base
+274,ray_raavantlissage,RaY_RAavantLissage,Revenu autorisé avant lissage,73529,false,RaY_RAavantLissage,RA,Revenu autorisé avant lissage,RA_14 TRA STO Metier_Total,RA 05RA 002 Panel=Revenu Autorisé
+277,ray_crcpdefecart,RaY_CRCPDefEcart,Ecart Délibérations vs Définitif,73529,false,RaY_CRCPDefEcart,RA_CRCP,Ecart Délibérations vs Définitif,RA_CRCP_07_Ecart,RA 03CRCP 013 Panel=CRCP TR/ST Base
+280,ray_amortactifs,RaY_AmortActifs,Amortissements des Actifs en service,73529,false,RaY_AmortActifs,RaY_CCN,Amortissements des Actifs en service,CCN_01,RA 01CCN 002 Panel=CCN
+41,ray_crcpreliquathisto,RaY_CRCPReliquatHisto,Reliquat CRCP antérieurs (Reprise Historique),73529,false,RaY_CRCPReliquatHisto,RA_CRCP,Reliquat CRCP antérieurs (Reprise Historique),RA_CRCP_01_Calcule,"RA 03CRCP 022 Panel=CRCP Transport,CRCP Stockage"
+414,cpx_m,CPX_M,CPX Month (SAP),73529,false,CPX_M,INBOUND,CPX Month (SAP),,INB03
+415,opx_m,OPX_M,OPX Month (SAP),73529,false,OPX_M,INBOUND,OPX Month (SAP),,INB04
+416,cfs_m,CFS_M,CFS Month (SAP),73529,false,CFS_M,INBOUND,CFS Month (SAP),,INB02
+417,bsh_m,BSH_M,BSH Month (SAP),73529,false,BSH_M,INBOUND,BSH Month (SAP),,INB01
+717,cfsm_mvtinp,CFSM_MVTINP,CFS Saisi [M],73529,false,CFSM_MVTINP,CFSM_TOT,CFS Saisi [M],CFSMa1 Lnk= CFS_MVTINP,WKCM CFSMa1
+5,wkcy_socialsecurity,WkcY_SocialSecurity,Social security agencies,73529,false,WkcY_SocialSecurity,WKC,Social security agencies,WkcNTR04,"WKC031 Panel=Wkc02,Wkc04"
+8,capt_depreciation,CapT_Depreciation,{Dep7 Dépréciation},73529,false,CapT_Depreciation,CAP,{Dep7 Dépréciation},{Temp},
+15,capt_deptemp7,CapT_DepTemp7,{Dep7 Sce Calc Dépréciation},73529,false,CapT_DepTemp7,CAP,{Dep7 Sce Calc Dépréciation},"{Temp},Action=DEP03",CAP 04DEP 012 - SoDA 13
+100,sysf_scenariomois,SysF_ScenarioMois,Flag Phase Mois,73529,false,SysF_ScenarioMois,OTH_OBS,Flag Phase Mois,Panel=52,XX System
+20,wkcy_personnelbase,WkcY_PersonnelBase,Personnel Expenses,73529,false,WkcY_PersonnelBase,WKC,Personnel Expenses,WkcNTR01,"WKC027 Panel=Wkc02,Wkc04"
+21,capm_depreciationsubvmes,CapM_DepreciationSubvMES,Dépréciation Subvention par MES,73529,false,CapM_DepreciationSubvMES,CAP,Dépréciation Subvention par MES,"Mode=SD,Action=DEP02",CAP 04DEP 015 - SoDA 13-14
+23,wkcy_vat,WkcY_VAT,VAT,73529,false,WkcY_VAT,WKC,VAT,WkcNTR05,"WKC024 Panel=Wkc02,Wkc04"
+29,capy_immoinptot,CapY_ImmoInpTot,Montant Immo Total Saisie,73529,false,CapY_ImmoInpTot,CAP,Montant Immo Total Saisie,Panel=C4a Mode=DY,CAP 01REC 003
+34,capt_checkflagprojet,CapT_CheckFlagProjet,Check Flag Projet,73529,false,CapT_CheckFlagProjet,CAP,Check Flag Projet,Panel=C4C Mode=DY,CAP 03FLG 006
+37,wkcy_personnel,WkcY_Personnel,Personnel,73529,false,WkcY_Personnel,WKC,Personnel,WkcNTR02,"WKC034 Panel=Wkc02,Wkc04"
+46,capf_suivicre,CapF_SuiviCRE,Flag Suivi CRE,73529,false,CapF_SuiviCRE,CAP,Flag Suivi CRE,Panel=C4C Mode=Input,CAP 03FLG 002 InAction=CAP06
+32,capy_subventioninpnocatimmo,CapY_SubventionInpNoCatImmo,Montant Subvention Saisie DTDP,73529,false,CapY_SubventionInpNoCatImmo,CAP,Montant Subvention Saisie DTDP,"Panel=C1C,C1S,C1V Mode=Input",CAP 01REC 011
+45,opxy_amortissement,OpxY_Amortissement,Amortissement Annuel,73529,false,OpxY_Amortissement,CAP,Amortissement Annuel,Panel=VersP&L Action=DEP04,CAP 04DEP 019
+67,capt_deptemp6,CapT_DepTemp6,{Dep6 Durée Calcul},73529,false,CapT_DepTemp6,CAP,{Dep6 Durée Calcul},"{Temp},Action=DEP03",CAP 04DEP 011 - SoDA 12
+69,capm_immoinp,CapM_ImmoInp,Montant Immo MES,73529,false,CapM_ImmoInp,CAP,Montant Immo MES,Mode=DY,CAP 04DEP 005
+92,capy_encoursimport,CapY_EnCoursImport,Montant EnCours (Import),73529,false,CapY_EnCoursImport,CAP,Montant EnCours (Import),Panel=CA02 Action=IEC INIT Mode=Import,CAP 01REC 018
+97,capt_moisposition,CapT_MoisPosition,Tech MoisPosition,73529,false,CapT_MoisPosition,CAP,Tech MoisPosition,Panel=CA07,CAP 04DEP 002 - SoDA 5
+103,capt_immotemp1,CapT_ImmoTemp1,{CapExTemp1},73529,false,CapT_ImmoTemp1,CAP,{CapExTemp1},"{Temp},Action=DEP03",CAP 04DEP 003 - SoDA 1-2
+121,capy_encoursmes,CapY_EnCoursMES,MES EnCours,73529,false,CapY_EnCoursMES,CAP,MES EnCours,Panel=C1-2-3C Mode=Input,CAP 01REC 019
+123,wkcy_tradepayables,WkcY_TradePayables,Trade payables,73529,false,WkcY_TradePayables,WKC,Trade payables,WkcTR04,"WKC010 Panel=Wkc01,Wkc04"
+124,capm_amortissement,CapM_Amortissement,Amortissement,73529,false,CapM_Amortissement,CAP,Amortissement,"Mode=SD,Action=DEP04",CAP 04DEP 017
+127,capt_deptemp8,CapT_DepTemp8,{Dep8 Dépréciation MES},73529,false,CapT_DepTemp8,CAP,{Dep8 Dépréciation MES},{Temp},
+132,capt_moismes,CapT_MoisMES,Tech MoisMES,73529,false,CapT_MoisMES,CAP,Tech MoisMES,Panel=CA06,CAP 04DEP 001 - SoDA 3
+134,wkcy_tradereceivables,WkcY_TradeReceivables,Trade receivables,73529,false,WkcY_TradeReceivables,WKC,Trade receivables,WkcTR02,"WKC020 Panel=Wkc01,Wkc04"
+136,wkcy_other,WkcY_Other,Working Capital Other,73529,false,WkcY_Other,WKC,Working Capital Other,WkcNTR06,"WKC038 Panel=Wkc03,Wkc04"
+140,equ_mvtcal,EQU_MVTCAL,EQU Mouvement Calculé,73529,false,EQU_MVTCAL,EQU_CLS,EQU Mouvement Calculé,NotUsed,NotUsed
+145,capy_immoinpracnores,CapY_ImmoInpRacNoRes,Montant Immo après RAC,73529,false,CapY_ImmoInpRacNoRes,CAP,Montant Immo après RAC,Mode=CS Action=CAP03a,CAP 01REC 007
+130,capy_immoinpnocatimmo,CapY_ImmoInpNoCatImmo,Montant Immo Saisie DTDP,73529,false,CapY_ImmoInpNoCatImmo,CAP,Montant Immo Saisie DTDP,"Panel=C1C,C1S,C1V Mode=Input",CAP 01REC 002
+149,capt_deptemp4,CapT_DepTemp4,{Dep4 Borne Fin},73529,false,CapT_DepTemp4,CAP,{Dep4 Borne Fin},"{Temp},Action=DEP03",CAP 04DEP 009 - SoDA 10
+150,wkck_assumptionvalmetier,WkcK_AssumptionValMetier,Wkc Assumption Val Metier,73529,false,WkcK_AssumptionValMetier,WKC,Wkc Assumption Val Metier,,"WKC002 Panel=Wkc01,Wkc04"
+153,capy_basedepreciation,CapY_BaseDepreciation,Dépréciation Base de calcul (hors Subv),73529,false,CapY_BaseDepreciation,CAP,Dépréciation Base de calcul (hors Subv),"Panel=Base Depre Mode=CS,Action=CAP05 Mode=SD,Action=CAP07 (EUR Infl)",CAP 01REC 026
+451,sysf_organisation,SysF_Organisation,Flag Organisation (-1=lock),73529,false,SysF_Organisation,FIN,Flag Organisation (-1=lock),Sort=A? Panel= Dim=,ADM Oa5x
+3,wkck_activitemap,WkcK_ActiviteMap,**Wkc ActiviteMap,73529,false,WkcK_ActiviteMap,WKC,**Wkc ActiviteMap,,Panel=56
+720,wkcm_cash,WkcM_Cash,Working Capital Cash Difference M {CS},73529,false,WkcM_Cash,WKC,Working Capital Cash Difference M {CS},,WKCM032 Mode=CS Action=Wkc03
+82,capy_totalimmohorssubv,CapY_TotalImmoHorsSubv,"Total Immo (après RAC et Capi, hors Subv) (DS = CAPEX)",73529,false,CapY_TotalImmoHorsSubv,CAP,"Total Immo (après RAC et Capi, hors Subv) (DS = CAPEX)",Mode-DY,CAP 01REC 023
+36,capg_dureem,CapG_DureeM,Durée Mensuelle,73529,false,CapG_DureeM,CAP,Durée Mensuelle,Panel=CA09 Dim=3H Mode=Import+Input Action=AD01CpyPHA,CAP 04DEP 003 InAction=DEP02-03 Assign 3-7-13
+447,finy_totexexterne,FinY_TotexExterne,CAPEX OPEX Externes (après RAC),73529,false,FinY_TotexExterne,REP_Y,CAPEX OPEX Externes (après RAC),,
+448,opxy_opexexterne,OpxY_OpexExterne,Total Opex Externes (après RAC),73529,false,OpxY_OpexExterne,REP_Y,Total Opex Externes (après RAC),,
+158,wkcy_workingcapitalcls,WkcY_WorkingCapitalCls,Working Capital Closing,73529,false,WkcY_WorkingCapitalCls,WKC,Working Capital Closing,,"Mode=CS,Action=Wkc02"
+164,equ_mvtinp,EQU_MVTINP,EQU Mouvement Saisi,73529,false,EQU_MVTINP,EQU_CLS,EQU Mouvement Saisi,NotUsed,NotUsed
+169,wkck_assumptionval,WkcK_AssumptionVal,Wkc Assumption Val,73529,false,WkcK_AssumptionVal,WKC,Wkc Assumption Val,,"WKC001 Panel=Wkc02,Wkc04"
+179,wkcy_inventorybase,WkcY_InventoryBase,OPEX + CAPEX - Personal Costs & BT,73529,false,WkcY_InventoryBase,WKC,OPEX + CAPEX - Personal Costs & BT,WkcTR05,"WKC005 Panel=Wkc01,Wkc04"
+180,capy_immoinpnaavantrac,CapY_ImmoInpNAAvantRac,{Montant Immo Métier NA},73529,false,CapY_ImmoInpNAAvantRac,CAP,{Montant Immo Métier NA},Mode=SD Action=CAP02,CAP 01REC 006
+185,capt_immotemp2,CapT_ImmoTemp2,{CapExTemp2},73529,false,CapT_ImmoTemp2,CAP,{CapExTemp2},"{Temp},Action=DEP03",CAP 04DEP 004 - SoDA 3
+189,wkcy_inventory,WkcY_Inventory,Inventory,73529,false,WkcY_Inventory,WKC,Inventory,WkcTR06,"WKC007 Panel=Wkc01,Wkc04"
+190,capt_deptemp3,CapT_DepTemp3,{Dep3 Position Mois Fin},73529,false,CapT_DepTemp3,CAP,{Dep3 Position Mois Fin},"{Temp},Action=DEP03",CAP 04DEP 008 - SoDA 9
+192,capy_subventioninptot,CapY_SubventionInpTot,Montant Subvention Total Saisie,73529,false,CapY_SubventionInpTot,CAP,Montant Subvention Total Saisie,Panel=C4a Mode=DY,CAP 01REC 012
+152,capy_immoinp,CapY_ImmoInp,Montant Immo Saisie,73529,false,CapY_ImmoInp,CAP,Montant Immo Saisie,"Panel=C2-3C,C2-3S,C2-3V Mode=Input",CAP 01REC 001
+197,opxm_amortissement,OpxM_Amortissement,Amortissement Mensuel,73529,false,OpxM_Amortissement,CAP,Amortissement Mensuel,Action=DEP04,CAP 04DEP 018
+203,capm_depreciationmes,CapM_DepreciationMES,Dépréciation par MES,73529,false,CapM_DepreciationMES,CAP,Dépréciation par MES,"Mode=SD,Action=DEP03",CAP 04DEP 013 - SoDA 13-14
+211,capt_deptemp9,CapT_DepTemp9,{Dep9 Dépréciation},73529,false,CapT_DepTemp9,CAP,{Dep9 Dépréciation},{Temp},
+212,wkcy_tradereceivablesbase,WkcY_TradeReceivablesBase,Revenue,73529,false,WkcY_TradeReceivablesBase,WKC,Revenue,WkcTR01,"WKC018 Panel=Wkc01,Wkc04"
+214,equ_op0,EQU_OP0,EQU Initialisation,73529,false,EQU_OP0,EQU_CLS,EQU Initialisation,NotUsed,NotUsed
+215,capy_immotyp,CapY_ImmoTyp,Montant Immo Typé,73529,false,CapY_ImmoTyp,CAP,Montant Immo Typé,Panel=C4d,CAP 03FLG 005 [CapY_TotalImmo]*[CapF_Statut]*[CapF_SuiviCRE]*[CapF_ProjetGestion]
+216,capt_categimmoreseau,CapT_CategImmoReseau,Tech CategImmo Reseau,73529,false,CapT_CategImmoReseau,CAP,Tech CategImmo Reseau,{Tech} Mode=Input,CAP 01REC 008
+231,capt_deptemp5,CapT_DepTemp5,{Dep5 Borne Début},73529,false,CapT_DepTemp5,CAP,{Dep5 Borne Début},"{Temp},Action=DEP03",CAP 04DEP 010 - SoDA 11
+237,capf_statut,CapF_Statut,Flag Statut,73529,false,CapF_Statut,CAP,Flag Statut,Panel=C4C Mode=Input,CAP 03FLG 001 InAction=CAP06
+245,wkck_assumptionpct,WkcK_AssumptionPct,Wkc Assumption Pct,73529,false,WkcK_AssumptionPct,WKC,Wkc Assumption Pct,,Panel=Wkc02
+246,capy_immoinpmetieravantrac,CapY_ImmoInpMetierAvantRac,{Montant Immo Métier TR/ST},73529,false,CapY_ImmoInpMetierAvantRac,CAP,{Montant Immo Métier TR/ST},Mode=CS Action=CAP01,CAP 01REC 005
+249,equ_cls,EQU_CLS,EQU Closing,73529,false,EQU_CLS,EQU,EQU Closing,NotUsed,NotUsed
+253,capy_totalimmooutput,CapY_TotalImmoOutput,Immo (Y) Feed,73529,false,CapY_TotalImmoOutput,CAP,Immo (Y) Feed,Mode=SD Action=OTx1WKC Feed WKC,CAP 01REC 025
+254,wkcy_tradepayablesbase,WkcY_TradePayablesBase,OPEX + CAPEX - Personal Costs & BT,73529,false,WkcY_TradePayablesBase,WKC,OPEX + CAPEX - Personal Costs & BT,WkcTR03,"WKC003 Panel=Wkc01,Wkc04"
+257,capf_projetgestion,CapF_ProjetGestion,Flag Projet Gestion,73529,false,CapF_ProjetGestion,CAP,Flag Projet Gestion,Panel=C4C Mode=Input,CAP 03FLG 003 InAction=CAP06
+258,wkcy_social_securitybase,WkcY_Social_SecurityBase,Social security Expenses,73529,false,WkcY_Social_SecurityBase,WKC,Social security Expenses,WkcNTR03,"WKC029 Panel=Wkc02,Wkc04"
+263,capm_depreciationsubv,CapM_DepreciationSubv,Dépréciation Subvention,73529,false,CapM_DepreciationSubv,CAP,Dépréciation Subvention,"Panel=Depre Mode=SD,Action=DEP02",CAP 04DEP 016 - SoDA 15
+265,capt_deptemp2,CapT_DepTemp2,{Dep2 Durée},73529,false,CapT_DepTemp2,CAP,{Dep2 Durée},"{Temp},Action=DEP03",CAP 04DEP 007 - SoDA 7-8
+267,capy_encoursinp,CapY_EnCoursInp,Montant EnCours Saisie,73529,false,CapY_EnCoursInp,CAP,Montant EnCours Saisie,"Panel=C1-2-3S,C1-2-3V Mode=DY",CAP 01REC 020
+719,bshm_op0,BSHM_OP0,BSH Initialisation [M],73529,false,BSHM_OP0,BSHM_CLS,BSH Initialisation [M],Lnk=BSH_OP0,BSHM01
+269,capm_depreciation,CapM_Depreciation,Dépréciation,73529,false,CapM_Depreciation,CAP,Dépréciation,"Panel=Depre Mode=SD,Action=DEP03",CAP 04DEP 014 - SoDA 15
+275,capt_deptemp1,CapT_DepTemp1,{Dep1 Mois Début},73529,false,CapT_DepTemp1,CAP,{Dep1 Mois Début},"{Temp},Action=DEP03",CAP 04DEP 006 - SoDA 4-6
+282,wkcy_inventory_cs,WkcY_Inventory_cs,{Inventory_cs},73529,false,WkcY_Inventory_cs,WKC,{Inventory_cs},,"WKC009 Mode=CS,Action=Wkc00"
+283,wkcy_tradereceivables_cs,WkcY_TradeReceivables_cs,{Trade receivables_cs},73529,false,WkcY_TradeReceivables_cs,WKC,{Trade receivables_cs},,"WKC022 Mode=CS,Action=Wkc00"
+284,wkcy_socialsecurity_cs,WkcY_SocialSecurity_cs,{Social security agencies_cs},73529,false,WkcY_SocialSecurity_cs,WKC,{Social security agencies_cs},,"WKC033 Mode=CS,Action=Wkc00"
+285,wkcy_vat_cs,WkcY_VAT_cs,{VAT_cs},73529,false,WkcY_VAT_cs,WKC,{VAT_cs},,"WKC026 Mode=CS,Action=Wkc00"
+286,wkcy_tradepayables_cs,WkcY_TradePayables_cs,{Trade payables_cs},73529,false,WkcY_TradePayables_cs,WKC,{Trade payables_cs},,"WKC012 Mode=CS,Action=Wkc00"
+287,wkcy_chiffreaffaire,WkcY_ChiffreAffaire,ChiffreAffaire (Y) Feed,73529,false,WkcY_ChiffreAffaire,WKC,ChiffreAffaire (Y) Feed,,WKC013 Action=OTx1WKC Feed WKC
+288,wkcy_personnel_cs,WkcY_Personnel_cs,{Personnel_cs},73529,false,WkcY_Personnel_cs,WKC,{Personnel_cs},,"WKC036 Mode=CS,Action=Wkc00"
+289,wkcy_tradereceivablesbaseplus,WkcY_TradeReceivablesBasePlus,Revenue (+),73529,false,WkcY_TradeReceivablesBasePlus,WKC,Revenue (+),,WKC016
+290,wkcy_trade,WkcY_Trade,Trade Working Capital,73529,false,WkcY_Trade,WKC,Trade Working Capital,,WKC023
+291,wkcy_tradereceivablesbaseminus,WkcY_TradeReceivablesBaseMinus,Revenue (-),73529,false,WkcY_TradeReceivablesBaseMinus,WKC,Revenue (-),,WKC014
+292,wkcy_nontrade,WkcY_NonTrade,Non Trade Working Capital,73529,false,WkcY_NonTrade,WKC,Non Trade Working Capital,,WKC037
+293,wkcy_cash,WkcY_Cash,Working Capital Cash Difference,73529,false,WkcY_Cash,WKC,Working Capital Cash Difference,,"Mode=CS,Action=Wkc03"
+242,bsh_cls,BSH_CLS,BSH Closing,73529,false,BSH_CLS,BSH,BSH Closing,Sort=BSHYa Panel=Bsh00,BSH05
+272,capk_rac,CapK_RAC,RAC CapEx (Saisie),73529,false,CapK_RAC,CAP,RAC CapEx (Saisie),Panel=CA03 Dim=B Outb=OUT3 Mode=Input,CAP 01REC 003 InAction=CAP02
+273,capy_subventioninp,CapY_SubventionInp,Montant Subvention Saisie,73529,false,CapY_SubventionInp,CAP,Montant Subvention Saisie,"Panel=C2-3C,C2-3S,C2-3V Mode=Input",CAP 01REC 010
+316,capy_subventioninpmetieravantrac,CapY_SubventionInpMetierAvantRac,{Montant Subvention Métier TR/ST},73529,false,CapY_SubventionInpMetierAvantRac,CAP,{Montant Subvention Métier TR/ST},Mode=CS Action=CAP01,CAP 01REC 014
+317,capy_subventioninpracnores,CapY_SubventionInpRacNoRes,Montant Subvention après RAC,73529,false,CapY_SubventionInpRacNoRes,CAP,Montant Subvention après RAC,Mode=CS Action=CAP03a,CAP 01REC 016
+318,capy_subventioninpnaavantrac,CapY_SubventionInpNAAvantRac,{Montant Subvention Métier NA},73529,false,CapY_SubventionInpNAAvantRac,CAP,{Montant Subvention Métier NA},Mode=SD Action=CAP02,CAP 01REC 015
+449,capy_capexexterne,CapY_CapexExterne,Total Capex Externes (après RAC hors Capi),73529,false,CapY_CapexExterne,REP_Y,Total Capex Externes (après RAC hors Capi),,
+780,finm_opexinterne,FinM_OpexInterne,Total Opex Internes (après RAC et Capi) [M],73529,false,FinM_OpexInterne,REP_M,Total Opex Internes (après RAC et Capi) [M],,
+107,capy_totalimmo,CapY_TotalImmo,Total Capex (après RAC et CAPI) DS=Capex,73529,false,CapY_TotalImmo,CAP,Total Capex (après RAC et CAPI) DS=Capex,Sort=FVCxD Mode=CS Action=CAP03c,CAP 01REC 021 -- UPD20200116 from CnS to DyC
+250,capy_subvention,CapY_Subvention,Montant Subvention (après RAC CapeX) DS=Capex,73529,false,CapY_Subvention,CAP,Montant Subvention (après RAC CapeX) DS=Capex,Sort=FVCxD Mode=CS Action=CAP03c,CAP 01REC 017 [CapY_SubventionInpRacNoRes]*[CapT_CategImmoReseau]
+61,capy_immo,CapY_Immo,Montant Immo (après RAC CapeX) DS=Capex,73529,false,CapY_Immo,CAP,Montant Immo (après RAC CapeX) DS=Capex,Sort=FVCxD Mode=SD Action=CAP03b Action=CAP04 (EUR Infl),CAP 01REC 009 [CapY_ImmoInpRacNoRes]*[CapT_CategImmoReseau]
+722,cfsm_tot,CFSM_TOT,CFS Total [M],73529,false,CFSM_TOT,CFS,CFS Total [M],CFSMa Lnk=CFS_TOT,WKCM CFSMa
+723,wkcy_cashformensu,WkcY_CashForMensu,{Working Capital Cash Difference [CFS]},73529,false,WkcY_CashForMensu,WKC,{Working Capital Cash Difference [CFS]},,WKCM032 Mode=CS Action=Wkc03
+725,cfsm_mvtcal,CFSM_MVTCAL,CFS Calculé [M],73529,false,CFSM_MVTCAL,CFSM_TOT,CFS Calculé [M],CFSMa2 Lnk=CFS_MVTCAL,WKCM CFSMa2
+726,cfsk_monthkey,CfsK_MonthKey,Clés Mensu CFS,73529,false,CfsK_MonthKey,FIN,Clés Mensu CFS,,zCFSm (TbD)
+481,finy_immo,FinY_Immo,Montant Immo (après RAC CapeX),73529,false,FinY_Immo,REP_Y,Montant Immo (après RAC CapeX),Sort=FBCxA,UFin BCxA
+482,finy_subvention,FinY_Subvention,Montant Subvention (après RAC CapeX),73529,false,FinY_Subvention,REP_Y,Montant Subvention (après RAC CapeX),Sort=FBCxB,UFin BCxB
+146,finy_totexnet,FinY_TotexNet,Total CAPEX OPEX CA (après RAC et CAPI),73529,false,FinY_TotexNet,REP_Y,Total CAPEX OPEX CA (après RAC et CAPI),,
+649,finy_totexinterne,FinY_TotexInterne,CAPEX OPEX Internes (après RAC et CAPI),73529,false,FinY_TotexInterne,REP_Y,CAPEX OPEX Internes (après RAC et CAPI),,
+612,finy_totalimmo,FinY_TotalImmo,Total Capex (après RAC et CAPI),73529,false,FinY_TotalImmo,REP_Y,Total Capex (après RAC et CAPI),Sort=FBCxD,UFin BCxD
+744,finy_totalimmohorssubv,FinY_TotalImmoHorsSubv,Total Capex hors subv (après RAC et Capi),73529,false,FinY_TotalImmoHorsSubv,REP_Y,Total Capex hors subv (après RAC et Capi),,
+724,bshm_opn,BSHM_OPN,BSH Opening [M],73529,false,BSHM_OPN,BSHM_CLS,BSH Opening [M],Lnk=BSH_OPN,BSHM02
+381,capy_totalimmo_iec,CapY_TotalImmo_IEC,Total Immo (après RAC et Capi+IEC),73529,false,CapY_TotalImmo_IEC,CAP,Total Immo (après RAC et Capi+IEC),Mode-DY,CAP 01REC 022a
+745,finm_totalimmohorssubv,FinM_TotalImmoHorsSubv,Total Capex hors subv (après RAC et Capi) [M],73529,false,FinM_TotalImmoHorsSubv,REP_M,Total Capex hors subv (après RAC et Capi) [M],Lnk=FinY_TotalImmoHorsSubv,
+714,capm_capexexterne,CapM_CapexExterne,Total Capex Externes (après RAC hors Capi) [M],73529,false,CapM_CapexExterne,REP_M,Total Capex Externes (après RAC hors Capi) [M],,
+678,finy_totexrac,FinY_TotexRAC,Total CAPEX OPEX CA (après RAC avant CAPI),73529,false,FinY_TotexRAC,REP_Y,Total CAPEX OPEX CA (après RAC avant CAPI),,
+711,opxm_opexexterne,OpxM_OpexExterne,Total Opex Externes (après RAC) [M],73529,false,OpxM_OpexExterne,REP_M,Total Opex Externes (après RAC) [M],,
+713,finm_totexexterne,FinM_TotexExterne,CAPEX OPEX Externes (après RAC) [M],73529,false,FinM_TotexExterne,REP_M,CAPEX OPEX Externes (après RAC) [M],,
+777,finm_totexinterne,FinM_TotexInterne,CAPEX OPEX Internes (après RAC et CAPI) [M],73529,false,FinM_TotexInterne,REP_M,CAPEX OPEX Internes (après RAC et CAPI) [M],,
+778,finm_opexraccapi,FinM_OpexRACCapi,Total Opex (après RAC & CAPI) [M],73529,false,FinM_OpexRACCapi,REP_M,Total Opex (après RAC & CAPI) [M],,
+715,finm_totexrac,FinM_TotexRAC,Total CAPEX OPEX CA (après RAC avant CAPI) [M],73529,false,FinM_TotexRAC,REP_M,Total CAPEX OPEX CA (après RAC avant CAPI) [M],FinM_TotexRAC Lnk=FinY_TotexRAC,
+348,opxy_opexbrut,OpxY_OpexBrut,Total Opex CA (apres RAC avant CAPI),73529,false,OpxY_OpexBrut,REP_Y,Total Opex CA (apres RAC avant CAPI),Sort=O0 Panel=Ox Dim=D,
+336,finy_opmodelorg,FinY_OpModelOrg,OpModel (Y) Org,73529,false,FinY_OpModelOrg,REP_Y,OpModel (Y) Org,Action=OTx1b Panel=OTx1 Dim=,OPXd Tax9
+810,sta_m,STA_M,STA Month (SAP),73529,false,STA_M,INBOUND,STA Month (SAP),,INB01
+843,capt_encoursfilter,CapT_EnCoursFilter,EnCours Filter,73529,false,CapT_EnCoursFilter,CAP,EnCours Filter,,
+876,kpi_contributionorga_opmodel,KPI_ContributionOrga_OpModel,Contribution à l'Organisation (OpModel),73529,false,KPI_ContributionOrga_OpModel,KPI,Contribution à l'Organisation (OpModel),,
+11,opxy_chiffreaffaireinp,OpxY_ChiffreAffaireInp,Chiffre Affaire (Saisie),73529,false,OpxY_ChiffreAffaireInp,FIN,Chiffre Affaire (Saisie),Sort=O1 Panel=O1 Dim=A,OPXa O1
+238,opxy_chiffreaffaire,OpxY_ChiffreAffaire,Chiffre Affaire,73529,false,OpxY_ChiffreAffaire,FIN,Chiffre Affaire,Action=O12RAC2 Dim=D,OPXb RAC12.1
+910,oth_other,OTH_Other,Other (Abstract),73529,false,OTH_Other,OTH,Other (Abstract),,
+27,finopmpyopx2ebit,FINOpMPYOpX2EBIT,OpModel or TM1 (OPX),73529,false,FINOpMPYOpX2EBIT,OTH_Other,OpModel or TM1 (OPX),,OPXh 1 OpModel OPX
+16,capy_encours,CapY_EnCours,Montant EnCours (DS=Capex),73529,false,CapY_EnCours,CAP,Montant EnCours (DS=Capex),Mode=CS Action=CAP03c DataChannel=OUT-CPXy2,CAP 01REC 024
+33,fin_noinflationrate,Fin_NoInflationRate,Inflation Rate = 1,73529,false,Fin_NoInflationRate,OTH_Other,Inflation Rate = 1,,
+35,opxymassesalarialesaisie,OpxYMasseSalarialeSaisie,** %ImmoTotal,73529,false,OpxYMasseSalarialeSaisie,OTH_OBS,** %ImmoTotal,Sort=Ox Panel=,XX Demo
+38,fin_inflationratecumulated,Fin_InflationRateCumulated,Inflation Rate Cumulated,73529,false,Fin_InflationRateCumulated,OTH_Other,Inflation Rate Cumulated,,
+51,finopmpycpx,FINOpMPYCpX,OpModel or TM1 (CPX),73529,false,FINOpMPYCpX,OTH_Other,OpModel or TM1 (CPX),,OPXh 1 OpModel CPX
+64,fin_inflationrate,Fin_InflationRate,Inflation Rate,73529,false,Fin_InflationRate,OTH_Other,Inflation Rate,,
+551,finy_bsh,FinY_BSH,BSH Closing {Y} (*** obsolete),73529,false,FinY_BSH,OTH_OBS,BSH Closing {Y} (*** obsolete),,
+74,0expensey1,0ExpenseY1,Masse Salariale (Test),73529,false,0ExpenseY1,OTH_OBS,Masse Salariale (Test),,XX Demo
+75,finopmpyttx,FINOpMPYTtX,OpModel or TM1 (ToteX),73529,false,FINOpMPYTtX,OTH_Other,OpModel or TM1 (ToteX),,OPXh 1 OpModel ToteX
+83,opxkcapi,OpxKCapi,(**Test) Capi TmpCalc,73529,false,OpxKCapi,OTH_OBS,(**Test) Capi TmpCalc,Sort=Ox Panel=,XX Demo
+110,0expensey3,0ExpenseY3,Moyens Communs (Test),73529,false,0ExpenseY3,OTH_OBS,Moyens Communs (Test),,XX Demo
+112,opxyfraisexploitation,OpxYFraisExploitation,(**Test)Masse Salariale Capitalisée,73529,false,OpxYFraisExploitation,OTH_OBS,(**Test)Masse Salariale Capitalisée,Sort=Ox Panel=O,XX Demo
+53,finopmpy,FINOpMPY,OpModel (Y) Excel like,73529,false,FINOpMPY,OTH_Other,OpModel (Y) Excel like,{Panel=HistOpModel1},OPXd Tax0.9
+88,inflationrate,InflationRate,**CPI InflationRate,73529,false,InflationRate,OTH_OBS,**CPI InflationRate,,
+90,finopmpytaxentries,FINOpMPYTaxEntries,OpModel (OpEx),73529,false,FINOpMPYTaxEntries,OTH_Other,OpModel (OpEx),,OPXd Tax1.5
+94,finopmpytaxpbt,FINOpMPYTaxPBT,OpModel (EBITDA F x 30%),73529,false,FINOpMPYTaxPBT,OTH_Other,OpModel (EBITDA F x 30%),,OPXd Tax1.6
+105,fin_inflationbaseeffect,Fin_InflationBaseEffect,**Inflation Base Effect,73529,false,Fin_InflationBaseEffect,OTH_OBS,**Inflation Base Effect,,
+230,0expensey2,0ExpenseY2,OpEx Externes,73529,false,0ExpenseY2,OTH_OBS,OpEx Externes,,XX Demo
+240,capk_totalimmopct,CapK_TotalImmoPct,%ImmoTotal,73529,false,CapK_TotalImmoPct,OTH_Other,%ImmoTotal,Action=OA13Capi2 Panel=OA13 Dim=,OPXb RAC13.2
+450,opxy_opexwoms,OpxY_OpexWoMS,**Total CAPEX OPEX (après RAC avant CAPI) OBSOLETE,73529,false,OpxY_OpexWoMS,OTH_OBS,**Total CAPEX OPEX (après RAC avant CAPI) OBSOLETE,,
+10,fintm1valcap,FINTM1ValCap,TM1 Val Capit (Y),73529,false,FINTM1ValCap,OTH_Other,TM1 Val Capit (Y),DataChannel=FCT-TM1,OPXh 2 TM1
+49,opxyfraisstructure,OpxYFraisStructure,**Frais de Structure (Saisie),73529,false,OpxYFraisStructure,OTH_OBS,**Frais de Structure (Saisie),Sort=Ox Panel=,XX Demo
+76,opxkrac,OpxKRAC,**RAC (Saisie),73529,false,OpxKRAC,OTH_OBS,**RAC (Saisie),Sort=Ox Panel=,XX Demo
+80,opxkmassesalariale,OpxKMasseSalariale,**Mensualisation Masse Salariale,73529,false,OpxKMasseSalariale,OTH_OBS,**Mensualisation Masse Salariale,Sort=Ox Panel=,
+93,finopmassumptionpct,FINOpMAssumptionPct,Assumption (%),73529,false,FINOpMAssumptionPct,OTH_Other,Assumption (%),{Panel=HistOpModel1},OPXd Tax0.1
+108,opxychiffreaffaire,OpxYChiffreAffaire,**Chiffre Affaire (Saisie),73529,false,OpxYChiffreAffaire,OTH_OBS,**Chiffre Affaire (Saisie),Sort=Ox Panel=,XX Demo
+111,fink_ratespct,FinK_RatesPct,Rates (%),73529,false,FinK_RatesPct,OTH_Other,Rates (%),{Panel=OTxh},OPXd Tax0.1
+236,finopmassumptioneur,FINOpMAssumptionEUR,Assumption (kEUR),73529,false,FINOpMAssumptionEUR,OTH_Other,Assumption (kEUR),{Panel=HistOpModel1},OPXd Tax0.2
+278,finopmassumptionfct,FINOpMAssumptionFct,Assumption (Multiple),73529,false,FINOpMAssumptionFct,OTH_Other,Assumption (Multiple),{Panel=HistOpModel1},OPXd Tax0.3
+128,equ,EQU,Balance Sheet (Abstract),73529,false,EQU,OTH_OBS,Balance Sheet (Abstract),NotUsed,NotUsed
+549,finm_opmodel,FinM_OpModel,OpModel (M),73529,false,FinM_OpModel,OTH_Other,OpModel (M),TbD,OPXm Tax9
+188,0liabilityy,0LiabilityY,Bilan-Passif,73529,false,0LiabilityY,OTH_OBS,Bilan-Passif,,XX ZFirst
+224,0assety,0AssetY,Bilan-Actif,73529,false,0AssetY,OTH_OBS,Bilan-Actif,,XX ZFirst
+909,oth_obs,OTH_OBS,Test & Obsolete (Abstract),73529,false,OTH_OBS,OTH,Test & Obsolete (Abstract),,
+79,0revenuey,0RevenueY,Revenu Annuel,73529,false,0RevenueY,OTH_OBS,Revenu Annuel,,XX ZFirst
+104,0valuey,0ValueY,Montant Annuel,73529,false,0ValueY,OTH_OBS,Montant Annuel,,XX ZFirst
+221,0expensey,0ExpenseY,Frais Exploit Annuel,73529,false,0ExpenseY,OTH_OBS,Frais Exploit Annuel,,XX ZFirst
+55,0cashflowy,0CashFlowY,TFT CashFlow,73529,false,0CashFlowY,OTH_OBS,TFT CashFlow,,XX ZFirst
+19,0flagscenariomois,0FlagScenarioMois,Flag Phase Mois SI,73529,false,0FlagScenarioMois,OTH_OBS,Flag Phase Mois SI,Panel=52,XX System
+942,cfe,CFE,CFE Metrics (Abstract),73529,false,CFE,METRIC___ROOT___,CFE Metrics (Abstract),,
+944,cfef_anneemes,CfeF_AnneeMES,Flag CFE MES passé,73529,false,CfeF_AnneeMES,CFE,Flag CFE MES passé,,
+945,cfey_totalsaisie,CfeY_TotalSaisie,CFE Total Saisie,73529,false,CfeY_TotalSaisie,CFE,CFE Total Saisie,,
+947,cfey_cfe_calc,CfeY_CFE_Calc,CFE avec Capi,73529,false,CfeY_CFE_Calc,CFE,CFE avec Capi,,
+948,cfey_calcwocapi,CfeY_CalcWoCapi,CFE hors Capi,73529,false,CfeY_CalcWoCapi,CFE,CFE hors Capi,,
+949,cfey_capitalisation,CfeY_Capitalisation,CFE Capi (Saisie),73529,false,CfeY_Capitalisation,CFE,CFE Capi (Saisie),,
+950,cfey_anteplan,CfeY_AntePlan,MES Immo Ante PLT (CFE),73529,false,CfeY_AntePlan,CFE,MES Immo Ante PLT (CFE),,
+9,finy_opmodel,FinY_OpModel,OpModel (Y) Stat,73529,false,FinY_OpModel,OTH_Other,OpModel (Y) Stat,Action=OTx1b Panel=OTx1 Dim=,OPXd Tax9
+271,0flagscenarioannee,0FlagScenarioAnnee,Flag OPX Phase Année,73529,false,0FlagScenarioAnnee,OTH_OBS,Flag OPX Phase Année,Panel=51,XX System
+951,cfey_anteplancapi,CfeY_AntePlanCapi,MES Capitalisation Ante PLT (CFE),73529,false,CfeY_AntePlanCapi,CFE,MES Capitalisation Ante PLT (CFE),,
+946,cfey_cfe,CfeY_CFE,CFE Immo (Saisie),73529,false,CfeY_CFE,CFE,CFE Immo (Saisie),,
+119,sysf_entiteorganisation,SysF_EntiteOrganisation,**Flag Entité Organisation,73529,false,SysF_EntiteOrganisation,FIN,**Flag Entité Organisation,Sort=A? Panel= Dim=,ADM Oa53
+171,0flagentiteorganisation,0FlagEntiteOrganisation,Flag Entité Organisation,73529,false,0FlagEntiteOrganisation,OTH_Other,Flag Entité Organisation,Panel=53,XX System
+975,sysk_reseauc1true,SysK_ReseauC1True,Clé Réseau (C1=True),73529,false,SysK_ReseauC1True,FIN,Clé Réseau (C1=True),RAC R112,OPXb RAC11.4b
+976,sysk_reseauc2false,SysK_ReseauC2False,Clé Réseau (C2=False),73529,false,SysK_ReseauC2False,FIN,Clé Réseau (C2=False),RAC R112,OPXb RAC11.5c
+977,sysk_reseauc1false,SysK_ReseauC1False,Clé Réseau (C1=False),73529,false,SysK_ReseauC1False,FIN,Clé Réseau (C1=False),RAC R112,OPXb RAC11.4c
+978,sysk_reseaucx,SysK_ReseauCx,**Clé Réseau (Entite/Actitive/Orga),73529,false,SysK_ReseauCx,FIN,**Clé Réseau (Entite/Actitive/Orga),RAC R11.9,OPXb RAC11.4a
+979,sysk_reseauc3false,SysK_ReseauC3False,Clé Réseau (C3=False),73529,false,SysK_ReseauC3False,FIN,Clé Réseau (C3=False),RAC R112,OPXb RAC11.6c
+980,sysf_reseauc3,SysF_ReseauC3,Flag C3 Réseau-Orga-Activite,73529,false,SysF_ReseauC3,FIN,Flag C3 Réseau-Orga-Activite,RAC R112,OPXb RAC11.6a
+981,sysk_reseauc3true,SysK_ReseauC3True,Clé Réseau (C3=True),73529,false,SysK_ReseauC3True,FIN,Clé Réseau (C3=True),RAC R112,OPXb RAC11.6b
+982,sysf_reseauc1,SysF_ReseauC1,Flag C1 Réseau-Entité,73529,false,SysF_ReseauC1,FIN,Flag C1 Réseau-Entité,RAC R112,OPXb RAC11.4a
+983,sysk_reseauc2true,SysK_ReseauC2True,Clé Réseau (C2=True),73529,false,SysK_ReseauC2True,FIN,Clé Réseau (C2=True),RAC R112,OPXb RAC11.5b
+984,sysf_reseauc2,SysF_ReseauC2,Flag C2 Réseau-Activite,73529,false,SysF_ReseauC2,FIN,Flag C2 Réseau-Activite,RAC R112,OPXb RAC11.5a
+196,0expensey3a,0ExpenseY3a,**Frais de Structure après RAC,73529,false,0ExpenseY3a,OTH,**Frais de Structure après RAC,OpxY_FraisStructureInp,XX Demo
+985,bshm_mvt,BSHM_MVT,BSH Mouvement [M],73529,false,BSHM_MVT,BSHM_CLS,BSH Mouvement [M],Lnk=BSH_MVT,BSHM04
+986,bsh_mvt,BSH_MVT,BSH Mouvement,73529,false,BSH_MVT,BSH_CLS,BSH Mouvement,"Sort=BSHYa4 Panel=Bsh01,Bsh03",BSH03
+86,bsh_mvtinp,BSH_MVTINP,BSH Mouvement Saisi,73529,false,BSH_MVTINP,BSH_MVT,BSH Mouvement Saisi,"Sort=BSHYa2 Panel=Bsh01,Bsh03",BSH03
+716,bshm_mvtcal,BSHM_MVTCAL,BSH Mouvement Calculé [M],73529,false,BSHM_MVTCAL,BSHM_MVT,BSH Mouvement Calculé [M],Lnk=BSH_MVTCAL,BSHM04
+721,bshm_mvtinp,BSHM_MVTINP,BSH Mouvement Saisi [M],73529,false,BSHM_MVTINP,BSHM_MVT,BSH Mouvement Saisi [M],Lnk=BSH_MVTINP,BSHM03
+987,finy_totexexternehorssubv,FinY_TotexExterneHorsSubv,CAPEX OPEX Externes (après RAC hors subv),73529,false,FinY_TotexExterneHorsSubv,REP_Y,CAPEX OPEX Externes (après RAC hors subv),,
+988,finm_totexexternehorssubv,FinM_TotexExterneHorsSubv,CAPEX OPEX Externes (après RAC hors subv) [M],73529,false,FinM_TotexExterneHorsSubv,REP_M,CAPEX OPEX Externes (après RAC hors subv) [M],,
+718,bshm_cls,BSHM_CLS,BSH Closing [M],73529,false,BSHM_CLS,BSH,BSH Closing [M],Lnk=BSH_CLS,BSHM05
+1008,capy_immosubvinptotdtdp,CapY_ImmoSubvInpTotDTDP,{Montant Immo+Subv DTDP Saisie ToutesPhases},73529,false,CapY_ImmoSubvInpTotDTDP,CAP,{Montant Immo+Subv DTDP Saisie ToutesPhases},Panel=?? Mode=DY,CAP 01REC 0?2
+1009,capy_immosubvinptot,CapY_ImmoSubvInpTot,{Montant Immo+Subv Saisie ToutesPhases},73529,false,CapY_ImmoSubvInpTot,CAP,{Montant Immo+Subv Saisie ToutesPhases},Panel=?? Mode=DY,CAP 01REC 0?1
+60,capy_immocalc,CapY_ImmoCalc,Montant Immo Calc,73529,false,CapY_ImmoCalc,CAP,Montant Immo Calc,Mode=SD Action=CAP00a,CAP 01REC 004
+943,cfey_mesanteplan,CfeY_MESAntePlan,Mises en service Ante PLT,73529,false,CfeY_MESAntePlan,CFE,Mises en service Ante PLT,,
+260,opxy_massesalariale,OpxY_MasseSalariale,Masse Salariale après RAC,73529,false,OpxY_MasseSalariale,FIN,Masse Salariale après RAC,Action=O12RAC1 Panel=OA12 Dim=D,OPXb RAC12.4
+1041,capy_totalimmo_subv_iec,CapY_TotalImmo_Subv_IEC,Total Immo (après RAC et Capi+Subv+IEC),73529,false,CapY_TotalImmo_Subv_IEC,CAP,Total Immo (après RAC et Capi+Subv+IEC),Mode-DY,CAP 01REC 022b
+652,finm_massesalarialecapi,FinM_MasseSalarialeCapi,Capitalisation MS (Capex) {M},73529,false,FinM_MasseSalarialeCapi,REP_M,Capitalisation MS (Capex) {M},Sort=FMCxC Mode=CS Action= O3WSCapi4 Panel=OAXm Lnk=FinY_MasseSalarialeCapi,OPXm O3.5
+653,finm_immocns,FinM_ImmoCnS,Montant Immo (après RAC CapeX) {M},73529,false,FinM_ImmoCnS,REP_M,Montant Immo (après RAC CapeX) {M},Sort=FMCxA Mode=CS Action=OAXm7 Panel=OAXm Lnk=FinY_Immo,CPXm C04.1
+579,finm_totalimmo,FinM_TotalImmo,Total Capex (après RAC et CAPI) [M],73529,false,FinM_TotalImmo,REP_M,Total Capex (après RAC et CAPI) [M],Sort=FMCxD Lnk=FinY_TotalImmo,CPXm C04.X
+651,finm_subventioncns,FinM_SubventionCnS,Montant Subvention (après RAC CapeX) {M},73529,false,FinM_SubventionCnS,REP_M,Montant Subvention (après RAC CapeX) {M},Sort=FMCxB Mode=CS Action=OAXm7 Panel=OAXm Lnk=FinY_Subvention,CPXm C04.2
+1075,capy_subventioncoupa,CapY_SubventionCoupa,Montant Subvention (export Coupa),73529,false,CapY_SubventionCoupa,CAP,Montant Subvention (export Coupa),Sort=FVCxD Mode=CS Action=CAP03b2 Action=OA01FXa (EUR Infl) Action=AD03c (EUR Infl),CAP 01REC 099 [CapY_SubventionCalc]*[CapT_CategImmoReseau]
+1076,capy_immocoupa,CapY_ImmoCoupa,Montant Immo (export Coupa),73529,false,CapY_ImmoCoupa,CAP,Montant Immo (export Coupa),Sort=FVCxD Mode=SD Action=CAP03b2 Action=OA01FXa (EUR Infl) Action=AD03c (EUR Infl),CAP 01REC 098 [CapY_ImmoCalc]*[CapT_CategImmoReseau]
+1074,opxy_fraisstructurecoupa,OpxY_FraisStructureCoupa,Frais de Structure (export Coupa),73529,false,OpxY_FraisStructureCoupa,FIN,Frais de Structure (export Coupa),Sort=O42x Panel=O4c2 Action=OA12RAC1* Dim=A DataChannel=OUT-OPX-Coupa,OPXa O42 O52***
+1107,sysk_yearsplanneddtdp,SysK_YearsPlannedDTDP,Years Planned DTDP,73529,false,SysK_YearsPlannedDTDP,OTH_Other,Years Planned DTDP,Sort=A? Panel=57 Dim=,ADM Oa51-3
+1108,sysk_yearsplanned,SysK_YearsPlanned,Years Planned,73529,false,SysK_YearsPlanned,OTH_Other,Years Planned,Sort=A? Panel=57 Dim=,ADM Oa51-2
+28,sysk_daysperyear,SysK_DaysPerYear,Days per year,73529,false,SysK_DaysPerYear,OTH_Other,Days per year,Sort=A? Panel=57 Dim=,ADM Oa51-1
+1140,kpi_people,KPI_People,People,73529,false,KPI_People,KPI,People,,
+1141,sysf_people_mois,SysF_People_Mois,Flag People Mois,73529,false,SysF_People_Mois,KPI,Flag People Mois,,
+1142,kpi_people_ems,KPI_People_EMS,EMS moyen,73529,false,KPI_People_EMS,KPI,EMS moyen,,
+1143,kpi_people_ems_cost,KPI_People_EMS_Cost,Coût moyen EMS,73529,false,KPI_People_EMS_Cost,KPI,Coût moyen EMS,,
+1144,finy_capexopex,FinY_CapexOpex,Total CAPEX OPEX (après RAC et CAPI),73529,false,FinY_CapexOpex,REP_Y,Total CAPEX OPEX (après RAC et CAPI),,
+779,finm_opexrac,FinM_OpexRAC,Total Opex (après RAC avant CAPI) [M],73529,false,FinM_OpexRAC,REP_M,Total Opex (après RAC avant CAPI) [M],,
+1173,capt_newactivity,CapT_NewActivity,CapT Allocation Activités,73529,false,CapT_NewActivity,CAP,CapT Allocation Activités,,
+1206,ray_crcpautocalcsd,RaY_CRCPAutoCalcSD,{CRCP Résultats Automatisés Calc SoDA},73529,false,RaY_CRCPAutoCalcSD,RA_CRCP,{CRCP Résultats Automatisés Calc SoDA},,
+1207,raf_crcpflagnature,RaF_CRCPFlagNature,CRCP Flag Nature Réseau Datasource,73529,false,RaF_CRCPFlagNature,RA_CRCP,CRCP Flag Nature Réseau Datasource,,
+1208,ray_crcpautocalcnat,RaY_CRCPAutoCalcNat,{CRCP Résultats Automatisés Calc Nature},73529,false,RaY_CRCPAutoCalcNat,RA_CRCP,{CRCP Résultats Automatisés Calc Nature},,
+333,ray_crcpautocalc,RaY_CRCPAutoCalc,{CRCP Résultats Automatisés Calc},73529,false,RaY_CRCPAutoCalc,RA_CRCP,{CRCP Résultats Automatisés Calc},,RA 03CRCP 007
+143,ray_crcpauto,RaY_CRCPAuto,CRCP Résultats Automatisés,73529,false,RaY_CRCPAuto,RA_CRCP,CRCP Résultats Automatisés,RA_CRCP_02_Base,RA 03CRCP 006 Panel=CRCP TR/ST Base
+234,sysf_scenarioannee,SysF_ScenarioAnnee,Flag CPX Scenario Année,73529,false,SysF_ScenarioAnnee,FIN,Flag CPX Scenario Année,Sort=A? Panel= Dim=,ADM Oa51
+1305,opxy_fraisexploitationinpsi,OpxY_FraisExploitationInpSI,Frais d'Exploitation SI (Saisie),73529,false,OpxY_FraisExploitationInpSI,FIN,Frais d'Exploitation SI (Saisie),Sort=O41 Panel=O4C1 Panel=O4Ch Dim=A,OPXa O41 O51
+1306,opxy_opexexternessi,OpxY_OpexExternesSI,"Frais SI (Exploit, Structure) avant RAC",73529,false,OpxY_OpexExternesSI,OpxY_OpexExternes,"Frais SI (Exploit, Structure) avant RAC",Sort=Ox4 Panel=O4 Dim=A,OPXa O4v
+1307,opxy_opexexternesnonsi,OpxY_OpexExternesNonSI,"Frais Non SI (Exploit, Structure) avant RAC",73529,false,OpxY_OpexExternesNonSI,OpxY_OpexExternes,"Frais Non SI (Exploit, Structure) avant RAC",Sort=Ox5 Panel=O5 Panel=O6 Dim=A,OPXa O5v O6v
+1308,opxy_fraisstructureinpsi,OpxY_FraisStructureInpSI,Frais de Structure SI (Saisie),73529,false,OpxY_FraisStructureInpSI,FIN,Frais de Structure SI (Saisie),Sort=O42 Panel=O4C2 Panel=O4Ch Dim=A,OPXa O42 O52
+484,opxy_fraisstructureinpna,OpxY_FraisStructureInpNA,Frais de Structure Non SI (Saisie),73529,false,OpxY_FraisStructureInpNA,FIN,Frais de Structure Non SI (Saisie),Sort=O52 Panel=O5C2 Panel=O6C2 Panel=O5Ch Panel=O6Ch Dim=A,OPXa O52 O62
+222,opxy_fraisexploitationinp,OpxY_FraisExploitationInp,Frais d'Exploitation Non SI (Saisie),73529,false,OpxY_FraisExploitationInp,FIN,Frais d'Exploitation Non SI (Saisie),Sort=O51 Panel=O5C1 Panel=O6C1 Panel=O5Ch Panel=O6Ch Dim=A,OPXa O51 O61
+72,opxy_fraisstructureinp,OpxY_FraisStructureInp,Frais de Structure SI et Non SI (Saisie),73529,false,OpxY_FraisStructureInp,FIN,Frais de Structure SI et Non SI (Saisie),Sort=O42 Panel=OA10 Panel=OA12 Dim=C,OPXa O42 O52***

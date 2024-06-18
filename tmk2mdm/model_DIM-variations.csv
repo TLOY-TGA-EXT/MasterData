@@ -1,0 +1,5 @@
+member_id,customer_key,unaltered_customer_key,display_name,level_id,is_deleted,a_variationsdescription,a_variationskey,a_variationsparentkey,a_variationssorting
+1,variations_v0,Variations_V0,View,64936,false,View,Variations_V0,Variations_Root,
+2,variations_root,Variations_Root,Variations (Root),64936,false,Variations (Root),Variations_Root,Variations_Root,
+3,ytd,YTD,Cumulé à date,64936,false,Cumulé à date,YTD,Variations_V0,
+4,periodic,Periodic,Mensuel,64936,false,Mensuel,Periodic,Variations_V0,

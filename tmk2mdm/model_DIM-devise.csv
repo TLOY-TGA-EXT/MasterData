@@ -1,0 +1,6 @@
+member_id,customer_key,unaltered_customer_key,display_name,level_id,is_deleted,a_currencytype,a_devisedescription,a_devisekey,a_deviseparentkey,a_devisesorting
+1,eur,eur,EUR,64860,false,RC,EUR,eur,Devise_All,
+2,eur_inflated,eur_inflated,EUR Inflated,64860,false,RC,EUR Inflated,eur_inflated,Devise_All,
+3,lc,lc,EUR Cst,64860,false,LC,EUR Cst,lc,Devise_All,
+4,devise_all,Devise_All,Devise,64860,false,,Devise,Devise_All,Devise_Root,
+5,devise_root,Devise_Root,Devise (Root),64860,false,,Devise (Root),Devise_Root,Devise_Root,

@@ -1,0 +1,149 @@
+member_id,customer_key,unaltered_customer_key,display_name,level_id,is_deleted,a_datasourcedescription,a_datasourcedescriptionshort,a_datasourcekey,a_datasourceparentkey,a_datasourcesorting
+1,tm1_otpb,TM1_OTPB,TM1_OTP Brut,64905,false,TM1_OTP Brut,,TM1_OTPB,TM1_OTP,TM1_OTPB
+40,ifrsl,IFRSL,IFRSL - SaaS Software,64905,false,IFRSL - SaaS Software,,IFRSL,IFRS,IFRSL
+7,tm1_amt,TM1_AMT,TM1_AMT,64905,false,TM1_AMT,,TM1_AMT,CSV_TM1,TM1_U0
+9,tm1_synt,TM1_SYNT,TM1_Synthese,64905,false,TM1_Synthese,,TM1_SYNT,CSV_TM1,TM1_X0
+11,dep_cre,DEP_CRE,Dép CRE,64905,false,Dép CRE,,DEP_CRE,DEP,DEP010
+19,tm1_otpr,TM1_OTPR,TM1_OTP Revers.,64905,false,TM1_OTP Revers.,,TM1_OTPR,TM1_OTP,TM1_OTPR
+20,dep_tot_soc,DEP_TOT_SOC,Total Dép Social,64905,false,Total Dép Social,,DEP_TOT_SOC,DEP,DEP001
+22,dep_tot_fis,DEP_TOT_FIS,Total Dép Fiscal,64905,false,Total Dép Fiscal,,DEP_TOT_FIS,DEP,DEP004
+26,ifrsc,IFRSC,IFRSC - Accelerated depreciation,64905,false,IFRSC - Accelerated depreciation,,IFRSC,IFRS,IFRSC
+27,ifrsb,IFRSB,IFRSB - Depreciation,64905,false,IFRSB - Depreciation,,IFRSB,IFRS,IFRSB
+31,ifrse,IFRSE,IFRSE - Bond JV - IAS 39,64905,false,IFRSE - Bond JV - IAS 39,,IFRSE,IFRS,IFRSE
+32,ifrsd,IFRSD,IFRSD - Goodwill,64905,false,IFRSD - Goodwill,,IFRSD,IFRS,IFRSD
+34,ifrsa,IFRSA,IFRSA - Exceptional result,64905,false,IFRSA - Exceptional result,,IFRSA,IFRS,IFRSA
+36,ifrsk,IFRSK,IFRSK - Dividend received,64905,false,IFRSK - Dividend received,,IFRSK,IFRS,IFRSK
+37,ifrsj,IFRSJ,IFRSJ - Participation,64905,false,IFRSJ - Participation,,IFRSJ,IFRS,IFRSJ
+38,sap_soc,SAP_SOC,SAP Social,64905,false,SAP Social,,SAP_SOC,DEP_TOT_SOC,DEP003
+39,tm1_ic,TM1_IC,TM1_IntraCo,64905,false,TM1_IntraCo,,TM1_IC,CSV_TM1,TM1_XX
+41,ifrsg,IFRSG,IFRSG - ORA - IAS 32,64905,false,IFRSG - ORA - IAS 32,,IFRSG,IFRS,IFRSG
+42,ifrsf,IFRSF,IFRSF - Financing fee,64905,false,IFRSF - Financing fee,,IFRSF,IFRS,IFRSF
+43,ifrsi,IFRSI,IFRSI - Retirement provision,64905,false,IFRSI - Retirement provision,,IFRSI,IFRS,IFRSI
+44,ifrsh,IFRSH,IFRSH - Investment subsidies,64905,false,IFRSH - Investment subsidies,,IFRSH,IFRS,IFRSH
+45,sap_fis,SAP_FIS,SAP Fiscal,64905,false,SAP Fiscal,,SAP_FIS,DEP_TOT_FIS,DEP006
+48,dep_fis,DEP_FIS,Dép Fiscal,64905,false,Dép Fiscal,,DEP_FIS,DEP_TOT_FIS,DEP005
+49,dep_tot_ifr,DEP_TOT_IFR,Total Dép IFRS,64905,false,Total Dép IFRS,,DEP_TOT_IFR,DEP,DEP007
+59,dep_soc,DEP_SOC,Dép Social,64905,false,Dép Social,,DEP_SOC,DEP_TOT_SOC,DEP002
+18,opm_entity,OPM_Entity,OPM Entite,64905,false,OPM Entite,,OPM_Entity,TM1_OTP,xOPM_Entity
+66,sap_ifr,SAP_IFR,SAP IFRS,64905,false,SAP IFRS,,SAP_IFR,DEP_TOT_IFR,DEP009
+67,dep_ifr,DEP_IFR,Dép IFRS,64905,false,Dép IFRS,,DEP_IFR,DEP_TOT_IFR,DEP008
+2,crcp,CRCP,CRCP,64905,false,CRCP,,CRCP,DSX,DSX1
+60,ds01,DS01,Total (excl ICElim),64905,false,Total (excl ICElim),,DS01,DS11,DS01
+55,ice,ICE,InterCo Elim,64905,false,InterCo Elim,,ICE,DSF,DS21
+23,ifrs,IFRS,IFRS,64905,false,IFRS,,IFRS,DSF,DS3
+61,tmk,TMK,Ajustements Manuels,64905,false,Ajustements Manuels,,TMK,DS01,DS09
+29,tm1_mp,TM1_MP,TM1_MP,64905,false,TM1_MP,,TM1_MP,CSV_TM1,
+57,tm1_otp,TM1_OTP,TM1_OTP,64905,false,TM1_OTP,,TM1_OTP,CSV_TM1,
+63,tm1_mc,TM1_MC,TM1_MC,64905,false,TM1_MC,,TM1_MC,CSV_TM1,
+204,sapz004,SAPZ004,SAP Bilan Immos Z004,64905,false,SAP Bilan Immos Z004,,SAPZ004,CSV_SAP,SAP_01
+74,crcp_ajustementtr,CRCP_AjustementTR,AJUSTEMENTS TR,64905,false,AJUSTEMENTS TR,,CRCP_AjustementTR,CRCP_TR,CRCPTR28
+205,sapz005,SAPZ005,SAP Bilan Autres Z005,64905,false,SAP Bilan Autres Z005,,SAPZ005,CSV_SAP,SAP_02
+172,sap_01,SAP_01,SAP Bilan Immos,64905,false,SAP Bilan Immos,,SAP_01,CSV_OPM,SAP_01
+173,sap_02,SAP_02,SAP Bilan Autres,64905,false,SAP Bilan Autres,,SAP_02,CSV_OPM,SAP_02
+174,sap_03,SAP_03,SAP PnL OI,64905,false,SAP PnL OI,,SAP_03,CSV_OPM,SAP_03
+175,sap_04,SAP_04,SAP PnL M Salariale,64905,false,SAP PnL M Salariale,,SAP_04,CSV_OPM,SAP_04
+176,sap_05,SAP_05,SAP PnL CCtr,64905,false,SAP PnL CCtr,,SAP_05,CSV_OPM,SAP_05
+177,sap_06,SAP_06,SAP PnL OTP,64905,false,SAP PnL OTP,,SAP_06,CSV_OPM,SAP_06
+178,sap_07,SAP_07,SAP Capi CCtr,64905,false,SAP Capi CCtr,,SAP_07,CSV_OPM,SAP_07
+179,sap_08,SAP_08,SAP Capi OTP,64905,false,SAP Capi OTP,,SAP_08,CSV_OPM,SAP_08
+209,sapz003,SAPZ003,SAP PnL OTP Z003,64905,false,SAP PnL OTP Z003,,SAPZ003,CSV_SAP,SAP_06
+210,sapz010,SAPZ010,SAP Capi CCtr Z010,64905,false,SAP Capi CCtr Z010,,SAPZ010,CSV_SAP,SAP_07
+211,sapz011,SAPZ011,SAP Capi OTP Z011,64905,false,SAP Capi OTP Z011,,SAPZ011,CSV_SAP,SAP_08
+213,sapz006,SAPZ006,SAP TFT Z006,64905,false,SAP TFT Z006,,SAPZ006,CSV_SAP,SAP_10
+214,sapz007,SAPZ007,SAP Engage OI Z007,64905,false,SAP Engage OI Z007,,SAPZ007,CSV_SAP,SAP_11
+215,sapz008,SAPZ008,SAP Engage OTP Z008,64905,false,SAP Engage OTP Z008,,SAPZ008,CSV_SAP,SAP_12
+185,sap_14,SAP_14,SAP Period14,64905,false,SAP Period14,,SAP_14,CSV_OPM,SAP_14
+186,sap_15,SAP_15,SAP Period15,64905,false,SAP Period15,,SAP_15,CSV_OPM,SAP_15
+187,sap_16,SAP_16,SAP Period16,64905,false,SAP Period16,,SAP_16,CSV_OPM,SAP_16
+237,sapbshp13,SAPBSHP13,SAP BSH P13,64905,false,SAP BSH P13,,SAPBSHP13,CSV_SAP,SAP_P130
+238,sappnlp13,SAPPNLP13,SAP PNL P13,64905,false,SAP PNL P13,,SAPPNLP13,CSV_SAP,SAP_P131
+270,ifrsm,IFRSM,IFRSM - Share Of Income,64905,false,IFRSM - Share Of Income,,IFRSM,IFRS,IFRSM
+303,ifrsn,IFRSN,IFRSN - Acquisition Costs,64905,false,IFRSN - Acquisition Costs,,IFRSN,IFRS,IFRSN
+3,crcp_tr,CRCP_TR,TOTAL TR,64905,false,TOTAL TR,,CRCP_TR,CRCP,DSX11
+6,apu_0n,APU_0N,Apurement N ans,64905,false,Apurement N ans,,APU_0N,CRCP_APU,CRCPAPU00
+12,apu_01,APU_01,Apurement 1 an,64905,false,Apurement 1 an,,APU_01,CRCP_APU,CRCPAPU01
+13,apu_02,APU_02,Apurement 2 ans,64905,false,Apurement 2 ans,,APU_02,CRCP_APU,CRCPAPU02
+14,apu_03,APU_03,Apurement 3 ans,64905,false,Apurement 3 ans,,APU_03,CRCP_APU,CRCPAPU03
+15,apu_04,APU_04,Apurement 4 ans,64905,false,Apurement 4 ans,,APU_04,CRCP_APU,CRCPAPU04
+24,tax_models,TAX_Models,Tax Models,64905,false,Tax Models,,TAX_Models,DSX,DSXW
+25,tax1g,TAX1G,Tax@Group Lvl,64905,false,Tax@Group Lvl,,TAX1G,TAX_Models,TAX1
+30,tax1e,TAX1E,Tax@Entity Lvl,64905,false,Tax@Entity Lvl,,TAX1E,TAX_Models,TAX2
+52,crcp_st,CRCP_ST,TOTAL ST,64905,false,TOTAL ST,,CRCP_ST,CRCP,DSX12
+56,inp_cap,INP_CAP,CapEx,64905,false,CapEx,,INP_CAP,DSX,DSX2
+58,dep,DEP,Dépréciation,64905,false,Dépréciation,,DEP,DSX,DSX3
+62,crcp_apu,CRCP_APU,Apurement,64905,false,Apurement,,CRCP_APU,CRCP,DSX19
+8,tech,Tech,Tech,64905,false,Tech,,Tech,Datasource_ToBeDefined,0
+10,dsf,DSF,Total Postings,64905,false,Total Postings,,DSF,Datasource_Total,DSF
+16,dsx,DSX,Other DataSources,64905,false,Other DataSources,,DSX,Datasource_Total,DSX
+64,opm_conso,OPM_Conso,OPM Conso,64905,false,OPM Conso,,OPM_Conso,CSV_OPM,OPMP
+53,csv,CSV,(Default) Social,64905,false,(Default) Social,,CSV,DS01,DS00
+65,datasource_root,Datasource_Root,DataSource (Root),64905,false,DataSource (Root),,Datasource_Root,Datasource_Root,0
+105,datasource_total,Datasource_Total,DataSource Total,64905,false,DataSource Total,,Datasource_Total,Datasource_Root,00
+106,datasource_tobedefined,Datasource_ToBeDefined,Hors Saisie -  A Definir,64905,false,Hors Saisie -  A Definir,,Datasource_ToBeDefined,Datasource_Root,99
+21,csv_tm1,CSV_TM1,Ext Files TM1,64905,false,Ext Files TM1,,CSV_TM1,DSX,DSXY
+171,csv_sap,CSV_SAP,Upload SAP2TMK,64905,false,Upload SAP2TMK,,CSV_SAP,DSX,DSX4
+180,sap_09,SAP_09,TMK SAP Rev TR ST OI,64905,false,TMK SAP Rev TR ST OI,,SAP_09,SAP_11,SAP_11c
+181,sap_10,SAP_10,SAP PnL avant Reversement,64905,false,SAP PnL avant Reversement,,SAP_10,SAP_11,SAP_11b
+182,sap_11,SAP_11,SAP PnL après Reversement,64905,false,SAP PnL après Reversement,,SAP_11,CSV_SAP,SAP_11
+206,sapz001,SAPZ001,SAP PnL OI Z001,64905,false,SAP PnL OI Z001,,SAPZ001,SAP_10,SAP_03
+207,sapz002_1,SAPZ002_1,SAP PnL M Salariale Z002_1,64905,false,SAP PnL M Salariale Z002_1,,SAPZ002_1,SAP_11,SAP_11a
+208,sapz002_2,SAPZ002_2,SAP PnL CCtr Z002_2,64905,false,SAP PnL CCtr Z002_2,,SAPZ002_2,SAP_10,SAP_05
+212,sapz009,SAPZ009,SAP Reversement Z009,64905,false,SAP Reversement Z009,,SAPZ009,CSV_OPM,SAP_09
+183,sap_12,SAP_12,TMK SAP Ajust DS Z002_2,64905,false,TMK SAP Ajust DS Z002_2,,SAP_12,SAP_10,SAP_12
+184,sap_13,SAP_13,TMK SAP Rev TR ST CC,64905,false,TMK SAP Rev TR ST CC,,SAP_13,SAP_11,SAP_11d
+71,csv_opm,CSV_OPM,Ext Files OpModel,64905,false,Ext Files OpModel,,CSV_OPM,DSX,DSX5
+336,ds11,DS11,Total (incl IntraCo),64905,false,Total (incl IntraCo),,DS11,DSF,DS1
+337,ica,ICA,IntraCo Elim,64905,false,IntraCo Elim,,ICA,DS11,DS11
+369,ifrsy,IFRSY,IFRSY - IFRS Adjust,64905,false,IFRSY - IFRS Adjust,,IFRSY,IFRS,IFRSY
+138,ifrsx,IFRSX,IFRSX - IFRIC,64905,false,IFRSX - IFRIC,,IFRSX,IFRS,IFRSX
+402,ifrso,IFRSO,IFRSO - Minority Interests,64905,false,IFRSO - Minority Interests,,IFRSO,IFRS,IFRSO
+435,crcp_bonuspenalitesregulincitative,CRCP_BonusPenalitesRegulIncitative,Bonus et pénalités regulation incitative,64905,false,Bonus et pénalités regulation incitative,,CRCP_BonusPenalitesRegulIncitative,CRCP_ST,CRCPST08
+436,crcp_cessionsactifs,CRCP_CessionsActifs,Cessions d'actifs (Plus values),64905,false,Cessions d'actifs (Plus values),,CRCP_CessionsActifs,CRCP_TR,CRCPTR18
+437,crcp_chargesconsommables,CRCP_ChargesConsommables,Charges de consommables,64905,false,Charges de consommables,,CRCP_ChargesConsommables,CRCP_ST,CRCPST11
+438,crcp_chargesenergie,CRCP_ChargesEnergie,Charges énergie,64905,false,Charges énergie,,CRCP_ChargesEnergie,CRCP_ST,CRCPST10|Auto
+439,crcp_chargesrd,CRCP_ChargesRD,Charges de R&D non utilisée en fin de période,64905,false,Charges de R&D non utilisée en fin de période,,CRCP_ChargesRD,CRCP_ST,CRCPST18|Auto
+440,crcp_chargestraitementeffluents,CRCP_ChargesTraitementEffluents,Charges de traitement des effluents,64905,false,Charges de traitement des effluents,,CRCP_ChargesTraitementEffluents,CRCP_ST,CRCPST12
+441,crcp_consommables,CRCP_Consommables,Consommables (THT) - en cours d'exercice,64905,false,Consommables (THT) - en cours d'exercice,,CRCP_Consommables,CRCP_TR,CRCPTR10|Auto
+442,crcp_contratsautresoperateursregules,CRCP_ContratsAutresOperateursRegules,Charges et produits associés aux contrats avec les autres opérateurs régulés,64905,false,Charges et produits associés aux contrats avec les autres opérateurs régulés,,CRCP_ContratsAutresOperateursRegules,CRCP_ST,CRCPST04|Auto
+443,crcp_contratsprestations,CRCP_ContratsPrestations,Contrats de prestations (TR-ST),64905,false,Contrats de prestations (TR-ST),,CRCP_ContratsPrestations,CRCP_TR,CRCPTR04
+444,crcp_coutsechoues,CRCP_CoutsEchoues,COÛTS ECHOUÉS,64905,false,COÛTS ECHOUÉS,,CRCP_CoutsEchoues,CRCP_TR,CRCPTR17
+445,crcp_ecartinflationccnhresst,CRCP_EcartInflationCCNHResST,ECART INFLATION CCN HORS RESEAU,64905,false,ECART INFLATION CCN HORS RESEAU,,CRCP_EcartInflationCCNHResST,CRCP_ST,CRCPST21
+446,crcp_fraisetudes,CRCP_FraisEtudes,Frais d’études sans suite et les coûts échoués dont la CRE approuverait la couverture,64905,false,Frais d’études sans suite et les coûts échoués dont la CRE approuverait la couverture,,CRCP_FraisEtudes,CRCP_ST,CRCPST13
+447,crcp_inflationopex100st,CRCP_InflationOpex100ST,INFLATION OPEX A 100%,64905,false,INFLATION OPEX A 100%,,CRCP_InflationOpex100ST,CRCP_ST,CRCPST20
+448,crcp_majtarif100,CRCP_MajTarif100,MAJ TARIFAIRE POSTE REVENU COUVERT A 100%,64905,false,MAJ TARIFAIRE POSTE REVENU COUVERT A 100%,,CRCP_MajTarif100,CRCP_TR,CRCPTR21
+449,crcp_majtarif80,CRCP_MajTarif80,MAJ TARIFAIRE POSTE REVENU COUVERT A 80%,64905,false,MAJ TARIFAIRE POSTE REVENU COUVERT A 80%,,CRCP_MajTarif80,CRCP_TR,CRCPTR22
+450,crcp_majtarifconsommables,CRCP_MajTarifConsommables,MAJ TARIFAIRE CHARGES DE CONSOMMABLES,64905,false,MAJ TARIFAIRE CHARGES DE CONSOMMABLES,,CRCP_MajTarifConsommables,CRCP_ST,CRCPST15
+451,crcp_majtarifenergiest,CRCP_MajTarifEnergieST,MAJ TARIFAIRE ENERGIE,64905,false,MAJ TARIFAIRE ENERGIE,,CRCP_MajTarifEnergieST,CRCP_ST,CRCPST14
+452,crcp_majtarifenergietr,CRCP_MajTarifEnergieTR,MAJ TARIFAIRE ENERGIE,64905,false,MAJ TARIFAIRE ENERGIE,,CRCP_MajTarifEnergieTR,CRCP_TR,CRCPTR23
+453,crcp_majtariftraitementseffluents,CRCP_MajTarifTraitementsEffluents,MAJ TARIFAIRE TRAITEMENTS DES EFFLUENTS,64905,false,MAJ TARIFAIRE TRAITEMENTS DES EFFLUENTS,,CRCP_MajTarifTraitementsEffluents,CRCP_ST,CRCPST16
+454,crcp_penalitesclients,CRCP_PenalitesClients,Pénalités versées aux clients,64905,false,Pénalités versées aux clients,,CRCP_PenalitesClients,CRCP_ST,CRCPST05
+455,crcp_plusvaluecessionactif,CRCP_PlusValueCessionActif,Plus-Values de cession d'actif,64905,false,Plus-Values de cession d'actif,,CRCP_PlusValueCessionActif,CRCP_ST,CRCPST09
+456,crcp_produitsraccordementbio,CRCP_ProduitsRaccordementBio,Produits de raccordement (biométhane),64905,false,Produits de raccordement (biométhane),,CRCP_ProduitsRaccordementBio,CRCP_TR,CRCPTR14|Auto
+457,crcp_produitsraccordementcccgtac,CRCP_ProduitsRaccordementCCCGTAC,Produits de raccordement CCCG et TAC,64905,false,Produits de raccordement CCCG et TAC,,CRCP_ProduitsRaccordementCCCGTAC,CRCP_TR,CRCPTR16
+458,crcp_produitsraccordementgnv,CRCP_ProduitsRaccordementGNV,Produits de raccordement (GNV),64905,false,Produits de raccordement (GNV),,CRCP_ProduitsRaccordementGNV,CRCP_TR,CRCPTR15|Auto
+459,crcp_provisionsdemantelement,CRCP_ProvisionsDemantelement,Provisions pour démantèlement,64905,false,Provisions pour démantèlement,,CRCP_ProvisionsDemantelement,CRCP_ST,CRCPST06
+460,crcp_recettesprestationstiers,CRCP_RecettesPrestationsTiers,RECETTES PRESTATIONS POUR TIERS,64905,false,RECETTES PRESTATIONS POUR TIERS,,CRCP_RecettesPrestationsTiers,CRCP_TR,CRCPTR12|Auto
+461,crcp_regulincitativecapex,CRCP_RegulIncitativeCapex,Régulation incitative CAPEX,64905,false,Régulation incitative CAPEX,,CRCP_RegulIncitativeCapex,CRCP_TR,CRCPTR25
+462,crcp_regulincitativeri,CRCP_RegulIncitativeRI,Régulation incitative R&I (0% des gains - 100% des pertes en fin de période),64905,false,Régulation incitative R&I (0% des gains - 100% des pertes en fin de période),,CRCP_RegulIncitativeRI,CRCP_TR,CRCPTR26|Auto
+463,crcp_remunerationinterruptibilite,CRCP_RemunerationInterruptibilite,rémunération contrat d’interruptibilité,64905,false,rémunération contrat d’interruptibilité,,CRCP_RemunerationInterruptibilite,CRCP_TR,CRCPTR13
+464,crcp_reversementgrdgrt,CRCP_ReversementGRDGRT,Reversement GRD>GRT (lié au rebours biométhane),64905,false,Reversement GRD>GRT (lié au rebours biométhane),,CRCP_ReversementGRDGRT,CRCP_TR,CRCPTR05
+465,crcp_reversementintergrt,CRCP_ReversementInterGRT,Reversement inter-GRT dû au k national,64905,false,Reversement inter-GRT dû au k national,,CRCP_ReversementInterGRT,CRCP_TR,CRCPTR24
+466,crcp_totex,CRCP_Totex,TOTEX,64905,false,TOTEX,,CRCP_Totex,CRCP_ST,CRCPST17|Auto
+467,crcp_totexsi,CRCP_TotexSI,TOTEX SI (en fin de période),64905,false,TOTEX SI (en fin de période),,CRCP_TotexSI,CRCP_TR,CRCPTR27|Auto
+4,crcp_chargesexp,CRCP_ChargesExp,Charges nettes d'exploitation,64905,false,Charges nettes d'exploitation,,CRCP_ChargesExp,CRCP_ST,CRCPST22
+17,crcp_interope100,CRCP_InterOpe100,ACCORD INTER-OPERATEUR COUVERT A 100%,64905,false,ACCORD INTER-OPERATEUR COUVERT A 100%,,CRCP_InterOpe100,CRCP_TR,CRCPTR03|Auto
+28,crcp_chargescapital,CRCP_ChargesCapital,Charges de capital Reseau,64905,false,Charges de capital Reseau,,CRCP_ChargesCapital,CRCP_ST,CRCPST01
+35,crcp_revenu,CRCP_Revenu,Revenus perçus auprès des utilisateurs des réseaux de transport et reversés par les GRT,64905,false,Revenus perçus auprès des utilisateurs des réseaux de transport et reversés par les GRT,,CRCP_Revenu,CRCP_ST,CRCPST03|Auto
+46,crcp_achatsventes,CRCP_AchatsVentes,Gains ou pertes relatifs aux achats/ventes de gaz de performance ou consécutifs à la mise en oeuvre d'obligations réglementaires de remplissage,64905,false,Gains ou pertes relatifs aux achats/ventes de gaz de performance ou consécutifs à la mise en oeuvre d'obligations réglementaires de remplissage,,CRCP_AchatsVentes,CRCP_ST,CRCPST07
+50,crcp_commcapacite,CRCP_CommCapacite,Recettes de commercialisation des capacités de stockage y compris les services annexes,64905,false,Recettes de commercialisation des capacités de stockage y compris les services annexes,,CRCP_CommCapacite,CRCP_ST,CRCPST02|Auto
+51,crcp_revenu100,CRCP_Revenu100,TOTAL POSTE REVENU COUVERT PAR CRCP A 100%,64905,false,TOTAL POSTE REVENU COUVERT PAR CRCP A 100%,,CRCP_Revenu100,CRCP_TR,CRCPTR01|Auto
+69,crcp_revenu80,CRCP_Revenu80,TOTAL POSTE REVENU COUVERT PAR CRCP A 80% (50% pour ATRT5),64905,false,TOTAL POSTE REVENU COUVERT PAR CRCP A 80% (50% pour ATRT5),,CRCP_Revenu80,CRCP_TR,CRCPTR02|Auto
+70,crcp_regulincitative,CRCP_RegulIncitative,Régulation incitative commercialisation des capacités de stockage,64905,false,Régulation incitative commercialisation des capacités de stockage,,CRCP_RegulIncitative,CRCP_ST,CRCPST19
+72,crcp_reverinterope100,CRCP_ReverInterOpe100,REVERSEMENT INTER-OPERATEUR COUVERT A 100%,64905,false,REVERSEMENT INTER-OPERATEUR COUVERT A 100%,,CRCP_ReverInterOpe100,CRCP_TR,CRCPTR06|Auto
+73,crcp_coutsleveecongest100,CRCP_CoutsLeveeCongest100,COUTS DE LEVEE DES CONGESTIONS,64905,false,COUTS DE LEVEE DES CONGESTIONS,,CRCP_CoutsLeveeCongest100,CRCP_TR,CRCPTR07|Auto
+75,crcp_ajustementst,CRCP_AjustementST,AJUSTEMENTS ST,64905,false,AJUSTEMENTS ST,,CRCP_AjustementST,CRCP_ST,CRCPST23
+5,crcp_energie80,CRCP_Energie80,TOTAL POSTE ENERGIE COUVERT PAR CRCP A 80%,64905,false,TOTAL POSTE ENERGIE COUVERT PAR CRCP A 80%,,CRCP_Energie80,CRCP_TR,CRCPTR09|Auto
+33,crcp_qualiteserv100,CRCP_QualiteServ100,TOTAL POSTE QUALITE DE SERVICE COUVERT A 100%,64905,false,TOTAL POSTE QUALITE DE SERVICE COUVERT A 100%,,CRCP_QualiteServ100,CRCP_TR,CRCPTR08
+47,crcp_chargescapital100,CRCP_ChargesCapital100,TOTAL CHARGES DE CAPITAL COUVERTES PAR LE CRCP A 100% (RESEAU),64905,false,TOTAL CHARGES DE CAPITAL COUVERTES PAR LE CRCP A 100% (RESEAU),,CRCP_ChargesCapital100,CRCP_TR,CRCPTR11
+54,crcp_ecartinflationccnhres,CRCP_EcartInflationCCNHRes,ECART INFLATION CCN HORS RESEAU,64905,false,ECART INFLATION CCN HORS RESEAU,,CRCP_EcartInflationCCNHRes,CRCP_TR,CRCPTR20
+68,crcp_inflationopex100,CRCP_InflationOpex100,INFLATION OPEX A 100%,64905,false,INFLATION OPEX A 100%,,CRCP_InflationOpex100,CRCP_TR,CRCPTR19

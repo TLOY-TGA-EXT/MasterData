@@ -1,0 +1,14 @@
+member_id,customer_key,unaltered_customer_key,display_name,level_id,is_deleted,a_currency,a_entitecomptabledescription,a_entitecomptablekey,a_entitecomptableparentkey,a_entitecomptablesorting
+5,entitecomptable_root,EntiteComptable_Root,Entite Comptable (Root),64906,false,,Entite Comptable (Root),EntiteComptable_Root,EntiteComptable_Root,0
+8,entitecomptable_total,EntiteComptable_Total,Teréga Groupe,64906,false,,Teréga Groupe,EntiteComptable_Total,EntiteComptable_Root,0
+42,ent1013,ENT1013,Metha Infra Berry,64906,false,eur_inflated,Metha Infra Berry,ENT1013,EntiteComptable_Total,ENT1013
+4,ent1020,ENT1020,Teréga SAS,64906,false,eur_inflated,Teréga SAS,ENT1020,EntiteComptable_Total,ENT1020
+6,ent1010,ENT1010,Teréga SA,64906,false,eur_inflated,Teréga SA,ENT1010,EntiteComptable_Total,ENT1010
+7,ent1030,ENT1030,Teréga Holding,64906,false,eur_inflated,Teréga Holding,ENT1030,EntiteComptable_Total,ENT1030
+1,ent1011,ENT1011,Teréga Solutions SAS,64906,false,eur_inflated,Teréga Solutions SAS,ENT1011,EntiteComptable_Total,ENT1011
+3,ent1012,ENT1012,Locateréga,64906,false,eur_inflated,Locateréga,ENT1012,EntiteComptable_Total,ENT1012
+2,ent1110,ENT1110,Elim Teréga Groupe (OpModel Hist),64906,false,eur_inflated,Elim Teréga Groupe (OpModel Hist),ENT1110,EntiteComptable_Total,ENT9110**
+9,ent1000,ENT1000,Teréga Accélérateur d'Energies,64906,false,eur_inflated,Teréga Accélérateur d'Energies,ENT1000,EntiteComptable_Root,ENT1000
+75,ent2001,ENT2001,SPV_Loca,64906,false,eur_inflated,SPV_Loca,ENT2001,EntiteComptable_Total,ENT2001
+109,ent1015,ENT1015,Teréga Solutions H2 Newco 1,64906,false,eur_inflated,Teréga Solutions H2 Newco 1,ENT1015,EntiteComptable_Total,ENT1015
+108,ent1014,ENT1014,Hy Touraine Distribution,64906,false,eur_inflated,Hy Touraine Distribution,ENT1014,EntiteComptable_Total,ENT1014

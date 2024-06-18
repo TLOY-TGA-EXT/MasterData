@@ -1,0 +1,15 @@
+member_id,customer_key,unaltered_customer_key,display_name,level_id,is_deleted,a_partenairedescription,a_partenairekey,a_partenaireparentkey,a_partenairesorting
+6,partenaire_total,Partenaire_Total,Partenaires (P),65074,false,Partenaires (P),Partenaire_Total,Partenaire_Root,0
+7,partenaire_root,Partenaire_Root,Partenaire (Root),65074,false,Partenaire (Root),Partenaire_Root,Partenaire_Root,0
+3,ent1020,ENT1020,Teréga SAS (P),65074,false,Teréga SAS (P),ENT1020,Partenaire_Terega,ENT1020
+4,ent1010,ENT1010,Teréga SA (P),65074,false,Teréga SA (P),ENT1010,Partenaire_Terega,ENT1010
+5,ent1030,ENT1030,Teréga Holding SAS (P),65074,false,Teréga Holding SAS (P),ENT1030,Partenaire_Terega,ENT1030
+2,ent1011,ENT1011,Teréga Solutions SAS (P),65074,false,Teréga Solutions SAS (P),ENT1011,Partenaire_Terega,ENT1011
+9,ent1012,ENT1012,Locateréga (P),65074,false,Locateréga (P),ENT1012,Partenaire_Terega,ENT1012
+42,ent1013,ENT1013,Metha Infra Berry (P),65074,false,Metha Infra Berry (P),ENT1013,Partenaire_Terega,ENT1013
+8,partenaire_terega,Partenaire_Terega,Terega Partenaires (P),65074,false,Terega Partenaires (P),Partenaire_Terega,Partenaire_Total,1P
+1,pxxxx,PXXXX,Externes (P),65074,false,Externes (P),PXXXX,Partenaire_Total,0P
+75,ent1000,ENT1000,Teréga Accélérateur d'Energies (P),65074,false,Teréga Accélérateur d'Energies (P),ENT1000,Partenaire_Total,ENT1000
+108,ent2001,ENT2001,SPV_Loca (P),65074,false,SPV_Loca (P),ENT2001,Partenaire_Terega,ENT2001
+142,ent1015,ENT1015,Teréga Solutions H2 Newco 1 (P),65074,false,Teréga Solutions H2 Newco 1 (P),ENT1015,Partenaire_Terega,ENT1015
+141,ent1014,ENT1014,Hy Touraine Distribution (P),65074,false,Hy Touraine Distribution (P),ENT1014,Partenaire_Terega,ENT1014

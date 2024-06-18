@@ -1,0 +1,5 @@
+member_id,customer_key,unaltered_customer_key,display_name,level_id,is_deleted,a_marchedescription,a_marchekey,a_marcheparentkey,a_marchesorting
+1,marche_root,Marche_Root,Marche (Root),64865,false,Marche (Root),Marche_Root,Marche_Root,
+2,regulations,Regulations,Marchés,64865,false,Marchés,Regulations,Marche_Root,
+3,nreg,NReg,Non Régulé,64865,false,Non Régulé,NReg,Regulations,2
+4,reg,Reg,Régulé,64865,false,Régulé,Reg,Regulations,1

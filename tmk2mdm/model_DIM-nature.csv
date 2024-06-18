@@ -1,0 +1,1121 @@
+member_id,customer_key,unaltered_customer_key,display_name,level_id,is_deleted,a_naturedescription,a_naturekey,a_natureparentkey,a_naturesorting,a_natureparentkeyms,a_naturemap2planning,a_naturemap2activite
+1092,07ms,07MS,07.Participation et intéressement,65278,false,07.Participation et intéressement,07MS,,07,OP2,,
+1095,05ms,05MS,05.Modèle social entreprise,65278,false,05.Modèle social entreprise,05MS,,05,OP2,,
+1099,03ms,03MS,03.Epargne salariale,65278,false,03.Epargne salariale,03MS,,03,OP2,,
+1101,01ms,01MS,01.Rémunérations du personnel,65278,false,01.Rémunérations du personnel,01MS,,01,OP2,,
+1114,08ms,08MS,"08.Impôts, taxes et versements assimilés sur rémunération",65278,false,"08.Impôts, taxes et versements assimilés sur rémunération",08MS,,08,OP2,,
+1119,06ms,06MS,06.Financement CE,65278,false,06.Financement CE,06MS,,06,OP2,,
+1121,04ms,04MS,04.Protection sociale complémentaire,65278,false,04.Protection sociale complémentaire,04MS,,04,OP2,,
+1125,02ms,02MS,02.Charges sociales obligatoires,65278,false,02.Charges sociales obligatoires,02MS,,02,OP2,,
+1408,455112,455112,455112 CC Loca Terega,65278,false,455112 CC Loca Terega,455112,4,455112,4,,BSH_00014
+1409,455113,455113,455113 CC Metha Infra B,65278,false,455113 CC Metha Infra B,455113,4,455113,4,,BSH_00014
+1375,999ms,999MS,99.Natures non affectées,65278,false,99.Natures non affectées,999MS,,99,OP2,,
+1177,520100,520100,520100 Instrument de trésorerie,65278,false,520100 Instrument de trésorerie,520100,5,520100,5,,BSH_00006
+1124,920ms,920MS,9.2. Personnel détaché,65278,false,9.2. Personnel détaché,920MS,,920MS,09MS,,
+1442,321300,321300,321300 Quotas de gaz à effet de serre,65278,false,321300 Quotas de gaz à effet de serre,321300,3,321300,3,,BSH_00007
+1085,09ms,09MS,09.Personnel extérieur à l'entreprise,65278,false,09.Personnel extérieur à l'entreprise,09MS,,09,OP2,,
+735,106411,106411,106411 Réserves spéciales PVLT 15%,65278,false,106411 Réserves spéciales PVLT 15%,106411,10,106411,10,,BSH_00024
+736,106412,106412,106412 Réserves spéciales PVLT 25%,65278,false,106412 Réserves spéciales PVLT 25%,106412,10,106412,10,,BSH_00024
+737,106413,106413,106413 Réserves spéciales PVLT 19%,65278,false,106413 Réserves spéciales PVLT 19%,106413,10,106413,10,,BSH_00024
+738,106414,106414,106414 Réserves spéciales PVLT 18%,65278,false,106414 Réserves spéciales PVLT 18%,106414,10,106414,10,,BSH_00024
+739,106800,106800,106800 Autres réserves,65278,false,106800 Autres réserves,106800,10,106800,10,,BSH_00024
+740,110000,110000,110000 Report à nouveau-solde créditeur,65278,false,110000 Report à nouveau-solde créditeur,110000,11,110000,11,,BSH_00025
+742,129500,129500,129500 Acpte s/dividendes répartis en instance d’affectation,65278,false,129500 Acpte s/dividendes répartis en instance d’affectation,129500,12,129500,12,,BSH_00027
+750,145000,145000,145000 Amortissements dérogatoires,65278,false,145000 Amortissements dérogatoires,145000,14,145000,14,,BSH_00029
+754,153201,153201,153201 Cessation Activité ex Total SA,65278,false,153201 Cessation Activité ex Total SA,153201,15,153201,15,,BSH_00015
+755,153202,153202,153202 Cessation Activité ex ELF EP,65278,false,153202 Cessation Activité ex ELF EP,153202,15,153202,15,,BSH_00015
+761,158200,158200,158200 Médaille travail TIGF,65278,false,158200 Médaille travail TIGF,158200,15,158200,15,,BSH_00015
+762,158201,158201,158201 Médaille travail ex TOTAL SA,65278,false,158201 Médaille travail ex TOTAL SA,158201,15,158201,15,,BSH_00015
+763,158202,158202,158202 Médaille travail ex Elf EP,65278,false,158202 Médaille travail ex Elf EP,158202,15,158202,15,,BSH_00015
+768,164110,164110,164110 Emprunts/établissements de crédit Moyen-Long terme,65278,false,164110 Emprunts/établissements de crédit Moyen-Long terme,164110,16,164110,16,,BSH_00018
+769,164130,164130,164130 Emprunts/établissements de crédit Courant,65278,false,164130 Emprunts/établissements de crédit Courant,164130,16,164130,16,,BSH_00018
+1103,12ms,12MS,12.Transfert de charges d'exploitation,65278,false,12.Transfert de charges d'exploitation,12MS,,12,OP2,,
+772,168700,168700,168700 Autres dettes assimilées,65278,false,168700 Autres dettes assimilées,168700,16,168700,16,,BSH_00016
+773,168830,168830,168830 Intérêts courus sur emprunts obligataires,65278,false,168830 Intérêts courus sur emprunts obligataires,168830,16,168830,16,,BSH_00016
+1106,10ms,10MS,10.Remplacement CICE,65278,false,10.Remplacement CICE,10MS,,10,OP2,,
+774,168840,168840,168840 Intérêts courus/emprunts auprès des établ-crédit,65278,false,168840 Intérêts courus/emprunts auprès des établ-crédit,168840,16,168840,16,,BSH_00016
+775,171200,171200,171200 Emprunts auprès de la société mère,65278,false,171200 Emprunts auprès de la société mère,171200,17,171200,17,,BSH_00018
+776,171201,171201,171201 Int courus/emprunts auprès sté mère,65278,false,171201 Int courus/emprunts auprès sté mère,171201,17,171201,17,,BSH_00018
+778,203100,203100,203100 Frais de développement,65278,false,203100 Frais de développement,203100,2,203100,2,,BSH_00001
+782,211100,211100,211100 Terrains nus - Prouvé,65278,false,211100 Terrains nus - Prouvé,211100,2,211100,2,,BSH_00002
+783,211200,211200,211200 Terrains aménagés - Prouvé,65278,false,211200 Terrains aménagés - Prouvé,211200,2,211200,2,,BSH_00002
+784,211500,211500,211500 Terrain construit - Prouvé,65278,false,211500 Terrain construit - Prouvé,211500,2,211500,2,,BSH_00002
+785,212000,212000,212000 Agencements Aménagements Terrain-prop prouvée,65278,false,212000 Agencements Aménagements Terrain-prop prouvée,212000,2,212000,2,,BSH_00002
+862,420000,420000,420000 Personnel-A régler,65278,false,420000 Personnel-A régler,420000,4,420000,4,,BSH_00010
+770,165000,165000,165000 Dépôts et Cautionnements reçus,65278,false,165000 Dépôts et Cautionnements reçus,165000,16,165000,16,,BSH_00018
+1084,nature_root_ms,Nature_Root_MS,Nature (Root MS),65278,false,Nature (Root MS),Nature_Root_MS,,Root,Nature_Root_MS,,
+1127,11ms,11MS,11.Rupture de contrat,65278,false,11.Rupture de contrat,11MS,,11,OP2,,
+1102,nature_ms,Nature_MS,Nature MS avec Capi,65278,false,Nature MS avec Capi,Nature_MS,,Root1,Nature_Root_MS,,
+1123,nature_hors_ms,Nature_Hors_MS,Nature Hors MS,65278,false,Nature Hors MS,Nature_Hors_MS,,Root2,Nature_Root_MS,,
+1342,656,656,656 Perte de change commerciale,65278,false,656 Perte de change commerciale,656,65,656,65,,
+1343,756,756,756 Autres produits de gestion courante,65278,false,756 Autres produits de gestion courante,756,75,756,75,,
+416,opx,OPx,Opex Hist,65278,false,Opex Hist,OPx,6,6Y,6,,
+103,641340,641340,641340 Personnel - Prime d'expatriation R64100 Non Oui Non,65278,false,641340 Personnel - Prime d'expatriation R64100 Non Oui Non,641340,641,641340,130MS,6XXXXX,PNL_00131
+1441,603103,603103,603103 Var. Stk Quotas gaz,65278,false,603103 Var. Stk Quotas gaz,603103,603,603103,603,6XXXXX,PNL_00051
+1474,512857,512857,512857 BNP Terega Solutions,65278,false,512857 BNP Terega Solutions,512857,5,512857,5,,BSH_00019
+1475,512858,512858,512858 BNP Loca Terega,65278,false,512858 BNP Loca Terega,512858,5,512858,5,,BSH_00019
+1410,138020,138020,138020 Subventions frais développement,65278,false,138020 Subventions frais développement,138020,13,138020,13,,BSH_00028
+1411,138820,138820,138820 Amort subventions frais develop,65278,false,138820 Amort subventions frais develop,138820,13,138820,13,,BSH_00028
+1412,455110,455110,455110 Compte courant Teréga SA,65278,false,455110 Compte courant Teréga SA,455110,4,455110,4,,BSH_00014
+7,op51,OP51,Provisions pour engagements sociaux,65278,false,Provisions pour engagements sociaux,OP51,OP5,OP51,OP5,,
+10,op52,OP52,Provisions pour risques,65278,false,Provisions pour risques,OP52,OP5,OP52,OP5,,
+12,op32,OP32,Transfert de charges d'exploitation (BUD),65278,false,Transfert de charges d'exploitation (BUD),OP32,OP2,OP32,12MS,,
+1413,455111,455111,455111 Compte courant Teréga Solutions,65278,false,455111 Compte courant Teréga Solutions,455111,4,455111,4,,BSH_00014
+1414,455120,455120,455120 Compte courant Teréga SAS,65278,false,455120 Compte courant Teréga SAS,455120,4,455120,4,,BSH_00014
+1415,455130,455130,455130 Compte courant Teréga Holding,65278,false,455130 Compte courant Teréga Holding,455130,4,455130,4,,BSH_00014
+1416,471000,471000,471000 Ecart fact/stocks,65278,false,471000 Ecart fact/stocks,471000,4,471000,4,,BSH_00007
+786,212810,212810,212810 Constructions Aménagements routes,65278,false,212810 Constructions Aménagements routes,212810,2,212810,2,,BSH_00002
+104,641100,641100,641100 Personnel - émoluments / salaire de base,65278,false,641100 Personnel - émoluments / salaire de base,641100,641,641100,110MS,6XXXXX,PNL_00131
+312,604001,604001,604001 Tx publics R60400,65278,false,604001 Tx publics R60400,604001,604,604001,604,6XXXXX,PNL_00150
+789,213500,213500,213500 Installations aménagements,65278,false,213500 Installations aménagements,213500,2,213500,2,,BSH_00002
+722,12,12,12 - RESULTAT DE L'EXERCICE,65278,false,12 - RESULTAT DE L'EXERCICE,12,1,12,1,,
+723,13,13,13 - SUBVENTIONS D'INVESTISSEMENT,65278,false,13 - SUBVENTIONS D'INVESTISSEMENT,13,1,13,1,,
+724,14,14,14 - PROVISIONS REGLEMENTEES,65278,false,14 - PROVISIONS REGLEMENTEES,14,1,14,1,,
+725,15,15,15 - PROVISIONS,65278,false,15 - PROVISIONS,15,1,15,1,,
+726,16,16,16 - EMPRUNT ET DETTES ASSIMILEES,65278,false,16 - EMPRUNT ET DETTES ASSIMILEES,16,1,16,1,,
+727,17,17,17 - DETTES RATTACHEES A DES PARTICIPATIONS,65278,false,17 - DETTES RATTACHEES A DES PARTICIPATIONS,17,1,17,1,,
+728,18,18,18 - COMPTES DE LIAISON,65278,false,18 - COMPTES DE LIAISON,18,1,18,1,,
+45,706,706,706 Prestations de services,65278,false,706 Prestations de services,706,70,706,70,,
+46,707,707,707 Ventes de marchandises,65278,false,707 Ventes de marchandises,707,70,707,70,,
+48,708,708,708 Produits des activités annexes,65278,false,708 Produits des activités annexes,708,70,708,70,,
+49,709,709,"709 Rabais, remises et ristournes accordés",65278,false,"709 Rabais, remises et ristournes accordés",709,70,709,70,,
+65,713,713,713 Variation des stocks,65278,false,713 Variation des stocks,713,71,713,71,,
+89,722,722,722 Immobilisations corporelles,65278,false,722 Immobilisations corporelles,722,72,722,72,,
+90,602,602,602 Achats stockés-autres approv.,65278,false,602 Achats stockés-autres approv.,602,60,602,60,,
+93,603,603,603 Variation des stocks,65278,false,603 Variation des stocks,603,60,603,60,,
+96,604,604,604 Achats d'études et prestations de services,65278,false,604 Achats d'études et prestations de services,604,60,604,60,,
+97,605,605,"605 Achats de matériel, équipements et tx",65278,false,"605 Achats de matériel, équipements et tx",605,60,605,60,,
+99,606,606,606 Achats non stockés de matières et fournitures,65278,false,606 Achats non stockés de matières et fournitures,606,60,606,60,,
+100,607,607,607 Achats de marchandises,65278,false,607 Achats de marchandises,607,60,607,60,,
+101,608,608,608 Frais accessoires,65278,false,608 Frais accessoires,608,60,608,60,,
+102,609,609,"609 Rabais, remises et ristournes obtenus sur achat",65278,false,"609 Rabais, remises et ristournes obtenus sur achat",609,60,609,60,,
+116,611,611,611 Sous-traitance générale,65278,false,611 Sous-traitance générale,611,61,611,61,,
+118,612,612,612 Redevances de crédit-bail,65278,false,612 Redevances de crédit-bail,612,61,612,61,,
+122,613,613,613 Locations,65278,false,613 Locations,613,61,613,61,,
+124,614,614,614 Charges locatives et de copropriété,65278,false,614 Charges locatives et de copropriété,614,61,614,61,,
+126,615,615,615 Entretien et réparations,65278,false,615 Entretien et réparations,615,61,615,61,,
+128,616,616,616 Primes d'assurance,65278,false,616 Primes d'assurance,616,61,616,61,,
+131,617,617,617 Etudes et recherches,65278,false,617 Etudes et recherches,617,61,617,61,,
+132,618,618,618 Divers,65278,false,618 Divers,618,61,618,61,,
+137,740,740,740 Subventions d'exploitation,65278,false,740 Subventions d'exploitation,740,74,740,74,,
+138,621,621,621 Personnel extérieur à l'entreprise,65278,false,621 Personnel extérieur à l'entreprise,621,62,621,62,,
+139,622,622,622 Rémunérations d'intermédiaires et honoraires,65278,false,622 Rémunérations d'intermédiaires et honoraires,622,62,622,62,,
+140,623,623,"623 Publicité, publication, relations publiques",65278,false,"623 Publicité, publication, relations publiques",623,62,623,62,,
+143,624,624,624 Transp. de biens et transp.collectifs du personn,65278,false,624 Transp. de biens et transp.collectifs du personn,624,62,624,62,,
+144,625,625,"625 Déplacements, missions et réceptions",65278,false,"625 Déplacements, missions et réceptions",625,62,625,62,,
+146,626,626,626 Frais postaux et frais de télécommunicat°,65278,false,626 Frais postaux et frais de télécommunicat°,626,62,626,62,,
+147,627,627,627 Services bancaires et assimilés,65278,false,627 Services bancaires et assimilés,627,62,627,62,,
+148,628,628,628 Divers,65278,false,628 Divers,628,62,628,62,,
+169,750,750,750 Autres produits opérationnels,65278,false,750 Autres produits opérationnels,750,75,750,75,,
+1179,512854,512854,512854 CACIB,65278,false,512854 CACIB,512854,5,512854,5,,BSH_00019
+171,631,631,"631 Impôts, taxes et vers. ass. sur rémunérat°(impô",65278,false,"631 Impôts, taxes et vers. ass. sur rémunérat°(impô",631,63,631,63,,
+172,752,752,752 Revenus des immeubles non aff. aux activités p,65278,false,752 Revenus des immeubles non aff. aux activités p,752,75,752,75,,
+173,633,633,"633 Impôts, taxes et vers. ass. sur rémunérat°(autre",65278,false,"633 Impôts, taxes et vers. ass. sur rémunérat°(autre",633,63,633,63,,
+174,635,635,"635 Autres impôts, taxes et vers. ass. (impôts)",65278,false,"635 Autres impôts, taxes et vers. ass. (impôts)",635,63,635,63,,
+175,637,637,"637 Autres impôts, taxes et vers. ass. (autres)",65278,false,"637 Autres impôts, taxes et vers. ass. (autres)",637,63,637,63,,
+176,758,758,758 Produits divers de gestion courante,65278,false,758 Produits divers de gestion courante,758,75,758,75,,
+450,72,72,72 Production immobilisée,65278,false,72 Production immobilisée,72,7,72,7,,
+187,761,761,761 Produits de participations,65278,false,761 Produits de participations,761,76,761,76,,
+188,641,641,641 Rémunérations du personnel,65278,false,641 Rémunérations du personnel,641,64,641,64,,
+189,762,762,762 Produits des autres immobilisations financières,65278,false,762 Produits des autres immobilisations financières,762,76,762,76,,
+190,763,763,763 Revenus des autres créances,65278,false,763 Revenus des autres créances,763,76,763,76,,
+194,764,764,764 Revenus des VMP,65278,false,764 Revenus des VMP,764,76,764,76,,
+196,645,645,645 Charges de sécurité sociale et de prévoyance,65278,false,645 Charges de sécurité sociale et de prévoyance,645,64,645,64,,
+197,766,766,766 Gains de change,65278,false,766 Gains de change,766,76,766,76,,
+198,647,647,647 Autres charges sociales,65278,false,647 Autres charges sociales,647,64,647,64,,
+199,768,768,768 Autres produits financiers,65278,false,768 Autres produits financiers,768,76,768,76,,
+201,648,648,648 Autres charges de personnel,65278,false,648 Autres charges de personnel,648,64,648,64,,
+204,649,649,649 Cré dit d’Impôt Compé titivité Emploi (CICE),65278,false,649 Cré dit d’Impôt Compé titivité Emploi (CICE),649,64,649,64,,
+210,771,771,771 Produits exceptionnels / opérat° de gestion,65278,false,771 Produits exceptionnels / opérat° de gestion,771,77,771,77,,
+211,651,651,"651 Redevances pour concess°, brevets, licences...",65278,false,"651 Redevances pour concess°, brevets, licences...",651,65,651,65,,
+212,653,653,653 Jetons de présence,65278,false,653 Jetons de présence,653,65,653,65,,
+215,654,654,654 Pertes sur créances irrécouvrables,65278,false,654 Pertes sur créances irrécouvrables,654,65,654,65,,
+217,775,775,775 Produits des cessions d'éléments d'actif,65278,false,775 Produits des cessions d'éléments d'actif,775,77,775,77,,
+223,778,778,778 Autres produits exceptionnels,65278,false,778 Autres produits exceptionnels,778,77,778,77,,
+224,658,658,658 Charges diverses de gestion courante,65278,false,658 Charges diverses de gestion courante,658,65,658,65,,
+232,781,781,781 Rep. sur amort. et prov°-exploitation,65278,false,781 Rep. sur amort. et prov°-exploitation,781,78,781,78,,
+233,661,661,661 Charges d'intérêts,65278,false,661 Charges d'intérêts,661,66,661,66,,
+243,786,786,786 Rep. sur prov°-financières,65278,false,786 Rep. sur prov°-financières,786,78,786,78,,
+246,666,666,666 Pertes de change,65278,false,666 Pertes de change,666,66,666,66,,
+248,787,787,787 Rep. sur prov°-exceptionnelles,65278,false,787 Rep. sur prov°-exceptionnelles,787,78,787,78,,
+250,668,668,668 Autres charges financières,65278,false,668 Autres charges financières,668,66,668,66,,
+263,791,791,791 Transferts de charges d'exploitation,65278,false,791 Transferts de charges d'exploitation,791,79,791,79,,
+265,671,671,671 Charges exceptionnelles sur opérat° de gestion,65278,false,671 Charges exceptionnelles sur opérat° de gestion,671,67,671,67,,
+266,672,672,672 Charges / exercice antérieur,65278,false,672 Charges / exercice antérieur,672,67,672,67,,
+273,675,675,675 Valeurs comptables des éléments d'actifs cédés,65278,false,675 Valeurs comptables des éléments d'actifs cédés,675,67,675,67,,
+274,796,796,796 Transferts de charges financières,65278,false,796 Transferts de charges financières,796,79,796,79,,
+279,678,678,678 Autres charges exceptionnelles,65278,false,678 Autres charges exceptionnelles,678,67,678,67,,
+281,799,799,799 Comptes de produits techniques,65278,false,799 Comptes de produits techniques,799,79,799,79,,
+287,680,680,680 Dotations aux amort.logiciels,65278,false,680 Dotations aux amort.logiciels,680,68,680,68,,
+288,681,681,681 Dotations aux amort. et prov°-exploitation,65278,false,681 Dotations aux amort. et prov°-exploitation,681,68,681,68,,
+293,686,686,686 Dotations aux amort. et prov°-financières,65278,false,686 Dotations aux amort. et prov°-financières,686,68,686,68,,
+296,687,687,687 Dotations aux amort. et prov°-exceptionnelles,65278,false,687 Dotations aux amort. et prov°-exceptionnelles,687,68,687,68,,
+309,691,691,691 Participation des salariés,65278,false,691 Participation des salariés,691,69,691,69,,
+311,695,695,695 Impôts sur les bénéfices,65278,false,695 Impôts sur les bénéfices,695,69,695,69,,
+313,698,698,698 Intégration fiscale,65278,false,698 Intégration fiscale,698,69,698,69,,
+315,699,699,699 Comptes de chges techniques,65278,false,699 Comptes de chges techniques,699,69,699,69,,
+424,63,63,"63 Impôts, taxes et vers. assimilés",65278,false,"63 Impôts, taxes et vers. assimilés",63,6,63,6,,
+425,64,64,64 Charges de personnel,65278,false,64 Charges de personnel,64,6,64,6,,
+426,65,65,65 Autres charges de gestion courante,65278,false,65 Autres charges de gestion courante,65,6,65,6,,
+429,67,67,67 Charges exceptionnelles,65278,false,67 Charges exceptionnelles,67,6,67,6,,
+430,68,68,68 Dotations aux amortissements et aux provisions,65278,false,68 Dotations aux amortissements et aux provisions,68,6,68,6,,
+432,69,69,69 Participation des salariés-IS,65278,false,69 Participation des salariés-IS,69,6,69,6,,
+451,74,74,74 Subventions d'exploitation,65278,false,74 Subventions d'exploitation,74,7,74,7,,
+454,75,75,75 Autres produits de gestion courante,65278,false,75 Autres produits de gestion courante,75,7,75,7,,
+455,76,76,76 Produits financiers,65278,false,76 Produits financiers,76,7,76,7,,
+457,77,77,77 Produits exceptionnels,65278,false,77 Produits exceptionnels,77,7,77,7,,
+458,78,78,78 Reprises sur amortissements et provisions,65278,false,78 Reprises sur amortissements et provisions,78,7,78,7,,
+459,79,79,79 Transferts de charges,65278,false,79 Transferts de charges,79,7,79,7,,
+1443,271200,271200,271200 Titres à long terme disponibles à la vente,65278,false,271200 Titres à long terme disponibles à la vente,271200,2,271200,2,,BSH_00003
+350,648600,648600,648600 Personnel-charges exercice antérieurs R64800,65278,false,648600 Personnel-charges exercice antérieurs R64800,648600,648,648600,250MS,6XXXXX,PNL_00131
+790,214000,214000,214000 Constructions sur sol d'autrui-propriété prouvée,65278,false,214000 Constructions sur sol d'autrui-propriété prouvée,214000,2,214000,2,,BSH_00002
+799,218100,218100,218100 Installations / Aménagements en général,65278,false,218100 Installations / Aménagements en général,218100,2,218100,2,,BSH_00002
+800,218200,218200,218200 Matériel de transport,65278,false,218200 Matériel de transport,218200,2,218200,2,,BSH_00002
+801,218300,218300,218300 Matériels de bureau et d'hébergement,65278,false,218300 Matériels de bureau et d'hébergement,218300,2,218300,2,,BSH_00002
+802,218310,218310,218310 Meubles de bureau et d'hébergement,65278,false,218310 Meubles de bureau et d'hébergement,218310,2,218310,2,,BSH_00002
+803,218320,218320,218320 Matériels de télécommunications,65278,false,218320 Matériels de télécommunications,218320,2,218320,2,,BSH_00002
+804,218330,218330,218330 IT & matériel informatique,65278,false,218330 IT & matériel informatique,218330,2,218330,2,,BSH_00002
+809,238000,238000,238000 Avances-Acomptes versés sur immo corporelles,65278,false,238000 Avances-Acomptes versés sur immo corporelles,238000,2,238000,2,,BSH_00002
+810,261210,261210,261210 Titres non cotés de sociétés liées non consolidées,65278,false,261210 Titres non cotés de sociétés liées non consolidées,261210,2,261210,2,,BSH_00003
+811,274300,274300,274300 Prêts au personnel à taux normal,65278,false,274300 Prêts au personnel à taux normal,274300,2,274300,2,,BSH_00003
+812,274320,274320,274320 Prêts pour le plan d'actionnariat à taux normal,65278,false,274320 Prêts pour le plan d'actionnariat à taux normal,274320,2,274320,2,,BSH_00003
+816,274880,274880,274880 Prêts financiers hors groupe à long terme,65278,false,274880 Prêts financiers hors groupe à long terme,274880,2,274880,2,,BSH_00003
+817,275200,275200,275200 Dépots et cautonnements Fournisseurs,65278,false,275200 Dépots et cautonnements Fournisseurs,275200,2,275200,2,,BSH_00003
+818,280310,280310,280310 Amort.frais de développement,65278,false,280310 Amort.frais de développement,280310,2,280310,2,,BSH_00001
+822,281200,281200,281200 Amort frais aménagement de terrain -prouvés,65278,false,281200 Amort frais aménagement de terrain -prouvés,281200,2,281200,2,,BSH_00002
+825,281350,281350,281350 Amort Installations aménagements,65278,false,281350 Amort Installations aménagements,281350,2,281350,2,,BSH_00002
+826,281400,281400,281400 Amort constructions sur sol d'autrui -prouvé,65278,false,281400 Amort constructions sur sol d'autrui -prouvé,281400,2,281400,2,,BSH_00002
+834,281550,281550,281550 Amortissement du matériel / outillage industriel,65278,false,281550 Amortissement du matériel / outillage industriel,281550,2,281550,2,,BSH_00002
+836,281810,281810,281810 Amort Installations / Aménagements généraux,65278,false,281810 Amort Installations / Aménagements généraux,281810,2,281810,2,,BSH_00002
+837,281820,281820,281820 Amortissement des matériels de transport,65278,false,281820 Amortissement des matériels de transport,281820,2,281820,2,,BSH_00002
+838,281830,281830,281830 Amort matériels bureau et hébergement,65278,false,281830 Amort matériels bureau et hébergement,281830,2,281830,2,,BSH_00002
+839,281831,281831,281831 Amort meubles bureau et hébergement,65278,false,281831 Amort meubles bureau et hébergement,281831,2,281831,2,,BSH_00002
+840,281832,281832,281832 Amortissement des matériels de Télécommunications,65278,false,281832 Amortissement des matériels de Télécommunications,281832,2,281832,2,,BSH_00002
+841,281833,281833,281833 Amortissement de l'équipement IT & Informatique,65278,false,281833 Amortissement de l'équipement IT & Informatique,281833,2,281833,2,,BSH_00002
+842,321000,321000,321000 Stock de Matériels,65278,false,321000 Stock de Matériels,321000,3,321000,3,,BSH_00007
+844,321200,321200,321200 Stock de gaz expéditeurs,65278,false,321200 Stock de gaz expéditeurs,321200,3,321200,3,,BSH_00007
+847,392000,392000,392000 Prov. Dépr. Stock de matériel,65278,false,392000 Prov. Dépr. Stock de matériel,392000,3,392000,3,,BSH_00007
+854,409100,409100,409100 Fournisseurs-Avances acomptes versés sur commande,65278,false,409100 Fournisseurs-Avances acomptes versés sur commande,409100,4,409100,4,,BSH_00009
+859,418100,418100,418100 Clients - Produits non encore facturés - Groupe,65278,false,418100 Clients - Produits non encore facturés - Groupe,418100,4,418100,4,,BSH_00008
+860,418200,418200,418200 Clients-Produits non encore facturés-Hors Groupe,65278,false,418200 Clients-Produits non encore facturés-Hors Groupe,418200,4,418200,4,,BSH_00008
+861,419000,419000,419000 Clients - avances et acomptes reçus,65278,false,419000 Clients - avances et acomptes reçus,419000,4,419000,4,,BSH_00008
+2332,518900,518900,518900 Intérêts courus sur DAT,65278,false,518900 Intérêts courus sur DAT,518900,5,518900,5,,BSH_00016
+2365,512950,512950,512950 CCRP NATIXIS TEREGA SA,65278,false,512950 CCRP NATIXIS TEREGA SA,512950,5,512950,5,,BSH_00019
+865,421400,421400,421400 Epargne chèques-vacances,65278,false,421400 Epargne chèques-vacances,421400,4,421400,4,,BSH_00010
+866,421500,421500,421500 Frais de déplacement,65278,false,421500 Frais de déplacement,421500,4,421500,4,,BSH_00010
+867,422000,422000,422000 Comité d'entreprise,65278,false,422000 Comité d'entreprise,422000,4,422000,4,,BSH_00010
+2366,512951,512951,512951 CCRP NATIXIS TEREGA SOLUTIONS,65278,false,512951 CCRP NATIXIS TEREGA SOLUTIONS,512951,5,512951,5,,BSH_00019
+871,425110,425110,425110 Personnel – Acompte 13e mois,65278,false,425110 Personnel – Acompte 13e mois,425110,4,425110,4,,BSH_00010
+2398,708812,708812,708812 Autres prod. d'activites annexes - matériel stocké,65278,false,708812 Autres prod. d'activites annexes - matériel stocké,708812,708,708812,708,7XXXXX,PNL_00040
+878,428200,428200,428200 Personnel - Dettes provisionnées /congés à payer,65278,false,428200 Personnel - Dettes provisionnées /congés à payer,428200,4,428200,4,,BSH_00010
+881,428210,428210,428210 Personnel – Dettes provisionnées / CET,65278,false,428210 Personnel – Dettes provisionnées / CET,428210,4,428210,4,,BSH_00010
+1118,720ms,720MS,7.2. Intéressement,65278,false,7.2. Intéressement,720MS,,720MS,07MS,,
+882,428300,428300,428300 Personnel - Dettes provisionnées /intéressement,65278,false,428300 Personnel - Dettes provisionnées /intéressement,428300,4,428300,4,,BSH_00010
+883,428400,428400,428400 Personnel - Dettes provisionnées /participation,65278,false,428400 Personnel - Dettes provisionnées /participation,428400,4,428400,4,,BSH_00010
+884,428600,428600,428600 Personnel - Autres charges à payer,65278,false,428600 Personnel - Autres charges à payer,428600,4,428600,4,,BSH_00010
+885,430000,430000,430000 Organismes sociaux - A régler,65278,false,430000 Organismes sociaux - A régler,430000,4,430000,4,,BSH_00011
+886,431000,431000,431000 Sécurité Sociale,65278,false,431000 Sécurité Sociale,431000,4,431000,4,,BSH_00011
+890,437005,437005,437005 Préservatrice,65278,false,437005 Préservatrice,437005,4,437005,4,,BSH_00011
+900,437810,437810,437810 Indemnité prévoyance,65278,false,437810 Indemnité prévoyance,437810,4,437810,4,,BSH_00011
+901,438600,438600,438600 Org. Sociaux-Charges à payer,65278,false,438600 Org. Sociaux-Charges à payer,438600,4,438600,4,,BSH_00011
+902,438700,438700,438700 Org. Sociaux-Produits à recevoir,65278,false,438700 Org. Sociaux-Produits à recevoir,438700,4,438700,4,,BSH_00011
+903,440000,440000,440000 Etat et autres coll. Publiques-A régler,65278,false,440000 Etat et autres coll. Publiques-A régler,440000,4,440000,4,,BSH_00012
+904,442000,442000,442000 Impôts et taxes recouvrables sur des tiers,65278,false,442000 Impôts et taxes recouvrables sur des tiers,442000,4,442000,4,,BSH_00011
+905,442100,442100,442100 Prélèvement à la source,65278,false,442100 Prélèvement à la source,442100,4,442100,4,,BSH_00011
+907,444100,444100,444100 Impôt sur les sociétés dû,65278,false,444100 Impôt sur les sociétés dû,444100,4,444100,4,,BSH_00012
+908,444110,444110,444110 Impôt sur les sociétés à recevoir,65278,false,444110 Impôt sur les sociétés à recevoir,444110,4,444110,4,,BSH_00012
+911,445211,445211,445211 TVA intracom - achats de gaz et d'électricité,65278,false,445211 TVA intracom - achats de gaz et d'électricité,445211,4,445211,4,,BSH_00013
+912,445212,445212,445212 TVA hors CEE - expl°,65278,false,445212 TVA hors CEE - expl°,445212,4,445212,4,,BSH_00013
+915,445215,445215,445215 TVA hors UE matériels,65278,false,445215 TVA hors UE matériels,445215,4,445215,4,,BSH_00013
+916,445510,445510,445510 TVA à décaisser,65278,false,445510 TVA à décaisser,445510,4,445510,4,,BSH_00013
+917,445620,445620,445620 TVA déductible/immo,65278,false,445620 TVA déductible/immo,445620,4,445620,4,,BSH_00013
+919,445660,445660,445660 TVA déductible/ABS,65278,false,445660 TVA déductible/ABS,445660,4,445660,4,,BSH_00013
+920,445661,445661,445661 TVA déd/Ret. garanti,65278,false,445661 TVA déd/Ret. garanti,445661,4,445661,4,,BSH_00013
+923,445664,445664,445664 TVA intracom - achats de gaz et d'électricité,65278,false,445664 TVA intracom - achats de gaz et d'électricité,445664,4,445664,4,,BSH_00013
+924,445665,445665,445665 TVA hors CEE - expl°,65278,false,445665 TVA hors CEE - expl°,445665,4,445665,4,,BSH_00013
+927,445668,445668,445668 TVA hors UE matériels,65278,false,445668 TVA hors UE matériels,445668,4,445668,4,,BSH_00013
+928,445670,445670,445670 Crédit de TVA à reporter,65278,false,445670 Crédit de TVA à reporter,445670,4,445670,4,,BSH_00013
+929,445710,445710,445710 TVA collectée,65278,false,445710 TVA collectée,445710,4,445710,4,,BSH_00013
+984,512900,512900,512900 DAT,65278,false,512900 DAT,512900,5,512900,5,,BSH_00019
+932,445840,445840,445840 TVA déductible lors du paiement,65278,false,445840 TVA déductible lors du paiement,445840,4,445840,4,,BSH_00013
+933,445841,445841,445841 TVA collectée lors du paiement,65278,false,445841 TVA collectée lors du paiement,445841,4,445841,4,,BSH_00013
+935,445870,445870,445870 TVA coll/factures à établir,65278,false,445870 TVA coll/factures à établir,445870,4,445870,4,,BSH_00013
+944,448700,448700,448700 Etat - produits à recevoir,65278,false,448700 Etat - produits à recevoir,448700,4,448700,4,,BSH_00012
+952,457000,457000,457000 Associés - Dividende à Payer,65278,false,457000 Associés - Dividende à Payer,457000,4,457000,4,,BSH_00014
+953,467001,467001,467001 Débiteurs divers,65278,false,467001 Débiteurs divers,467001,4,467001,4,,BSH_00014
+956,467005,467005,467005 Créditeurs divers,65278,false,467005 Créditeurs divers,467005,4,467005,4,,BSH_00014
+957,468600,468600,468600 Divers-Charges à payer,65278,false,468600 Divers-Charges à payer,468600,4,468600,4,,BSH_00014
+958,468700,468700,468700 Divers-Produits à recevoir,65278,false,468700 Divers-Produits à recevoir,468700,4,468700,4,,BSH_00014
+963,481600,481600,481600 Frais d'émission des emprunts à répartir,65278,false,481600 Frais d'émission des emprunts à répartir,481600,4,481600,4,,BSH_00006
+964,486000,486000,486000 Charges constatées d'avance,65278,false,486000 Charges constatées d'avance,486000,4,486000,4,,BSH_00014
+965,487000,487000,487000 Produit constaté d'avance,65278,false,487000 Produit constaté d'avance,487000,4,487000,4,,BSH_00008
+966,491000,491000,491000 Provision pour dépréciation des comptes clients,65278,false,491000 Provision pour dépréciation des comptes clients,491000,4,491000,4,,BSH_00008
+967,491100,491100,491100 Prov Créances Douteuses EAG,65278,false,491100 Prov Créances Douteuses EAG,491100,4,491100,4,,BSH_00008
+968,508101,508101,508101 SICAV Monétaire BNP,65278,false,508101 SICAV Monétaire BNP,508101,5,508101,5,,BSH_00019
+969,508102,508102,508102 SICAV Monétaire NATIXIS,65278,false,508102 SICAV Monétaire NATIXIS,508102,5,508102,5,,BSH_00019
+970,508103,508103,508103 Compte à préavis 32 jrs Natixis,65278,false,508103 Compte à préavis 32 jrs Natixis,508103,5,508103,5,,BSH_00019
+972,512200,512200,512200 Crédit Mutuel TIGF,65278,false,512200 Crédit Mutuel TIGF,512200,5,512200,5,,BSH_00019
+980,512600,512600,512600 Société Générale TIGF,65278,false,512600 Société Générale TIGF,512600,5,512600,5,,BSH_00019
+981,512603,512603,512603 Société Générale TTGF,65278,false,512603 Société Générale TTGF,512603,5,512603,5,,BSH_00019
+985,518600,518600,518600 Intérêts courus à payer,65278,false,518600 Intérêts courus à payer,518600,5,518600,5,,BSH_00014
+986,531000,531000,531000 Caisse siége social,65278,false,531000 Caisse siége social,531000,5,531000,5,,BSH_00019
+781,208101,208101,208101 Droits de transit,65278,false,208101 Droits de transit,208101,2,208101,2,,BSH_00001
+989,119000,119000,119000 Report à nouveau-solde débiteur,65278,false,119000 Report à nouveau-solde débiteur,119000,11,119000,11,,BSH_00025
+990,151400,151400,151400 Provision/litiges fiscaux-impôts sur les bénéfices,65278,false,151400 Provision/litiges fiscaux-impôts sur les bénéfices,151400,15,151400,15,,BSH_00015
+2431,800683,800683,800683 Compensation de transfert d'immobilisation liée,65278,false,800683 Compensation de transfert d'immobilisation liée,800683,8,800683,8,6XXXXX,SAP_T8001
+991,261100,261100,261100 Titres immobilisés - conso,65278,false,261100 Titres immobilisés - conso,261100,2,261100,2,,BSH_00003
+992,274885,274885,274885 Prêt financier Groupe,65278,false,274885 Prêt financier Groupe,274885,2,274885,2,,BSH_00004
+993,274886,274886,274886 Intérêts sur prêt financier Groupe,65278,false,274886 Intérêts sur prêt financier Groupe,274886,2,274886,2,,BSH_00003
+995,456100,456100,456100 Associés - comptes d'apport en société,65278,false,456100 Associés - comptes d'apport en société,456100,4,456100,4,,BSH_00014
+1018,169000,169000,169000 Primes d'émission,65278,false,169000 Primes d'émission,169000,16,169000,16,,BSH_00006
+310,681162,681162,681162 Dot Amort installations stockage-déchargement R68112,65278,false,681162 Dot Amort installations stockage-déchargement R68112,681162,681,681162,681,6XXXXX,PNL_00171
+328,681165,681165,681165 Dot Amort équipement / outillage industriel R68112,65278,false,681165 Dot Amort équipement / outillage industriel R68112,681165,681,681165,681,6XXXXX,PNL_00171
+107,687300,687300,687300 Dot Prov réglementées R68750,65278,false,687300 Dot Prov réglementées R68750,687300,687,687300,687,6XXXXX,PNL_00190
+362,775800,775800,775800 Pdts cession autres éléments actifs R77800,65278,false,775800 Pdts cession autres éléments actifs R77800,775800,775,775800,775,7XXXXX,PNL_00174
+291,na,NA,NA,65278,false,NA,NA,Nature_Total,NA,Nature_Total,,
+294,pl1,PL1,PL1 - Produits,65278,false,PL1 - Produits,PL1,7,PL1,7,,
+733,106110,106110,106110 Réserves légales,65278,false,106110 Réserves légales,106110,10,106110,10,,BSH_00024
+734,106300,106300,106300 Réserves statutaires,65278,false,106300 Réserves statutaires,106300,10,106300,10,,BSH_00024
+33,687500,687500,687500 Dot Prov dépenses extraordinaires/exceptionnelles R68750,65278,false,687500 Dot Prov dépenses extraordinaires/exceptionnelles R68750,687500,687,687500,687,6XXXXX,PNL_00190
+51,781741,781741,781741 Reprise prov dépréciation des créances clients R78190,65278,false,781741 Reprise prov dépréciation des créances clients R78190,781741,781,781741,781,7XXXXX,PNL_00189
+55,775100,775100,775100 Pdts cession des éléments actifs incorporels R77510,65278,false,775100 Pdts cession des éléments actifs incorporels R77510,775100,775,775100,775,7XXXXX,PNL_00174
+105,775200,775200,775200 Pdts cession des éléments actifs corporels R77520,65278,false,775200 Pdts cession des éléments actifs corporels R77520,775200,775,775200,775,7XXXXX,PNL_00174
+231,681130,681130,681130 Dot Amortissement des constructions - prouvé R68112,65278,false,681130 Dot Amortissement des constructions - prouvé R68112,681130,681,681130,681,6XXXXX,PNL_00171
+255,771700,771700,771700 Dégrèvement d'impôt ( hors IS) R77880,65278,false,771700 Dégrèvement d'impôt ( hors IS) R77880,771700,771,771700,771,7XXXXX,PNL_00174
+258,681181,681181,681181 Dot Amort installations / aménagement généraux R68112,65278,false,681181 Dot Amort installations / aménagement généraux R68112,681181,681,681181,681,6XXXXX,PNL_00171
+259,681183,681183,681183 Dot Amort équipements de bureau et d'hébergement R68112,65278,false,681183 Dot Amort équipements de bureau et d'hébergement R68112,681183,681,681183,681,6XXXXX,PNL_00171
+260,681182,681182,681182 Dot Amortissement des équipements de transport R68112,65278,false,681182 Dot Amortissement des équipements de transport R68112,681182,681,681182,681,6XXXXX,PNL_00171
+261,681185,681185,681185 Dot Amort matériels de télécommunication R68112,65278,false,681185 Dot Amort matériels de télécommunication R68112,681185,681,681185,681,6XXXXX,PNL_00171
+262,681184,681184,681184 Dot Amort meubles de bureau et d'hébergement R68112,65278,false,681184 Dot Amort meubles de bureau et d'hébergement R68112,681184,681,681184,681,6XXXXX,PNL_00171
+390,680310,680310,680310 Dot.amort.frais de développement R68111,65278,false,680310 Dot.amort.frais de développement R68111,680310,680,680310,680,6XXXXX,PNL_00172
+1279,145002,145002,145002 Amortissements dérogations complémentaires,65278,false,145002 Amortissements dérogations complémentaires,145002,14,145002,14,,BSH_00029
+1094,610ms,610MS,6.1. Activités sociales - Comité d'oeuvre sociale,65278,false,6.1. Activités sociales - Comité d'oeuvre sociale,610MS,,610MS,06MS,,
+1104,710ms,710MS,7.1. Participation des salariés,65278,false,7.1. Participation des salariés,710MS,,710MS,07MS,,
+639,687250,687250,687250 DA dérogatoires,65278,false,687250 DA dérogatoires,687250,687,687250,687,6XXXXX,PNL_00175
+1278,687252,687252,687252 DA dérogatoires compl.,65278,false,687252 DA dérogatoires compl.,687252,687,687252,687,6XXXXX,PNL_00175
+1584,680720,680720,680720 Amort. Clientèle,65278,false,680720 Amort. Clientèle,680720,680,680720,680,6XXXXX,PNL_00172
+1586,681173,681173,681173 DAP Mat. Méthanisat.,65278,false,681173 DAP Mat. Méthanisat.,681173,681,681173,681,6XXXXX,PNL_00171
+1093,140ms,140MS,1.4. Prime d’ancienneté,65278,false,1.4. Prime d’ancienneté,140MS,,140MS,01MS,,
+1706,645820,645820,645820 Charges sociales/autres primes,65278,false,645820 Charges sociales/autres primes,645820,645,645820,240MS,6XXXXX,PNL_00131
+1738,447113,447113,447113 TIC,65278,false,447113 TIC,447113,4,447113,4,,BSH_00014
+1739,447114,447114,447114 C3S,65278,false,447114 C3S,447114,4,447114,4,,BSH_00014
+1740,447115,447115,447115 Taxes Foncières,65278,false,447115 Taxes Foncières,447115,4,447115,4,,BSH_00014
+1741,447116,447116,447116 IFER,65278,false,447116 IFER,447116,4,447116,4,,BSH_00014
+1742,455180,455180,455180 Compte courant Stirvia,65278,false,455180 Compte courant Stirvia,455180,4,455180,4,,BSH_00014
+864,421000,421000,421000 Personnel - Rémunérations dues,65278,false,421000 Personnel - Rémunérations dues,421000,4,421000,4,,BSH_00010
+1771,478610,478610,478610 Diff. Eval. - Actif,65278,false,478610 Diff. Eval. - Actif,478610,4,478610,4,,BSH_00014
+1772,478710,478710,478710 Diff. Eval. - Passif,65278,false,478710 Diff. Eval. - Passif,478710,4,478710,4,,BSH_00014
+1773,218340,218340,218340 Oeuvres d'art,65278,false,218340 Oeuvres d'art,218340,2,218340,2,,BSH_00002
+1804,706801,706801,706801 vente de prestations BU MED,65278,false,706801 vente de prestations BU MED,706801,706,706801,706,7XXXXX,PNL_00150
+1805,706802,706802,706802 vente de prestations BU H2,65278,false,706802 vente de prestations BU H2,706802,706,706802,706,7XXXXX,PNL_00150
+1837,708803,708803,708803 autre produit BU BIO,65278,false,708803 autre produit BU BIO,708803,708,708803,708,7XXXXX,PNL_00150
+1870,706803,706803,706803 vente de prestations BU BIO,65278,false,706803 vente de prestations BU BIO,706803,706,706803,706,7XXXXX,PNL_00150
+1871,701102,701102,701102 Prod. finis BU H2,65278,false,701102 Prod. finis BU H2,701102,706,701102,702,7XXXXX,PNL_00150
+1872,701103,701103,701103 Prod. finis BU BIO,65278,false,701103 Prod. finis BU BIO,701103,708,701103,702,7XXXXX,PNL_00150
+1707,260ms,260MS,2.6. Forfait Social,65278,false,2.6. Forfait Social,260MS,,260MS,02MS,,
+1705,645120,645120,645120 Forfait social,65278,false,645120 Forfait social,645120,645,645120,260MS,6XXXXX,PNL_00131
+1744,701101,701101,701101 Prod. finis BU MED,65278,false,701101 Prod. finis BU MED,701101,702,701101,702,7XXXXX,PNL_00150
+1903,657100,657100,657100 Aides financières octroyées,65278,false,657100 Aides financières octroyées,657100,658,657100,658,6XXXXX,PNL_00150
+1936,409800,409800,409800 Avoir à recevoir,65278,false,409800 Avoir à recevoir,409800,4,409800,4,,BSH_00009
+1969,508104,508104,508104 DAT BNP,65278,false,508104 DAT BNP,508104,5,508104,5,,BSH_00019
+2002,428620,428620,428620 Pers - Dettes provisionnées / UP,65278,false,428620 Pers - Dettes provisionnées / UP,428620,4,428620,4,,BSH_00010
+2003,428630,428630,428630 Pers - Dettes prov / Prime 13ème mois,65278,false,428630 Pers - Dettes prov / Prime 13ème mois,428630,4,428630,4,,BSH_00010
+2005,438620,438620,438620 Org Sociaux Charges / Prov UP,65278,false,438620 Org Sociaux Charges / Prov UP,438620,4,438620,4,,BSH_00011
+2006,438630,438630,438630 Org Sociaux Charges / Prime 13ème mois,65278,false,438630 Org Sociaux Charges / Prime 13ème mois,438630,4,438630,4,,BSH_00011
+2007,438210,438210,438210 Org Sociaux Charges / CET,65278,false,438210 Org Sociaux Charges / CET,438210,4,438210,4,,BSH_00011
+1444,512856,512856,512856 BNP MIB,65278,false,512856 BNP MIB,512856,5,512856,5,,BSH_00019
+2008,438300,438300,438300 Org Sociaux Charges / Intéressement,65278,false,438300 Org Sociaux Charges / Intéressement,438300,4,438300,4,,BSH_00011
+2009,438400,438400,438400 Org Sociaux Charges / Participation,65278,false,438400 Org Sociaux Charges / Participation,438400,4,438400,4,,BSH_00011
+2035,299999,299999,299999 Cpte de reprise immo,65278,false,299999 Cpte de reprise immo,299999,2,299999,2,,SAP_T2999
+2036,9,9,9 - COMPTES TECHNIQUES,65278,false,9 - COMPTES TECHNIQUES,9,Nature_Total,9,Nature_Total,,
+2037,999999,999999,999999 Capitalisation TbD,65278,false,999999 Capitalisation TbD,999999,9,999999,9,7XXXXX,SAP_T9999
+2038,681740,681740,681740 Dot dépré. créances,65278,false,681740 Dot dépré. créances,681740,681,681740,681,6XXXXX,PNL_00150
+2039,108900,108900,108900 Dot cons.insc.au CR,65278,false,108900 Dot cons.insc.au CR,108900,10,108900,10,,BSH_00024
+2040,668000,668000,668000 Autres charges fin.,65278,false,668000 Autres charges fin.,668000,668,668000,668,6XXXXX,PNL_00150
+2068,781740,781740,781740 Reprise dépréciation créances clients,65278,false,781740 Reprise dépréciation créances clients,781740,781,781740,781,7XXXXX,PNL_00189
+2101,570ms,570MS,5.7 Autres Modèle Social,65278,false,5.7 Autres Modèle Social,570MS,,570MS,05MS,,
+2004,438610,438610,438610 Org Sociaux Charges / Prime Vacances,65278,false,438610 Org Sociaux Charges / Prime Vacances,438610,4,438610,4,,BSH_00011
+2134,753200,753200,753200 QP vst dot cons,65278,false,753200 QP vst dot cons,753200,753,753200,756,7XXXXX,PNL_00150
+2135,753,753,"753 Jetons de présence et rémunérations d'administrateurs, gérants
+",65278,false,"753 Jetons de présence et rémunérations d'administrateurs, gérants
+",753,75,753,75,,
+1743,753100,753100,753100 Versements Fondateurs,65278,false,753100 Versements Fondateurs,753100,753,753100,756,7XXXXX,PNL_00150
+2167,273000,273000,273000 TIAP,65278,false,273000 TIAP,273000,2,273000,2,,BSH_00003
+868,422100,422100,422100 Commission prévoyance,65278,false,422100 Commission prévoyance,422100,4,422100,4,,BSH_00010
+877,427100,427100,427100 Retenue à la source-Jetons de présence,65278,false,427100 Retenue à la source-Jetons de présence,427100,4,427100,4,,BSH_00010
+2200,297300,297300,297300 Dépré des TIAP,65278,false,297300 Dépré des TIAP,297300,2,297300,2,,BSH_00003
+2233,167006,167006,167006 CAA RETRAITE Emp assortis de clauses particulières,65278,false,167006 CAA RETRAITE Emp assortis de clauses particulières,167006,16,167006,16,,BSH_00010
+931,445830,445830,445830 Etat Remboursement TVA demandé,65278,false,445830 Etat Remboursement TVA demandé,445830,4,445830,4,,BSH_00013
+2266,478720,478720,478720 Diff. d'évaluation instruments trésorerie-PASSIF,65278,false,478720 Diff. d'évaluation instruments trésorerie-PASSIF,478720,4,478720,4,,BSH_00006
+2299,512860,512860,512860 BNP Hy'Touraine Dist,65278,false,512860 BNP Hy'Touraine Dist,512860,5,512860,5,,BSH_00019
+2432,999990,999990,999990 Cpt Mig. AuC,65278,false,999990 Cpt Mig. AuC,999990,9,999990,9,7XXXXX,SAP_T9999
+1708,708820,708820,708820 Loyer véhicules,65278,false,708820 Loyer véhicules,708820,708,708820,708,7XXXXX,PNL_00141
+2010,428610,428610,428610 Pers - Dettes prov / Prime Vacances,65278,false,428610 Pers - Dettes prov / Prime Vacances,428610,4,428610,4,,BSH_00010
+2267,478620,478620,478620 Diff. d'évaluation instruments trésorerie-ACTIF,65278,false,478620 Diff. d'évaluation instruments trésorerie-ACTIF,478620,4,478620,4,,BSH_00006
+2300,512861,512861,512861 BNP TSOL H2 Newco1,65278,false,512861 BNP TSOL H2 Newco1,512861,5,512861,5,,BSH_00019
+67,641435,641435,641435 Abonnement téléphoniques Astreintes R64100,65278,false,641435 Abonnement téléphoniques Astreintes R64100,641435,641,641435,999MS,6XXXXX,PNL_00131
+386,op1,OP1,OP1 - Achats & services extérieurs,65278,false,OP1 - Achats & services extérieurs,OP1,OPx,OP1,OPx,,
+388,op3,OP3,Autres charges,65278,false,Autres charges,OP3,OPx,PL4,OPx,,
+389,op6,OP6,Impôts & taxes,65278,false,Impôts & taxes,OP6,OPx,PL6,OPx,,
+387,op4,OP4,Charges DTDP (Temp),65278,false,Charges DTDP (Temp),OP4,OPx,PL4,OPx,,
+391,op5,OP5,Amortissements & provisions,65278,false,Amortissements & provisions,OP5,OPx,PL5,OPx,,
+385,op2,OP2,Charges de personnel,65278,false,Charges de personnel,OP2,64,6MS,Nature_MS,,
+1001,109000,109000,109000 Actionnaires - Capital non appelé,65278,false,109000 Actionnaires - Capital non appelé,109000,10,109000,10,,BSH_00021
+439,nature_total,Nature_Total,Nature Total,65278,false,Nature Total,Nature_Total,Nature_Root,NAT0,Nature_Hors_MS,,
+428,66,66,66 Charges financières,65278,false,66 Charges financières,66,6,66,6,,
+383,645350,645350,645350 URC-AGFF,65278,false,645350 URC-AGFF,645350,645,645350,999MS,6XXXXX,PNL_00131
+108,6135yx,6135YX,6135YX SaaS,65278,false,6135YX SaaS,6135YX,613,6135YX,613,,
+56,615550,615550,615550 Entretien réparation-équipement de bureaux/hébergt R61500,65278,false,615550 Entretien réparation-équipement de bureaux/hébergt R61500,615550,615,615550,615,6XXXXX,PNL_00150
+57,626200,626200,626200 Téléphone et télécopie R62600,65278,false,626200 Téléphone et télécopie R62600,626200,626,626200,626,626XXX,PNL_00150
+576,op26,OP26,Financement CE (BUD),65278,false,Financement CE (BUD),OP26,OP2,OP26,06MS,,
+579,op25,OP25,Modèle social entreprise (BUD),65278,false,Modèle social entreprise (BUD),OP25,OP2,OP25,05MS,,
+581,op28,OP28,"Impôts, taxes et versements assimilés sur rémunération (BUD)",65278,false,"Impôts, taxes et versements assimilés sur rémunération (BUD)",OP28,OP2,OP28,08MS,,
+583,op27,OP27,Participation et intéressement (BUD),65278,false,Participation et intéressement (BUD),OP27,OP2,OP27,07MS,,
+44,641425,641425,641425 Personnel - Indemnité Ristourne Gaz R64100,65278,false,641425 Personnel - Indemnité Ristourne Gaz R64100,641425,641,641425,560MS,6XXXXX,PNL_00131
+411,648520,648520,648520 Abondement Versement volontaire,65278,false,648520 Abondement Versement volontaire,648520,648,648520,330MS,6XXXXX,PNL_00131
+433,648530,648530,648530 Abondement CET / PERCO R64800,65278,false,648530 Abondement CET / PERCO R64800,648530,648,648530,330MS,6XXXXX,PNL_00131
+602,nature_root,Nature_Root,Nature (Root),65278,false,Nature (Root),Nature_Root,Nature_Root,NAT,,,
+648,nat_6undefined,NAT_6Undefined,Natures 6* TbD,65278,false,Natures 6* TbD,NAT_6Undefined,6,6Z,6,,
+651,nat_7undefined,NAT_7Undefined,Natures 7* TbD,65278,false,Natures 7* TbD,NAT_7Undefined,7,7Z,7,,
+720,10,10,10 - COMPTES DE CAPITAUX,65278,false,10 - COMPTES DE CAPITAUX,10,1,10,1,,
+721,11,11,11 - REPORT A NOUVEAU,65278,false,11 - REPORT A NOUVEAU,11,1,11,1,,
+585,op22,OP22,Charges sociales obligatoires (BUD),65278,false,Charges sociales obligatoires (BUD),OP22,OP2,OP22,02MS,,
+588,op21,OP21,Rémunérations du personnel (BUD),65278,false,Rémunérations du personnel (BUD),OP21,OP2,OP21,01MS,,
+590,op24,OP24,Protection sociale complémentaire (BUD),65278,false,Protection sociale complémentaire (BUD),OP24,OP2,OP24,04MS,,
+591,op23,OP23,Epargne salariale (BUD),65278,false,Epargne salariale (BUD),OP23,OP2,OP23,03MS,,
+597,op29,OP29,Personnel extérieur à l'entreprise (BUD),65278,false,Personnel extérieur à l'entreprise (BUD),OP29,OP2,OP29,09MS,,
+603,op31,OP31,Rupture de contrat (BUD),65278,false,Rupture de contrat (BUD),OP31,OP2,OP31,11MS,,
+604,op30,OP30,Remplacement CICE (BUD),65278,false,Remplacement CICE (BUD),OP30,OP2,OP30,10MS,,
+628,nat_undefined,NAT_Undefined,Nature Undefined,65278,false,Nature Undefined,NAT_Undefined,Nature_Root,NATX,Nature_Hors_MS,,
+314,603030,603030,"603030 Tuyauterie, robinetterie et accessoires R60310",65278,false,"603030 Tuyauterie, robinetterie et accessoires R60310",603030,603,603030,603,6XXXXX,PNL_00150
+316,604004,604004,604004 Tx de pose R60400,65278,false,604004 Tx de pose R60400,604004,604,604004,604,6XXXXX,PNL_00150
+317,604005,604005,604005 Tx de peinture R60400,65278,false,604005 Tx de peinture R60400,604005,604,604005,604,6XXXXX,PNL_00150
+318,604002,604002,604002 Tx soudure R60400,65278,false,604002 Tx soudure R60400,604002,604,604002,604,6XXXXX,PNL_00150
+319,603035,603035,603035 Machines réceptrices R60310,65278,false,603035 Machines réceptrices R60310,603035,603,603035,603,6XXXXX,PNL_00150
+715,1,1,1 - COMPTES DE CAPITAUX,65278,false,1 - COMPTES DE CAPITAUX,1,Nature_Total,1,Nature_Total,,
+716,2,2,2 - COMPTES D'IMMOBILISATION,65278,false,2 - COMPTES D'IMMOBILISATION,2,Nature_Total,2,Nature_Total,,
+717,3,3,3 - COMPTES DE STOCK ET EN-COURS,65278,false,3 - COMPTES DE STOCK ET EN-COURS,3,Nature_Total,3,Nature_Total,,
+718,4,4,4 - COMPTES DE TIERS,65278,false,4 - COMPTES DE TIERS,4,Nature_Total,4,Nature_Total,,
+719,5,5,5 - COMPTES FINANCIERS,65278,false,5 - COMPTES FINANCIERS,5,Nature_Total,5,Nature_Total,,
+320,604003,604003,604003 Contrôles techniques R60400,65278,false,604003 Contrôles techniques R60400,604003,604,604003,604,6XXXXX,PNL_00150
+321,604008,604008,604008 Travaux de mecanique R60400,65278,false,604008 Travaux de mecanique R60400,604008,604,604008,604,6XXXXX,PNL_00150
+322,604009,604009,"604009 Travaux de chaudronnerie, tuyauterie, robinetterie R60400",65278,false,"604009 Travaux de chaudronnerie, tuyauterie, robinetterie R60400",604009,604,604009,604,6XXXXX,PNL_00150
+323,604006,604006,604006 Prestations diverses R60400,65278,false,604006 Prestations diverses R60400,604006,604,604006,604,6XXXXX,PNL_00150
+324,604007,604007,604007 Travaux d'electricite R60400,65278,false,604007 Travaux d'electricite R60400,604007,604,604007,604,6XXXXX,PNL_00150
+326,651xxx,651XXX,651XXX Redevance pour usage de domaine public,65278,false,651XXX Redevance pour usage de domaine public,651XXX,651,651XXX,651,,
+327,722300,722300,722300 P. I. Subventions clients R72000,65278,false,722300 P. I. Subventions clients R72000,722300,722,722300,722,7XXXXX,PNL_00150
+329,603260,603260,603260 Autres équipement et pièces de rechange de forage R60310,65278,false,603260 Autres équipement et pièces de rechange de forage R60310,603260,603,603260,603,6XXXXX,PNL_00150
+332,603140,603140,603140 Mat et Pièces de rechange fonds de trou R60310,65278,false,603140 Mat et Pièces de rechange fonds de trou R60310,603140,603,603140,603,6XXXXX,PNL_00150
+333,603020,603020,"603020 Casing, Tubing, Liner, Connectors and Accessoiries R60310",65278,false,"603020 Casing, Tubing, Liner, Connectors and Accessoiries R60310",603020,603,603020,603,6XXXXX,PNL_00150
+334,603025,603025,603025 Accessoires de tubage (stock) R60310,65278,false,603025 Accessoires de tubage (stock) R60310,603025,603,603025,603,6XXXXX,PNL_00150
+335,606xxx,606XXX,606XXX Fournitures de bureau,65278,false,606XXX Fournitures de bureau,606XXX,606,606XXX,606,,
+338,621470,621470,621470 Autres personnels détachés,65278,false,621470 Autres personnels détachés,621470,621,621470,920MS,6XXXXX,PNL_00131
+339,758001,758001,758001 Redevance registre GES R75800,65278,false,758001 Redevance registre GES R75800,758001,758,758001,758,7XXXXX,PNL_00150
+340,758000,758000,758000 Produits divers R75800,65278,false,758000 Produits divers R75800,758000,758,758000,758,7XXXXX,PNL_00040
+341,666021,666021,666021 RXD s/prêts - PERTE R66600,65278,false,666021 RXD s/prêts - PERTE R66600,666021,666,666021,666,6XXXXX,PNL_00150
+342,666020,666020,666020 RXD s/prêts - PERTE (réaffect.) R66600,65278,false,666020 RXD s/prêts - PERTE (réaffect.) R66600,666020,666,666020,666,6XXXXX,PNL_00150
+343,611675,611675,611675 Fabrication - services extérieurs R61100,65278,false,611675 Fabrication - services extérieurs R61100,611675,611,611675,611,6XXXXX,PNL_00150
+344,635400,635400,635400 Droits de timbres R63700,65278,false,635400 Droits de timbres R63700,635400,635,635400,635,6XXXXX,PNL_00150
+345,658400,658400,658400 Indemnité résiliation R65800,65278,false,658400 Indemnité résiliation R65800,658400,658,658400,658,6XXXXX,PNL_00150
+346,661800,661800,661800 Intérêts des autres emprunts R66110,65278,false,661800 Intérêts des autres emprunts R66110,661800,661,661800,661,6XXXXX,PNL_00150
+347,661802,661802,661802 Intérêts emprunts privés R66110,65278,false,661802 Intérêts emprunts privés R66110,661802,661,661802,661,6XXXXX,PNL_00150
+348,661801,661801,661801 Intérêts emprunts Filacal R66110,65278,false,661801 Intérêts emprunts Filacal R66110,661801,661,661801,661,6XXXXX,PNL_00150
+349,623401,623401,623401 Cadeaux à la clientèle R62300,65278,false,623401 Cadeaux à la clientèle R62300,623401,623,623401,623,6XXXXX,PNL_00150
+351,621100,621100,621100 Personnel intérimaire,65278,false,621100 Personnel intérimaire,621100,621,621100,910MS,6XXXXX,PNL_00131
+352,625700,625700,625700 Réceptions R62500,65278,false,625700 Réceptions R62500,625700,625,625700,625,625XXX,PNL_00157
+353,645210,645210,645210 MUTUELLE R64500,65278,false,645210 MUTUELLE R64500,645210,645,645210,420MS,6XXXXX,PNL_00131
+354,645330,645330,645330 URC-RETRAITE+APEC,65278,false,645330 URC-RETRAITE+APEC,645330,645,645330,220MS,6XXXXX,PNL_00131
+528,706300,706300,706300 Prestations de service R70600,65278,false,706300 Prestations de service R70600,706300,706,706300,999MS,7XXXXX,PNL_00131
+355,623400,623400,623400 Relations Publiques R62300,65278,false,623400 Relations Publiques R62300,623400,623,623400,623,623XXX,PNL_00150
+356,611xxx,611XXX,"611XXX Prestation, hors conseil",65278,false,"611XXX Prestation, hors conseil",611XXX,611,611XXX,611,,
+357,666011,666011,666011 RXD s/emprunts - PERTE R66600,65278,false,666011 RXD s/emprunts - PERTE R66600,666011,666,666011,666,6XXXXX,PNL_00150
+358,666010,666010,666010 RXD s/emprunts - PERTE (réaffect.) R66600,65278,false,666010 RXD s/emprunts - PERTE (réaffect.) R66600,666010,666,666010,666,6XXXXX,PNL_00150
+360,658510,658510,658510 charges externalisation CREA IFC R65800,65278,false,658510 charges externalisation CREA IFC R65800,658510,658,658510,658,6XXXXX,PNL_00150
+361,611300,611300,611300 Services de bureau & administration sous-traités R61100,65278,false,611300 Services de bureau & administration sous-traités R61100,611300,611,611300,611,611XXX,PNL_00166
+8,699990,699990,699990 Comptes techniques Charges CS9999,65278,false,699990 Comptes techniques Charges CS9999,699990,699,699990,699,6XXXXX,SAP_T6999
+363,666041,666041,666041 RXD s/tiers - PERTE R66600,65278,false,666041 RXD s/tiers - PERTE R66600,666041,666,666041,666,6XXXXX,PNL_00150
+364,645100,645100,645100 Sécurité Sociale-Cotisation sté pour personnel nat R64500,65278,false,645100 Sécurité Sociale-Cotisation sté pour personnel nat R64500,645100,645,645100,210MS,6XXXXX,PNL_00131
+365,666040,666040,666040 RXD s/tiers - PERTE (réaffect.) R66600,65278,false,666040 RXD s/tiers - PERTE (réaffect.) R66600,666040,666,666040,666,6XXXXX,PNL_00150
+366,668100,668100,668100 Autres charges financières R66820,65278,false,668100 Autres charges financières R66820,668100,668,668100,668,6XXXXX,PNL_00150
+367,603901,603901,603901 Peinture R60310,65278,false,603901 Peinture R60310,603901,603,603901,603,6XXXXX,PNL_00150
+368,645340,645340,645340 URRPIMMEC,65278,false,645340 URRPIMMEC,645340,645,645340,430MS,6XXXXX,PNL_00131
+369,706701,706701,706701 Complément investissement Lacal R70600,65278,false,706701 Complément investissement Lacal R70600,706701,706,706701,706,7XXXXX,PNL_00150
+370,706702,706702,706702 Exploitation Lacal R70600,65278,false,706702 Exploitation Lacal R70600,706702,706,706702,706,7XXXXX,PNL_00150
+21,641420,641420,641420 Indemn. transport,65278,false,641420 Indemn. transport,641420,641,641420,520MS,6XXXXX,PNL_00131
+1144,661425,661425,661425 Intérêts emprunts Bond 2020 TR,65278,false,661425 Intérêts emprunts Bond 2020 TR,661425,661,661425,661,6XXXXX,PNL_00179
+1,615230,615230,615230 Bureaux-Batiments R61500,65278,false,615230 Bureaux-Batiments R61500,615230,615,615230,615,6XXXXX,PNL_00150
+2,678800,678800,678800 Charges exceptionnelles diverses R67800,65278,false,678800 Charges exceptionnelles diverses R67800,678800,678,678800,678,6XXXXX,PNL_00150
+3,649000,649000,649000 Produit Impôt CICE R64800,65278,false,649000 Produit Impôt CICE R64800,649000,649,649000,101MS,6XXXXX,PNL_00131
+5,618500,618500,618500 Frais de Colloques - Séminaires - Conférences R61800,65278,false,618500 Frais de Colloques - Séminaires - Conférences R61800,618500,618,618500,618,618XXX,PNL_00150
+6,606520,606520,606520 Equipement et pièces détachées informatiques R60600,65278,false,606520 Equipement et pièces détachées informatiques R60600,606520,606,606520,606,605XXX,PNL_00150
+9,606400,606400,606400 Fournitures de bureau R60600,65278,false,606400 Fournitures de bureau R60600,606400,606,606400,606,606XXX,PNL_00150
+11,787250,787250,787250 Reprises Amortissements dérogatoires R78720,65278,false,787250 Reprises Amortissements dérogatoires R78720,787250,787,787250,787,7XXXXX,PNL_00175
+13,616430,616430,616430 Package / puits R61600,65278,false,616430 Package / puits R61600,616430,616,616430,616,6XXXXX,PNL_00150
+14,764000,764000,764000 Revenus des valeurs mobilières de placement R76400,65278,false,764000 Revenus des valeurs mobilières de placement R76400,764000,764,764000,764,7XXXXX,PNL_00177
+15,766300,766300,766300 Commission sur option de devise R76600,65278,false,766300 Commission sur option de devise R76600,766300,766,766300,766,7XXXXX,PNL_00150
+16,603480,603480,603480 Équipement et PDR d'instrumentation R60310,65278,false,603480 Équipement et PDR d'instrumentation R60310,603480,603,603480,603,6XXXXX,PNL_00150
+19,752000,752000,752000 Revenu des Immeubles non Prof. R75800,65278,false,752000 Revenu des Immeubles non Prof. R75800,752000,752,752000,752,7XXXXX,PNL_00150
+20,616420,616420,616420 Risques industriels R61600,65278,false,616420 Risques industriels R61600,616420,616,616420,616,6XXXXX,PNL_00150
+22,614000,614000,614000 Charges locatives et de copropriété R61300,65278,false,614000 Charges locatives et de copropriété R61300,614000,614,614000,614,6XXXXX,PNL_00150
+23,626100,626100,626100 Services postaux R62600,65278,false,626100 Services postaux R62600,626100,626,626100,626,6XXXXX,PNL_00150
+26,606500,606500,606500 Licences et logiciels R60600,65278,false,606500 Licences et logiciels R60600,606500,606,606500,606,6135XY,PNL_00150
+27,641415,641415,641415 Personnel - indemnité d'installation R64100,65278,false,641415 Personnel - indemnité d'installation R64100,641415,641,641415,510MS,6XXXXX,PNL_00131
+28,605xxx,605XXX,605XXX Matériel,65278,false,605XXX Matériel,605XXX,605,605XXX,605,,
+34,603220,603220,603220 Matériel de laboratoire R60310,65278,false,603220 Matériel de laboratoire R60310,603220,603,603220,603,6XXXXX,PNL_00150
+35,628100,628100,628100 Cotisations R62700,65278,false,628100 Cotisations R62700,628100,628,628100,628,628100,PNL_00205
+36,603580,603580,603580 Équipement et pièces de rechange sous-marins R60310,65278,false,603580 Équipement et pièces de rechange sous-marins R60310,603580,603,603580,603,6XXXXX,PNL_00150
+37,641301,641301,641301 Personnel - Prime 13e mois R64100,65278,false,641301 Personnel - Prime 13e mois R64100,641301,641,641301,110MS,6XXXXX,PNL_00131
+38,651100,651100,"651100 Redevances concessions,brevets,licences R65800",65278,false,"651100 Redevances concessions,brevets,licences R65800",651100,651,651100,651,6135XY,PNL_00150
+39,675650,675650,675650 Valeur compt immo financières cédées-Hors Groupe R67800,65278,false,675650 Valeur compt immo financières cédées-Hors Groupe R67800,675650,675,675650,675,6XXXXX,PNL_00150
+731,104200,104200,104200 Prime de fusion,65278,false,104200 Prime de fusion,104200,10,104200,10,,BSH_00022
+40,641300,641300,641300 Personnel - primes annuelles R64100,65278,false,641300 Personnel - primes annuelles R64100,641300,641,641300,130MS,6XXXXX,PNL_00131
+42,603100,603100,603100 Équipement et pièces de rechange de tête de puits R60310,65278,false,603100 Équipement et pièces de rechange de tête de puits R60310,603100,603,603100,603,6XXXXX,PNL_00150
+43,641302,641302,641302 Personnel - prime unité de performance R64100,65278,false,641302 Personnel - prime unité de performance R64100,641302,641,641302,150MS,6XXXXX,PNL_00131
+47,695000,695000,695000 Impôt/bénéfices R69500,65278,false,695000 Impôt/bénéfices R69500,695000,695,695000,695,6XXXXX,PNL_00184
+50,781501,781501,781501 Rep prov médailles du travail R78160,65278,false,781501 Rep prov médailles du travail R78160,781501,781,781501,781,7XXXXX,PNL_00190
+53,641440,641440,641440 Personnel - Indemnités journalières R64100,65278,false,641440 Personnel - Indemnités journalières R64100,641440,641,641440,110MS,6XXXXX,PNL_00131
+54,641200,641200,641200 Personnel - congés payés,65278,false,641200 Personnel - congés payés,641200,641,641200,120MS,6XXXXX,PNL_00131
+337,645320,645320,645320 CREA R64500,65278,false,645320 CREA R64500,645320,645,645320,999MS,6XXXXX,PNL_00131
+24,791400,791400,791400 TCE URRPIMMEC R79100,65278,false,791400 TCE URRPIMMEC R79100,791400,791,791400,999MS,7XXXXX,PNL_00131
+58,616400,616400,616400 Tous risques chantiers R61600,65278,false,616400 Tous risques chantiers R61600,616400,616,616400,616,6XXXXX,PNL_00150
+59,740000,740000,740000 Subvention d'exploitation R74000,65278,false,740000 Subvention d'exploitation R74000,740000,740,740000,740,7XXXXX,PNL_00150
+60,791300,791300,791300 TCE encaissements IJ R79100,65278,false,791300 TCE encaissements IJ R79100,791300,791,791300,121MS,7XXXXX,PNL_00131
+61,615549,615549,"615549 Travaux de chaudronnerie, tuyauterie, robinetterie R61500",65278,false,"615549 Travaux de chaudronnerie, tuyauterie, robinetterie R61500",615549,615,615549,615,6XXXXX,PNL_00150
+62,654400,654400,654400 Pertes sur créances irrécouvrables des exercices a R65800,65278,false,654400 Pertes sur créances irrécouvrables des exercices a R65800,654400,654,654400,654,6XXXXX,PNL_00150
+63,763000,763000,763000 Produits Bancaires R76200,65278,false,763000 Produits Bancaires R76200,763000,763,763000,763,7XXXXX,PNL_00150
+66,603210,603210,603210 Essence et diesel (stock) R60310,65278,false,603210 Essence et diesel (stock) R60310,603210,603,603210,603,6XXXXX,PNL_00150
+68,698100,698100,698100 Intégration fiscale-Charges R69800,65278,false,698100 Intégration fiscale-Charges R69800,698100,698,698100,698,6XXXXX,PNL_00184
+69,641330,641330,641330 IFC,65278,false,641330 IFC,641330,641,641330,540MS,6XXXXX,PNL_00131
+70,641450,641450,641450 Prime de Licenciement R64100,65278,false,641450 Prime de Licenciement R64100,641450,641,641450,112MS,6XXXXX,PNL_00131
+71,615540,615540,615540 Entretien et réparations - installtions techniques R61500,65278,false,615540 Entretien et réparations - installtions techniques R61500,615540,615,615540,615,6XXXXX,PNL_00150
+72,641211,641211,641211 Prime de scolarité R64100,65278,false,641211 Prime de scolarité R64100,641211,641,641211,530MS,6XXXXX,PNL_00131
+73,625100,625100,625100 Frais de déplacement R62500,65278,false,625100 Frais de déplacement R62500,625100,625,625100,625,625XXX,PNL_00150
+74,641210,641210,641210 Personnel - prime départ en vacances R64100,65278,false,641210 Personnel - prime départ en vacances R64100,641210,641,641210,530MS,6XXXXX,PNL_00131
+75,615542,615542,615542 Entretien et réparations - Soudures R61500,65278,false,615542 Entretien et réparations - Soudures R61500,615542,615,615542,615,6XXXXX,PNL_00150
+91,603201,603201,603201 Variation des stocks - Gaz R60310,65278,false,603201 Variation des stocks - Gaz R60310,603201,603,603201,603,6XXXXX,PNL_00150
+92,602110,602110,602110 Différences de prix sur achats stockés (Pertes) R60100,65278,false,602110 Différences de prix sur achats stockés (Pertes) R60100,602110,602,602110,602,6XXXXX,PNL_00150
+94,603202,603202,603202 Variation Fournitures magasin R60310,65278,false,603202 Variation Fournitures magasin R60310,603202,603,603202,603,6XXXXX,PNL_00150
+95,641201,641201,641201 Personnel transfert solde ind. R64100,65278,false,641201 Personnel transfert solde ind. R64100,641201,641,641201,999MS,6XXXXX,PNL_00131
+98,641445,641445,641445 Indemnités de mise à la retraite et départ négocié R64100,65278,false,641445 Indemnités de mise à la retraite et départ négocié R64100,641445,641,641445,111MS,6XXXXX,PNL_00131
+163,611700,611700,611700 Mise à disposition réseau R61100,65278,false,611700 Mise à disposition réseau R61100,611700,611,611700,611,6XXXXX,PNL_00150
+106,666400,666400,666400 Pertes change sur matériel en stock-compte SAP R66600,65278,false,666400 Pertes change sur matériel en stock-compte SAP R66600,666400,666,666400,666,6XXXXX,PNL_00150
+109,707310,707310,707310 Ventes de Gaz non produit - négoce R70700,65278,false,707310 Ventes de Gaz non produit - négoce R70700,707310,707,707310,707,7XXXXX,PNL_00150
+110,708400,708400,708400 Personnel détaché R70810,65278,false,708400 Personnel détaché R70810,708400,708,708400,920MS,7XXXXX,PNL_00131
+111,6135yy,6135YY,6135YY Consommation infra cloud,65278,false,6135YY Consommation infra cloud,6135YY,613,6135YY,613,,
+112,615537,615537,615537 Amenagements infrastructures R61500,65278,false,615537 Amenagements infrastructures R61500,615537,615,615537,615,6XXXXX,PNL_00150
+113,615536,615536,"615536 Environnement, nettoyage, traitement R61500",65278,false,"615536 Environnement, nettoyage, traitement R61500",615536,615,615536,615,6XXXXX,PNL_00150
+114,615xxx,615XXX,615XXX Entretiens et réparations du matériel informatique,65278,false,615XXX Entretiens et réparations du matériel informatique,615XXX,615,615XXX,615,,
+115,61321x,61321X,61321X Location de bureaux,65278,false,61321X Location de bureaux,61321X,613,61321X,613,6XXXXX,
+117,763100,763100,763100 Intérêts sur retard de paiement R76200,65278,false,763100 Intérêts sur retard de paiement R76200,763100,763,763100,763,7XXXXX,PNL_00179
+119,791200,791200,791200 TCE sinistres réseau R79100,65278,false,791200 TCE sinistres réseau R79100,791200,791,791200,791,7XXXXX,PNL_00150
+120,602100,602100,602100 Différences prix/achats stockés - cpte SAP R60100,65278,false,602100 Différences prix/achats stockés - cpte SAP R60100,602100,602,602100,602,6XXXXX,PNL_00150
+121,606821,606821,606821 Achats Charbon Actif R60600,65278,false,606821 Achats Charbon Actif R60600,606821,606,606821,606,6XXXXX,PNL_00150
+123,641455,641455,641455 Personnel - Intéressement R64800,65278,false,641455 Personnel - Intéressement R64800,641455,641,641455,720MS,6XXXXX,PNL_00131
+125,602102,602102,602102 Swaps (achats de gaz) R60100,65278,false,602102 Swaps (achats de gaz) R60100,602102,602,602102,602,6XXXXX,PNL_00150
+127,602101,602101,602101 Achats de gaz R60100,65278,false,602101 Achats de gaz R60100,602101,602,602101,602,6XXXXX,PNL_00150
+157,611706,611706,611706 Entretien des locaux R61100,65278,false,611706 Entretien des locaux R61100,611706,611,611706,611,6XXXXX,PNL_00150
+158,611705,611705,"611705 Etudes,conseil,ingenieurie R61100",65278,false,"611705 Etudes,conseil,ingenieurie R61100",611705,611,611705,611,611XXX,PNL_00165
+159,611704,611704,611704 Etudes juridiques/fiscales R61100,65278,false,611704 Etudes juridiques/fiscales R61100,611704,611,611704,611,611XXX,PNL_00165
+160,611703,611703,611703 Sécurité Lacq R61100,65278,false,611703 Sécurité Lacq R61100,611703,611,611703,611,6XXXXX,PNL_00150
+537,603750,603750,603750 Outillage (stock) R60310,65278,false,603750 Outillage (stock) R60310,603750,603,603750,603,6XXXXX,PNL_00150
+161,796000,796000,796000 Transfert de charges financières R79600,65278,false,796000 Transfert de charges financières R79600,796000,796,796000,796,7XXXXX,PNL_00150
+162,611701,611701,611701 Topographie / domanial R61100,65278,false,611701 Topographie / domanial R61100,611701,611,611701,611,6XXXXX,PNL_00150
+165,606120,606120,606120 Fournitures - gaz R60600,65278,false,606120 Fournitures - gaz R60600,606120,606,606120,606,6XXXXX,PNL_00150
+166,661402,661402,661402 Intérêts emprunts Total 2 R66110,65278,false,661402 Intérêts emprunts Total 2 R66110,661402,661,661402,661,6XXXXX,PNL_00150
+167,661401,661401,661401 Intérêts emprunts Groupe R66110,65278,false,661401 Intérêts emprunts Groupe R66110,661401,661,661401,661,6XXXXX,PNL_00150
+168,661404,661404,661404 Intérêts compte courant Groupe R66110,65278,false,661404 Intérêts compte courant Groupe R66110,661404,661,661404,661,6XXXXX,PNL_00150
+170,661403,661403,661403 Intérêts emprunts Total 3 R66110,65278,false,661403 Intérêts emprunts Total 3 R66110,661403,661,661403,661,6XXXXX,PNL_00150
+178,661406,661406,661406 Intérêts emprunts Total 6000006 R66110,65278,false,661406 Intérêts emprunts Total 6000006 R66110,661406,661,661406,661,6XXXXX,PNL_00150
+179,661405,661405,661405 Intérêts emprunts Total 6000005 R66110,65278,false,661405 Intérêts emprunts Total 6000005 R66110,661405,661,661405,661,6XXXXX,PNL_00150
+180,626xxx,626XXX,626XXX Abonnements et consommation télécom,65278,false,626XXX Abonnements et consommation télécom,626XXX,626,626XXX,626,,
+181,661408,661408,661408 Intérêts emprunts Total 6000008 R66110,65278,false,661408 Intérêts emprunts Total 6000008 R66110,661408,661,661408,661,6XXXXX,PNL_00150
+182,791900,791900,791900 Transferts engagements sociaux R79100,65278,false,791900 Transferts engagements sociaux R79100,791900,791,791900,791,7XXXXX,PNL_00150
+213,661420,661420,661420 Intérêts Emprunt Bond 2015 Stockage R66110,65278,false,661420 Intérêts Emprunt Bond 2015 Stockage R66110,661420,661,661420,661,6XXXXX,PNL_00150
+214,766010,766010,766010 RXD s/emprunts - GAIN (réaffect.) R76600,65278,false,766010 RXD s/emprunts - GAIN (réaffect.) R76600,766010,766,766010,766,7XXXXX,PNL_00150
+216,766011,766011,766011 RXD s/emprunts - GAIN R76600,65278,false,766011 RXD s/emprunts - GAIN R76600,766011,766,766011,766,7XXXXX,PNL_00150
+218,607310,607310,607310 Achat de gaz R60700,65278,false,607310 Achat de gaz R60700,607310,607,607310,607,6XXXXX,PNL_00150
+219,661422,661422,661422 Intérêts Emprunt RCF 2015 Stockage R66110,65278,false,661422 Intérêts Emprunt RCF 2015 Stockage R66110,661422,661,661422,661,6XXXXX,PNL_00150
+220,661300,661300,661300 Intérêts emprunts sur ORA R66110 Non Oui Non,65278,false,661300 Intérêts emprunts sur ORA R66110 Non Oui Non,661300,661,661300,661,6XXXXX,PNL_00178
+164,681140,681140,681140 Dot Amort constructions /sol d'autrui-prouvé R68112,65278,false,681140 Dot Amort constructions /sol d'autrui-prouvé R68112,681140,681,681140,681,6XXXXX,PNL_00171
+222,635140,635140,635140 Taxes sur les véhicules de société R63700,65278,false,635140 Taxes sur les véhicules de société R63700,635140,635,635140,635,6XXXXX,PNL_00150
+226,713400,713400,713400 Variation en-cours Services R71000,65278,false,713400 Variation en-cours Services R71000,713400,713,713400,713,7XXXXX,PNL_00150
+227,671200,671200,"671200 Pénalités, amendes fiscales et pénales R67800",65278,false,"671200 Pénalités, amendes fiscales et pénales R67800",671200,671,671200,671,6XXXXX,PNL_00150
+228,675800,675800,675800 Valeur compt autres él. actifs mis au rebut/cédés R67800,65278,false,675800 Valeur compt autres él. actifs mis au rebut/cédés R67800,675800,675,675800,675,6XXXXX,PNL_00150
+229,616250,616250,616250 Assurance - TSU & cargaison maritime R61600,65278,false,616250 Assurance - TSU & cargaison maritime R61600,616250,616,616250,616,6XXXXX,PNL_00150
+230,698900,698900,698900 Intégration fiscale-Produits R69800 Non Non Oui,65278,false,698900 Intégration fiscale-Produits R69800 Non Non Oui,698900,698,698900,698,6XXXXX,PNL_00150
+234,661412,661412,661412 Intérêts emprunts STOCKAGE R66110,65278,false,661412 Intérêts emprunts STOCKAGE R66110,661412,661,661412,661,6XXXXX,PNL_00150
+244,606210,606210,606210 Gasoil et diesel R60600,65278,false,606210 Gasoil et diesel R60600,606210,606,606210,606,6XXXXX,PNL_00150
+245,661411,661411,661411 Intérêts emprunts TRANSPORT R66110,65278,false,661411 Intérêts emprunts TRANSPORT R66110,661411,661,661411,661,6XXXXX,PNL_00150
+247,766001,766001,766001 Gains de change réalisés RXD -cpte technique SAP R76600,65278,false,766001 Gains de change réalisés RXD -cpte technique SAP R76600,766001,766,766001,766,7XXXXX,PNL_00150
+249,661410,661410,661410 Intérêts emprunts Total 6000010 R66110,65278,false,661410 Intérêts emprunts Total 6000010 R66110,661410,661,661410,661,6XXXXX,PNL_00150
+251,603068,603068,603068 Couronnes de carottier R60310,65278,false,603068 Couronnes de carottier R60310,603068,603,603068,603,6XXXXX,PNL_00150
+252,661417,661417,661417 Intérêts Emprunt obligataire Transport R66110,65278,false,661417 Intérêts Emprunt obligataire Transport R66110,661417,661,661417,661,6XXXXX,PNL_00150
+253,661416,661416,661416 Intérêts emprunts bancaires STOCKAGE R66110,65278,false,661416 Intérêts emprunts bancaires STOCKAGE R66110,661416,661,661416,661,6XXXXX,PNL_00150
+254,661419,661419,661419 Intérêts Emprunt Bond 2015 Transport R66110,65278,false,661419 Intérêts Emprunt Bond 2015 Transport R66110,661419,661,661419,661,6XXXXX,PNL_00150
+374,758100,758100,758100 Gains sur écart de règlement clients R75800,65278,false,758100 Gains sur écart de règlement clients R75800,758100,758,758100,758,7XXXXX,PNL_00167
+256,622800,622800,622800 Honoraires et commissions R62200,65278,false,622800 Honoraires et commissions R62200,622800,622,622800,622,6XXXXX,PNL_00150
+257,661418,661418,661418 Intérêts Emprunt euro PP Stockage R66110,65278,false,661418 Intérêts Emprunt euro PP Stockage R66110,661418,661,661418,661,6XXXXX,PNL_00150
+225,791800,791800,791800 TCE Divers R79100,65278,false,791800 TCE Divers R79100,791800,791,791800,121MS,7XXXXX,PNL_00131
+264,661204,661204,661204 Intérêts emprunts BNP/PARIBAS R66110,65278,false,661204 Intérêts emprunts BNP/PARIBAS R66110,661204,661,661204,661,6XXXXX,PNL_00150
+267,661206,661206,661206 Intérêts emprunts Crédit Mutuel R66110,65278,false,661206 Intérêts emprunts Crédit Mutuel R66110,661206,661,661206,661,6XXXXX,PNL_00150
+268,603170,603170,603170 Mat puits souter-Compl R60310,65278,false,603170 Mat puits souter-Compl R60310,603170,603,603170,603,6XXXXX,PNL_00150
+269,661205,661205,661205 Intérêts emprunts Barclays 4 R66110,65278,false,661205 Intérêts emprunts Barclays 4 R66110,661205,661,661205,661,6XXXXX,PNL_00150
+270,791820,791820,791820 TCE ASSEDIC R79100,65278,false,791820 TCE ASSEDIC R79100,791820,791,791820,791,7XXXXX,PNL_00150
+271,603296,603296,603296 Fabrications - Stock Change Serv. Ext. R60310,65278,false,603296 Fabrications - Stock Change Serv. Ext. R60310,603296,603,603296,603,6XXXXX,PNL_00150
+272,661200,661200,661200 Intérêts emprunts R66100 Non Oui Non,65278,false,661200 Intérêts emprunts R66100 Non Oui Non,661200,661,661200,661,6XXXXX,PNL_00180
+275,603297,603297,603297 Mise au rebut R60310,65278,false,603297 Mise au rebut R60310,603297,603,603297,603,6XXXXX,PNL_00150
+276,661202,661202,661202 Intérêts emprunts CA 2 R66100,65278,false,661202 Intérêts emprunts CA 2 R66100,661202,661,661202,661,6XXXXX,PNL_00150
+277,603295,603295,603295 Fabrication - Consommations Serv. Ext R60310,65278,false,603295 Fabrication - Consommations Serv. Ext R60310,603295,603,603295,603,6XXXXX,PNL_00150
+278,661201,661201,661201 Intérêts emprunts CA 1 R66100,65278,false,661201 Intérêts emprunts CA 1 R66100,661201,661,661201,661,6XXXXX,PNL_00150
+280,768410,768410,768410 Intérêts USD compte courant Groupe R76820,65278,false,768410 Intérêts USD compte courant Groupe R76820,768410,768,768410,768,7XXXXX,PNL_00150
+282,603298,603298,603298 Stock Inventory Differences R60310,65278,false,603298 Stock Inventory Differences R60310,603298,603,603298,603,6XXXXX,PNL_00150
+283,791700,791700,791700 TCE AGF (CREA) R79100,65278,false,791700 TCE AGF (CREA) R79100,791700,791,791700,791,7XXXXX,PNL_00150
+295,604012,604012,604012 Amenagements infrastructures R60400,65278,false,604012 Amenagements infrastructures R60400,604012,604,604012,604,6XXXXX,PNL_00150
+299,604010,604010,604010 Travaux d'instrumentation R60400,65278,false,604010 Travaux d'instrumentation R60400,604010,604,604010,604,6XXXXX,PNL_00150
+300,628400,628400,628400 Frais de recrutement R62800,65278,false,628400 Frais de recrutement R62800,628400,628,628400,628,6XXXXX,PNL_00154
+301,638200,638200,638200 Charges fiscales exercices antérieurs R63700,65278,false,638200 Charges fiscales exercices antérieurs R63700,638200,638,638200,638,6XXXXX,PNL_00130
+302,604013,604013,"604013 Environnement, nettoyage, traitement R60400",65278,false,"604013 Environnement, nettoyage, traitement R60400",604013,604,604013,604,6XXXXX,PNL_00150
+303,604014,604014,604014 Travaux sur puits R60400,65278,false,604014 Travaux sur puits R60400,604014,604,604014,604,6XXXXX,PNL_00150
+304,672000,672000,672000 Charges exceptionnelles / exercices antérieurs R67800,65278,false,672000 Charges exceptionnelles / exercices antérieurs R67800,672000,672,672000,672,6XXXXX,PNL_00150
+305,615250,615250,615250 Entretien et réparations - habitations R61500,65278,false,615250 Entretien et réparations - habitations R61500,615250,615,615250,615,6XXXXX,PNL_00150
+306,651300,651300,651300 Redevances occupation domaine public R65800,65278,false,651300 Redevances occupation domaine public R65800,651300,651,651300,651,6XXXXX,PNL_00150
+307,616100,616100,616100 Responsabilité civile R61600,65278,false,616100 Responsabilité civile R61600,616100,616,616100,616,6XXXXX,PNL_00150
+371,706703,706703,706703 Intérêts Filacal R70600,65278,false,706703 Intérêts Filacal R70600,706703,706,706703,706,7XXXXX,PNL_00150
+373,758101,758101,758101 Arrondi-produits R75800,65278,false,758101 Arrondi-produits R75800,758101,758,758101,758,7XXXXX,PNL_00150
+375,658300,658300,658300 Autres charges de gestion courante R65800,65278,false,658300 Autres charges de gestion courante R65800,658300,658,658300,658,6XXXXX,PNL_00150
+376,635301,635301,635301 Frais d'approche / Douanes Stockés R63700,65278,false,635301 Frais d'approche / Douanes Stockés R63700,635301,635,635301,635,6XXXXX,PNL_00150
+377,635300,635300,635300 Frais d'approche / Douanes non Stockés R63700,65278,false,635300 Frais d'approche / Douanes non Stockés R63700,635300,635,635300,635,6XXXXX,PNL_00150
+378,7xxxxx,7XXXXX,7XXXXX - Produits,65278,false,7XXXXX - Produits,7XXXXX,7,7XXXXX,7,,
+379,622xxx,622XXX,622XXX Conseil,65278,false,622XXX Conseil,622XXX,622,622XXX,622,,
+380,627800,627800,627800 Frais et commissions bancaires R62700,65278,false,627800 Frais et commissions bancaires R62700,627800,627,627800,627,6XXXXX,PNL_00167
+381,623500,623500,623500 Objets publicitaires R62300,65278,false,623500 Objets publicitaires R62300,623500,623,623500,623,6XXXXX,PNL_00150
+382,648500,648500,648500 Abondement PEC,65278,false,648500 Abondement PEC,648500,648,648500,310MS,6XXXXX,PNL_00131
+384,606290,606290,606290 Fournitures de sécurité et vétements de protection R60600,65278,false,606290 Fournitures de sécurité et vétements de protection R60600,606290,606,606290,606,6XXXXX,PNL_00150
+392,624700,624700,624700 Transport du personnel du groupe R62400,65278,false,624700 Transport du personnel du groupe R62400,624700,624,624700,624,618XXX,PNL_00150
+25,641410,641410,641410 Personnel - indemnité de résidence R64100,65278,false,641410 Personnel - indemnité de résidence R64100,641410,641,641410,510MS,6XXXXX,PNL_00131
+393,666061,666061,666061 Pertes Provisoires de RXD R66600,65278,false,666061 Pertes Provisoires de RXD R66600,666061,666,666061,666,6XXXXX,PNL_00150
+400,611505,611505,611505 Prestation de TGE Gaz coussin R61100,65278,false,611505 Prestation de TGE Gaz coussin R61100,611505,611,611505,611,6XXXXX,PNL_00150
+401,611504,611504,611504 Assistance micro informatique R61100,65278,false,611504 Assistance micro informatique R61100,611504,611,611504,611,611XXX,PNL_00148
+402,611503,611503,611503 Assistance et Maintenance des logiciels R61100,65278,false,611503 Assistance et Maintenance des logiciels R61100,611503,611,611503,611,611XXX,PNL_00150
+404,611502,611502,611502 Etude de développements informatiques R61100,65278,false,611502 Etude de développements informatiques R61100,611502,611,611502,611,611XXX,PNL_00150
+405,611501,611501,611501 Frais de transit R61100,65278,false,611501 Frais de transit R61100,611501,611,611501,611,6XXXXX,PNL_00150
+177,638,638,638 Autres charges,65278,false,638 Autres charges,638,63,638,63,,
+448,70,70,"70 Ventes, Prestations",65278,false,"70 Ventes, Prestations",70,7,70,7,,
+449,71,71,71 Production stockée,65278,false,71 Production stockée,71,7,71,7,,
+407,658200,658200,658200 Revalorisation Stock gain R65800,65278,false,658200 Revalorisation Stock gain R65800,658200,658,658200,658,6XXXXX,PNL_00150
+408,671300,671300,"671300 Dons, libéralités R67800",65278,false,"671300 Dons, libéralités R67800",671300,671,671300,671,6XXXXX,PNL_00150
+409,666051,666051,666051 RXD s/banques - PERTE R66600,65278,false,666051 RXD s/banques - PERTE R66600,666051,666,666051,666,6XXXXX,PNL_00181
+410,666050,666050,666050 RXD s/banques - PERTE (réaffect.) R66600,65278,false,666050 RXD s/banques - PERTE (réaffect.) R66600,666050,666,666050,666,6XXXXX,PNL_00150
+412,648400,648400,648400 Personnel - tickets de repas,65278,false,648400 Personnel - tickets de repas,648400,648,648400,550MS,6XXXXX,PNL_00131
+413,722000,722000,722000 Immo corporelles produites/financées par la sté R72000,65278,false,722000 Immo corporelles produites/financées par la sté R72000,722000,722,722000,722,7XXXXX,PNL_00150
+414,606390,606390,606390 Fournitures techniques/matières consommables techn R60600,65278,false,606390 Fournitures techniques/matières consommables techn R60600,606390,606,606390,606,6XXXXX,PNL_00150
+419,766061,766061,766061 Gains Provisoires de RXD R76600,65278,false,766061 Gains Provisoires de RXD R76600,766061,766,766061,766,7XXXXX,PNL_00150
+421,768000,768000,768000 Intérêts bancaires reçus R76820,65278,false,768000 Intérêts bancaires reçus R76820,768000,768,768000,768,7XXXXX,PNL_00150
+427,766060,766060,766060 RXD gai sur Billing de l'opérateur R76600,65278,false,766060 RXD gai sur Billing de l'opérateur R76600,766060,766,766060,766,7XXXXX,PNL_00150
+431,621410,621410,621410 Personnel du groupe - Résident,65278,false,621410 Personnel du groupe - Résident,621410,621,621410,920MS,6XXXXX,PNL_00131
+434,648410,648410,648410 Personnel-cantines,65278,false,648410 Personnel-cantines,648410,648,648410,550MS,6XXXXX,PNL_00131
+436,611605,611605,611605 Pression de livraison R61100,65278,false,611605 Pression de livraison R61100,611605,611,611605,611,6XXXXX,PNL_00150
+437,611603,611603,611603 Gardiennage/surveillance R61100,65278,false,611603 Gardiennage/surveillance R61100,611603,611,611603,611,6XXXXX,PNL_00150
+438,702300,702300,702300 Ventes de Gaz Naturel R70700,65278,false,702300 Ventes de Gaz Naturel R70700,702300,702,702300,702,7XXXXX,PNL_00150
+440,611600,611600,611600 Frais de stockage (inter) R61100,65278,false,611600 Frais de stockage (inter) R61100,611600,611,611600,611,6XXXXX,PNL_00150
+441,608200,608200,608200 Coûts supplémentaires intégrés aux achats stockés R60500,65278,false,608200 Coûts supplémentaires intégrés aux achats stockés R60500,608200,608,608200,608,6XXXXX,PNL_00150
+442,658102,658102,658102 Petites différences R65800,65278,false,658102 Petites différences R65800,658102,658,658102,658,6XXXXX,PNL_00150
+17,6,6,6 - COMPTES DE CHARGES,65278,false,6 - COMPTES DE CHARGES,6,Nature_Total,6,Nature_Total,,
+445,658100,658100,658100 Différences paiement arrondissement-compte SAP R65800,65278,false,658100 Différences paiement arrondissement-compte SAP R65800,658100,658,658100,658,6XXXXX,PNL_00167
+30,615560,615560,615560 Entretien et réparations - matériel informatique R61500,65278,false,615560 Entretien et réparations - matériel informatique R61500,615560,615,615560,615,615XXX,PNL_00150
+31,615561,615561,615561 Entretien et réparations - matériel télécom R61500,65278,false,615561 Entretien et réparations - matériel télécom R61500,615561,615,615561,615,615XXX,PNL_00150
+32,641430,641430,641430 Personnel - indemnité de cantine R64100,65278,false,641430 Personnel - indemnité de cantine R64100,641430,641,641430,550MS,6XXXXX,PNL_00131
+443,661500,661500,661500 Intérêts des comptes courants R66110,65278,false,661500 Intérêts des comptes courants R66110,661500,661,661500,661,6XXXXX,PNL_00180
+444,606140,606140,606140 Fournitures - eau R60600,65278,false,606140 Fournitures - eau R60600,606140,606,606140,606,6XXXXX,PNL_00150
+446,658101,658101,658101 Arrondi-charges R65800,65278,false,658101 Arrondi-charges R65800,658101,658,658101,658,6XXXXX,PNL_00150
+447,766050,766050,766050 RXD s/banques - GAIN (réaffect.) R76600,65278,false,766050 RXD s/banques - GAIN (réaffect.) R76600,766050,766,766050,766,7XXXXX,PNL_00150
+435,6xxxxx,6XXXXX,6XXXXX - Charges,65278,false,6XXXXX - Charges,6XXXXX,6,6XXXXX,Nature_MS,,
+461,648540,648540,648540 Abondement PEE R64800,65278,false,648540 Abondement PEE R64800,648540,648,648540,310MS,6XXXXX,PNL_00131
+462,606490,606490,606490 Fournitures & matières consommables non technique R60600,65278,false,606490 Fournitures & matières consommables non technique R60600,606490,606,606490,606,605XXX,PNL_00150
+463,611712,611712,611712 Prestations de services Intra-Groupe R61100,65278,false,611712 Prestations de services Intra-Groupe R61100,611712,611,611712,611,6XXXXX,PNL_00168
+464,611711,611711,611711 Gestion magasin & stockage R61100,65278,false,611711 Gestion magasin & stockage R61100,611711,611,611711,611,6XXXXX,PNL_00150
+465,611710,611710,611710 Aménagements de véhicules R61100,65278,false,611710 Aménagements de véhicules R61100,611710,611,611710,611,6XXXXX,PNL_00150
+466,611720,611720,611720 Utilisation réseau TR R61100,65278,false,611720 Utilisation réseau TR R61100,611720,611,611720,611,6XXXXX,PNL_00150
+467,606130,606130,606130 Fournitures - fuel de chauffage R60600,65278,false,606130 Fournitures - fuel de chauffage R60600,606130,606,606130,606,6XXXXX,PNL_00150
+468,658210,658210,658210 Revalorisation Stock Perte R65800,65278,false,658210 Revalorisation Stock Perte R65800,658210,658,658210,658,6XXXXX,PNL_00150
+469,681200,681200,681200 Dot Amortissement des charges à répartir R68120,65278,false,681200 Dot Amortissement des charges à répartir R68120,681200,681,681200,681,6XXXXX,PNL_00182
+471,635111,635111,635111 Cotisation foncière des Entreprises R63700,65278,false,635111 Cotisation foncière des Entreprises R63700,635111,635,635111,635,6XXXXX,PNL_00150
+473,635110,635110,635110 Taxe professionnelle R63700,65278,false,635110 Taxe professionnelle R63700,635110,635,635110,635,6XXXXX,PNL_00150
+474,635113,635113,635113 Impôt Forfaitaire sur les Exploitants de Réseau R63700,65278,false,635113 Impôt Forfaitaire sur les Exploitants de Réseau R63700,635113,635,635113,635,6XXXXX,PNL_00150
+475,635112,635112,635112 Cotisation sur la Valeur Ajoutée des Entreprises R63700,65278,false,635112 Cotisation sur la Valeur Ajoutée des Entreprises R63700,635112,635,635112,635,6XXXXX,PNL_00128
+477,766040,766040,766040 RXD s/tiers - GAIN (réaffect.) R76600,65278,false,766040 RXD s/tiers - GAIN (réaffect.) R76600,766040,766,766040,766,7XXXXX,PNL_00150
+478,766041,766041,766041 RXD s/tiers - GAIN R76600,65278,false,766041 RXD s/tiers - GAIN R76600,766041,766,766041,766,7XXXXX,PNL_00147
+479,691000,691000,691000 Participation des salariés aux résultats R69100,65278,false,691000 Participation des salariés aux résultats R69100,691000,691,691000,710MS,6XXXXX,PNL_00131
+480,706401,706401,706401 Recettes Gestion Opérationnelle R70600,65278,false,706401 Recettes Gestion Opérationnelle R70600,706401,706,706401,706,7XXXXX,PNL_00150
+481,706402,706402,706402 Recettes Capacité de Transport R70600,65278,false,706402 Recettes Capacité de Transport R70600,706402,706,706402,706,7XXXXX,PNL_00150
+482,706403,706403,706403 Equilibrage réseau R70600,65278,false,706403 Equilibrage réseau R70600,706403,706,706403,706,7XXXXX,PNL_00150
+483,706404,706404,706404 Point d'échange de gaz R70600,65278,false,706404 Point d'échange de gaz R70600,706404,706,706404,706,7XXXXX,PNL_00150
+484,706405,706405,706405 Service Equilibrage Transport (Flexibilité) R70600,65278,false,706405 Service Equilibrage Transport (Flexibilité) R70600,706405,706,706405,706,7XXXXX,PNL_00150
+485,706406,706406,706406 Reliquat contrats raccordement R70600,65278,false,706406 Reliquat contrats raccordement R70600,706406,706,706406,706,7XXXXX,PNL_00150
+486,750000,750000,750000 Autres produits opérationnels R75800,65278,false,750000 Autres produits opérationnels R75800,750000,750,750000,750,7XXXXX,PNL_00150
+487,613570,613570,613570 Location véhicules R61300,65278,false,613570 Location véhicules R61300,613570,613,613570,613,6XXXXX,PNL_00150
+41,702,702,702 Ventes de produits intermédiaires,65278,false,702 Ventes de produits intermédiaires,702,70,702,70,,
+76,615541,615541,615541 Genie civil R61500,65278,false,615541 Genie civil R61500,615541,615,615541,615,6XXXXX,PNL_00150
+77,615544,615544,615544 Entretien et réparations - Pose R61500,65278,false,615544 Entretien et réparations - Pose R61500,615544,615,615544,615,6XXXXX,PNL_00150
+78,615543,615543,615543 Entretien et réparations - Contrôles tech R61500,65278,false,615543 Entretien et réparations - Contrôles tech R61500,615543,615,615543,615,6XXXXX,PNL_00150
+79,615546,615546,615546 Entretien et réparations - Matériels et outillage R61500,65278,false,615546 Entretien et réparations - Matériels et outillage R61500,615546,615,615546,615,615XXX,PNL_00150
+80,615545,615545,615545 Revetements et isolations R61500,65278,false,615545 Revetements et isolations R61500,615545,615,615545,615,6XXXXX,PNL_00150
+81,615548,615548,615548 Travaux de mecanique R61500,65278,false,615548 Travaux de mecanique R61500,615548,615,615548,615,6XXXXX,PNL_00150
+82,615547,615547,615547 Travaux d'electricite R61500,65278,false,615547 Travaux d'electricite R61500,615547,615,615547,615,6XXXXX,PNL_00150
+83,615539,615539,615539 Travaux d'instrumentation R61500,65278,false,615539 Travaux d'instrumentation R61500,615539,615,615539,615,6XXXXX,PNL_00150
+84,615538,615538,615538 Travaux de charpentes R61500,65278,false,615538 Travaux de charpentes R61500,615538,615,615538,615,6XXXXX,PNL_00150
+85,603560,603560,603560 Machines motrices R60310,65278,false,603560 Machines motrices R60310,603560,603,603560,603,6XXXXX,PNL_00150
+86,603440,603440,603440 Équipement et pièces de rechange mécaniques R60310,65278,false,603440 Équipement et pièces de rechange mécaniques R60310,603440,603,603440,603,6XXXXX,PNL_00150
+88,603680,603680,603680 Bennes/containers (stock) R60310,65278,false,603680 Bennes/containers (stock) R60310,603680,603,603680,603,6XXXXX,PNL_00150
+488,706407,706407,706407 Achat/vente de gaz TR R70600,65278,false,706407 Achat/vente de gaz TR R70600,706407,706,706407,706,7XXXXX,PNL_00150
+489,613571,613571,613571 Location véhicules - de 6 mois R61300,65278,false,613571 Location véhicules - de 6 mois R61300,613571,613,613571,613,6XXXXX,PNL_00150
+490,624100,624100,624100 Transport sur achats R62400,65278,false,624100 Transport sur achats R62400,624100,624,624100,624,6XXXXX,PNL_00150
+491,706408,706408,706408 Pénalités Transport R70600,65278,false,706408 Pénalités Transport R70600,706408,706,706408,706,7XXXXX,PNL_00150
+492,613210,613210,613210 Location de bâtiments R61300,65278,false,613210 Location de bâtiments R61300,613210,613,613210,613,6XXXXX,PNL_00150
+493,613211,613211,613211 Location de bâtiments - de 6 mois R61300,65278,false,613211 Location de bâtiments - de 6 mois R61300,613211,613,613211,613,6XXXXX,PNL_00150
+494,666300,666300,666300 Commission due sur choix de devise R66600,65278,false,666300 Commission due sur choix de devise R66600,666300,666,666300,666,6XXXXX,PNL_00150
+495,706400,706400,706400 Recettes de raccordement R70600,65278,false,706400 Recettes de raccordement R70600,706400,706,706400,706,7XXXXX,PNL_00150
+496,633500,633500,633500 Vers.lib. ouvrant droit à l'exo de la taxe d'app.,65278,false,633500 Vers.lib. ouvrant droit à l'exo de la taxe d'app.,633500,633,633500,830MS,6XXXXX,PNL_00131
+497,791101,791101,791101 TCE sinistres véhicules R79100,65278,false,791101 TCE sinistres véhicules R79100,791101,791,791101,791,7XXXXX,PNL_00150
+498,603652,603652,603652 Equipements et PDR informatiques R60310,65278,false,603652 Equipements et PDR informatiques R60310,603652,603,603652,603,6XXXXX,PNL_00150
+499,602201,602201,602201 Fournitures magasin R60100,65278,false,602201 Fournitures magasin R60100,602201,602,602201,602,6XXXXX,PNL_00150
+500,603650,603650,603650 Matériels sécurité R60310,65278,false,603650 Matériels sécurité R60310,603650,603,603650,603,6XXXXX,PNL_00150
+552,645400,645400,645400 ASSEDIC,65278,false,645400 ASSEDIC,645400,645,645400,230MS,6XXXXX,PNL_00131
+505,775650,775650,775650 Pdts cession éléments actifs financ-hors Groupe R77561,65278,false,775650 Pdts cession éléments actifs financ-hors Groupe R77561,775650,775,775650,775,7XXXXX,PNL_00174
+502,706412,706412,706412 Odorisations R70600,65278,false,706412 Odorisations R70600,706412,706,706412,706,7XXXXX,PNL_00150
+503,706413,706413,706413 Interconnection R70600,65278,false,706413 Interconnection R70600,706413,706,706413,706,7XXXXX,PNL_00150
+504,641250,641250,641250 Personnel - CET R64100,65278,false,641250 Personnel - CET R64100,641250,641,641250,330MS,6XXXXX,PNL_00131
+506,613560,613560,613560 Location matériels techniques R61300,65278,false,613560 Location matériels techniques R61300,613560,613,613560,613,6XXXXX,PNL_00150
+508,613200,613200,613200 Location de terrains R61300,65278,false,613200 Location de terrains R61300,613200,613,613200,613,6XXXXX,PNL_00150
+87,601,601,601 Achats stockés-mat. Premières,65278,false,601 Achats stockés-mat. Premières,601,60,601,60,,
+134,641351,641351,641351 Prime de transport R64100,65278,false,641351 Prime de transport R64100,641351,641,641351,999MS,6XXXXX,PNL_00131
+130,675200,675200,675200 Valeur comptable immo corporelles cédées R67520,65278,false,675200 Valeur comptable immo corporelles cédées R67520,675200,675,675200,675,6XXXXX,PNL_00150
+133,699999,699999,699999 RM expenditure CS9999,65278,false,699999 RM expenditure CS9999,699999,699,699999,699,6XXXXX,PNL_00150
+135,6135xx,6135XX,6135XX Hébergement,65278,false,6135XX Hébergement,6135XX,613,6135XX,613,,
+136,6135xy,6135XY,6135XY Licence,65278,false,6135XY Licence,6135XY,613,6135XY,613,,
+141,603300,603300,603300 Equipement Production & Process R60310,65278,false,603300 Equipement Production & Process R60310,603300,603,603300,603,6XXXXX,PNL_00150
+142,606810,606810,606810 Aliments et boissons R60600,65278,false,606810 Aliments et boissons R60600,606810,606,606810,606,6XXXXX,PNL_00150
+145,603540,603540,603540 Appareils soumis à la flamme R60310,65278,false,603540 Appareils soumis à la flamme R60310,603540,603,603540,603,6XXXXX,PNL_00150
+149,606811,606811,606811 Achats THT/CO2 R60600,65278,false,606811 Achats THT/CO2 R60600,606811,606,606811,606,6XXXXX,PNL_00150
+150,799990,799990,799990 Comptes techniques Produits CS9999,65278,false,799990 Comptes techniques Produits CS9999,799990,799,799990,799,7XXXXX,PNL_00150
+151,651600,651600,651600 Droits d'auteur et reproduction R65800,65278,false,651600 Droits d'auteur et reproduction R65800,651600,651,651600,651,6XXXXX,PNL_00150
+129,645810,645810,645810 CHARGES SOCIALES/CONGES,65278,false,645810 CHARGES SOCIALES/CONGES,645810,645,645810,240MS,6XXXXX,PNL_00131
+152,611709,611709,611709 Controles et inspections R61100,65278,false,611709 Controles et inspections R61100,611709,611,611709,611,6XXXXX,PNL_00150
+153,758400,758400,758400 Indemnité résiliation R75800,65278,false,758400 Indemnité résiliation R75800,758400,758,758400,758,7XXXXX,PNL_00150
+154,611708,611708,611708 Gestion des déchets R61100,65278,false,611708 Gestion des déchets R61100,611708,611,611708,611,6XXXXX,PNL_00150
+155,618100,618100,618100 Documentation R61800,65278,false,618100 Documentation R61800,618100,618,618100,618,618100,PNL_00166
+156,611707,611707,611707 Entretien vêtements travail R61100,65278,false,611707 Entretien vêtements travail R61100,611707,611,611707,611,6XXXXX,PNL_00150
+509,613201,613201,613201 Location de terrains - de 6 mois R61300,65278,false,613201 Location de terrains - de 6 mois R61300,613201,613,613201,613,6XXXXX,PNL_00150
+510,635800,635800,635800 Autres droits R63700,65278,false,635800 Autres droits R63700,635800,635,635800,635,6XXXXX,PNL_00130
+511,706410,706410,706410 Charge service additionnel Stockage R70600,65278,false,706410 Charge service additionnel Stockage R70600,706410,706,706410,706,7XXXXX,PNL_00150
+512,706411,706411,706411 Pénalités STOCKAGE R70600,65278,false,706411 Pénalités STOCKAGE R70600,706411,706,706411,706,7XXXXX,PNL_00150
+513,603520,603520,603520 Équipement et PDR de structure R60310,65278,false,603520 Équipement et PDR de structure R60310,603520,603,603520,603,6XXXXX,PNL_00150
+514,706409,706409,706409 Recettes Capacité de Stockage R70600,65278,false,706409 Recettes Capacité de Stockage R70600,706409,706,706409,706,7XXXXX,PNL_00150
+515,603400,603400,603400 Appareillage électrique et pièces de rechange R60310,65278,false,603400 Appareillage électrique et pièces de rechange R60310,603400,603,603400,603,6XXXXX,PNL_00150
+516,601100,601100,601100 Achats de gaz R60100,65278,false,601100 Achats de gaz R60100,601100,601,601100,601,6XXXXX,PNL_00150
+517,603627,603627,603627 Gaz industriel R60310,65278,false,603627 Gaz industriel R60310,603627,603,603627,603,6XXXXX,PNL_00150
+518,625xxx,625XXX,625XXX Missions et notes de frais,65278,false,625XXX Missions et notes de frais,625XXX,625,625XXX,625,,
+519,641381,641381,641381 part.patron.prêts immo TIGF R64100,65278,false,641381 part.patron.prêts immo TIGF R64100,641381,641,641381,510MS,6XXXXX,PNL_00131
+520,603625,603625,603625 Huiles lubrifiants (stock) R60310,65278,false,603625 Huiles lubrifiants (stock) R60310,603625,603,603625,603,6XXXXX,PNL_00150
+202,799999,799999,799999 Compte de changement de données CS9999,65278,false,799999 Compte de changement de données CS9999,799999,799,799999,799,7XXXXX,SAP_T7999
+183,623800,623800,623800 Parrainage R62300,65278,false,623800 Parrainage R62300,623800,623,623800,623,623XXX,PNL_00150
+184,661407,661407,661407 Intérêts emprunts Total 6000007 R66110,65278,false,661407 Intérêts emprunts Total 6000007 R66110,661407,661,661407,661,6XXXXX,PNL_00150
+185,617000,617000,617000 Etudes et recherche R61700,65278,false,617000 Etudes et recherche R61700,617000,617,617000,617,6XXXXX,PNL_00150
+186,709000,709000,709000 Rabais Remises Ristournes accordés sur les ventes R75800,65278,false,709000 Rabais Remises Ristournes accordés sur les ventes R75800,709000,709,709000,709,7XXXXX,PNL_00150
+191,766021,766021,766021 RXD s/prêts - GAIN R76600,65278,false,766021 RXD s/prêts - GAIN R76600,766021,766,766021,766,7XXXXX,PNL_00150
+193,635132,635132,635132 Autres impôts locaux R63700,65278,false,635132 Autres impôts locaux R63700,635132,635,635132,635,6XXXXX,PNL_00150
+195,606110,606110,606110 Fournitures - électricité R60600,65278,false,606110 Fournitures - électricité R60600,606110,606,606110,606,6XXXXX,PNL_00150
+200,635131,635131,635131 Redevances stockage R63700,65278,false,635131 Redevances stockage R63700,635131,635,635131,635,6XXXXX,PNL_00150
+203,635130,635130,635130 Taxes foncières R63700,65278,false,635130 Taxes foncières R63700,635130,635,635130,635,6XXXXX,PNL_00150
+205,766020,766020,766020 RXD s/prêts - GAIN (réaffect.) R76600,65278,false,766020 RXD s/prêts - GAIN (réaffect.) R76600,766020,766,766020,766,7XXXXX,PNL_00150
+206,622820,622820,622820 Frais de formation / Inscription R62200,65278,false,622820 Frais de formation / Inscription R62200,622820,622,622820,622,6XXXXX,PNL_00151
+207,618200,618200,618200 Formation Profesionnelle non éligible R61800,65278,false,618200 Formation Profesionnelle non éligible R61800,618200,618,618200,618,6XXXXX,PNL_00150
+208,648450,648450,648450 Personnel-chèques vacances,65278,false,648450 Personnel-chèques vacances,648450,648,648450,530MS,6XXXXX,PNL_00131
+209,603190,603190,603190 Arbre de Noël/cintre (stock) R60310,65278,false,603190 Arbre de Noël/cintre (stock) R60310,603190,603,603190,603,6XXXXX,PNL_00150
+522,624200,624200,624200 Transport de marchandises non achetées R62400,65278,false,624200 Transport de marchandises non achetées R62400,624200,624,624200,624,6XXXXX,PNL_00150
+523,626500,626500,626500 Contrat de services Telecoms & systémes R62600,65278,false,626500 Contrat de services Telecoms & systémes R62600,626500,626,626500,626,626XXX,PNL_00150
+524,613550,613550,613550 Location d'équipements en général R61300,65278,false,613550 Location d'équipements en général R61300,613550,613,613550,613,6XXXXX,PNL_00150
+526,613551,613551,613551 Location d'équipements en général - de 6 mois R61300,65278,false,613551 Location d'équipements en général - de 6 mois R61300,613551,613,613551,613,6XXXXX,PNL_00150
+527,616700,616700,616700 Assurance - Fonds de Pension R61600,65278,false,616700 Assurance - Fonds de Pension R61600,616700,616,616700,616,6XXXXX,PNL_00150
+529,633400,633400,633400 Effort à la Construction,65278,false,633400 Effort à la Construction,633400,633,633400,810MS,6XXXXX,PNL_00131
+531,61353y,61353Y,61353Y SaaS,65278,false,61353Y SaaS,61353Y,OP4,61353Y,OP4,,
+532,654100,654100,654100 Pertes sur créances irrécouvrables de l'exercice R65800,65278,false,654100 Pertes sur créances irrécouvrables de l'exercice R65800,654100,654,654100,654,6XXXXX,PNL_00150
+533,603990,603990,603990 Autres consommables (stock) R60310,65278,false,603990 Autres consommables (stock) R60310,603990,603,603990,603,6XXXXX,PNL_00150
+534,791000,791000,791000 Transfert de charges d'exploitation R79100,65278,false,791000 Transfert de charges d'exploitation R79100,791000,791,791000,791,7XXXXX,PNL_00167
+535,631100,631100,631100 Impôts et taxes sur rémunérations,65278,false,631100 Impôts et taxes sur rémunérations,631100,631,631100,631,6XXXXX,PNL_00130
+536,603630,603630,"603630 Drilling Machinery, Mud Equipment and Accessoiries R60310",65278,false,"603630 Drilling Machinery, Mud Equipment and Accessoiries R60310",603630,603,603630,603,6XXXXX,PNL_00150
+236,603180,603180,603180 Équipt cimentation,65278,false,603180 Équipt cimentation,603180,603,603180,603,6XXXXX,PNL_00150
+237,661415,661415,661415 Intérêts emprunts bancaires TRANSPORT R66110,65278,false,661415 Intérêts emprunts bancaires TRANSPORT R66110,661415,661,661415,661,6XXXXX,PNL_00150
+238,603060,603060,603060 outils de forage (stock) R60310,65278,false,603060 outils de forage (stock) R60310,603060,603,603060,603,6XXXXX,PNL_00150
+239,603065,603065,603065 Trépans à diamants (stock) R60310,65278,false,603065 Trépans à diamants (stock) R60310,603065,603,603065,603,6XXXXX,PNL_00150
+240,605001,605001,605001 Terrains/constructions R60500,65278,false,605001 Terrains/constructions R60500,605001,605,605001,605,6XXXXX,PNL_00150
+241,605002,605002,605002 Fournitures/matières consommables techniques R60500,65278,false,605002 Fournitures/matières consommables techniques R60500,605002,605,605002,605,6XXXXX,PNL_00150
+242,766000,766000,766000 Gains de change réalisés RXD R76600,65278,false,766000 Gains de change réalisés RXD R76600,766000,766,766000,766,7XXXXX,PNL_00150
+538,603634,603634,603634 Produits chimiques R60310,65278,false,603634 Produits chimiques R60310,603634,603,603634,603,6XXXXX,PNL_00150
+539,648900,648900,648900 Pers.Ristounes gaz R64800,65278,false,648900 Pers.Ristounes gaz R64800,648900,648,648900,560MS,6XXXXX,PNL_00131
+540,623100,623100,623100 Annonces et insertions R62300,65278,false,623100 Annonces et insertions R62300,623100,623,623100,623,6XXXXX,PNL_00159
+541,615600,615600,615600 Maintenance véhicules R61500,65278,false,615600 Maintenance véhicules R61500,615600,615,615600,615,6XXXXX,PNL_00150
+543,653000,653000,653000 Jetons de présence R64800,65278,false,653000 Jetons de présence R64800,653000,653,653000,653,6XXXXX,PNL_00167
+544,612210,612210,612210 Informatique - Crédit-bail de matériels R61100,65278,false,612210 Informatique - Crédit-bail de matériels R61100,612210,612,612210,612,6XXXXX,PNL_00150
+545,603740,603740,603740 Ensemble monté R60310,65278,false,603740 Ensemble monté R60310,603740,603,603740,603,6XXXXX,PNL_00150
+546,603620,603620,603620 Mat quartiers habitations R60310,65278,false,603620 Mat quartiers habitations R60310,603620,603,603620,603,6XXXXX,PNL_00150
+547,603500,603500,603500 Réseaux souterrains R60310,65278,false,603500 Réseaux souterrains R60310,603500,603,603500,603,6XXXXX,PNL_00150
+548,706601,706601,706601 Supplément pression R70600,65278,false,706601 Supplément pression R70600,706601,706,706601,706,7XXXXX,PNL_00150
+549,706602,706602,706602 Redevance raccordement R70600,65278,false,706602 Redevance raccordement R70600,706602,706,706602,706,7XXXXX,PNL_00150
+550,706603,706603,706603 Entretien raccordement R70600,65278,false,706603 Entretien raccordement R70600,706603,706,706603,706,7XXXXX,PNL_00150
+551,706604,706604,706604 Refacturation Branchements/Comptages R70600,65278,false,706604 Refacturation Branchements/Comptages R70600,706604,706,706604,706,7XXXXX,PNL_00150
+553,706605,706605,706605 Services divers raccordement R70600,65278,false,706605 Services divers raccordement R70600,706605,706,706605,706,7XXXXX,PNL_00150
+554,706606,706606,706606 Interface R70600,65278,false,706606 Interface R70600,706606,706,706606,706,7XXXXX,PNL_00150
+605,645310,645310,645310 CRI-RETRAITE R64500,65278,false,645310 CRI-RETRAITE R64500,645310,645,645310,220MS,6XXXXX,PNL_00131
+555,613530,613530,613530 Location informatique - réseaux R61300,65278,false,613530 Location informatique - réseaux R61300,613530,613,613530,613,6XXXXX,PNL_00150
+556,613531,613531,613531 Location informatique - réseaux - de 6 mois R61300,65278,false,613531 Location informatique - réseaux - de 6 mois R61300,613531,613,613531,613,6XXXXX,PNL_00150
+557,666100,666100,666100 Pertes sur écarts de conversion non réalisées-UXD R66600,65278,false,666100 Pertes sur écarts de conversion non réalisées-UXD R66600,666100,666,666100,666,6XXXXX,PNL_00150
+562,762431,762431,762431 Revenus de prêts intragroupe R76200 Non Non Oui,65278,false,762431 Revenus de prêts intragroupe R76200 Non Non Oui,762431,762,762431,762,7XXXXX,PNL_00176
+563,61351y,61351Y,61351Y Consommation infra cloud,65278,false,61351Y Consommation infra cloud,61351Y,OP4,61351Y,OP4,,
+564,761100,761100,761100 Dividendes reçus - Sociétés Groupe R76110,65278,false,761100 Dividendes reçus - Sociétés Groupe R76110,761100,761,761100,761,7XXXXX,PNL_00193
+565,762430,762430,762430 Revenus de prêts au personnel R76200,65278,false,762430 Revenus de prêts au personnel R76200,762430,762,762430,762,7XXXXX,PNL_00150
+566,623201,623201,623201 Dons aux oeuvres sociales R62300,65278,false,623201 Dons aux oeuvres sociales R62300,623201,623,623201,623,6XXXXX,PNL_00150
+567,623202,623202,623202 Protocole COOP (Elyo) R62300,65278,false,623202 Protocole COOP (Elyo) R62300,623202,623,623202,623,6XXXXX,PNL_00150
+568,625500,625500,625500 Frais de déménagement R62500,65278,false,625500 Frais de déménagement R62500,625500,625,625500,625,6XXXXX,PNL_00150
+569,623200,623200,623200 Mécénat R62300,65278,false,623200 Mécénat R62300,623200,623,623200,623,6XXXXX,PNL_00150
+284,616110,616110,616110 Véhicules R61600,65278,false,616110 Véhicules R61600,616110,616,616110,616,6XXXXX,PNL_00150
+285,618xxx,618XXX,"618XXX Frais de séminaire, conférences et normes",65278,false,"618XXX Frais de séminaire, conférences et normes",618XXX,618,618XXX,618,,
+286,648000,648000,648000 ALLOC.CHAUF.LOG.RETRAITES,65278,false,648000 ALLOC.CHAUF.LOG.RETRAITES,648000,648,648000,560MS,6XXXXX,PNL_00131
+289,603160,603160,603160 Mat puits souter-Conduite R60310,65278,false,603160 Mat puits souter-Conduite R60310,603160,603,603160,603,6XXXXX,PNL_00150
+292,604011,604011,604011 Travaux de charpentes R60400,65278,false,604011 Travaux de charpentes R60400,604011,604,604011,604,6XXXXX,PNL_00150
+570,761200,761200,761200 Dividendes reçus - Sociétés Hors Groupe R76110,65278,false,761200 Dividendes reçus - Sociétés Hors Groupe R76110,761200,761,761200,761,7XXXXX,PNL_00150
+574,603720,603720,603720 Bâtiments et équipement de bureau R60310,65278,false,603720 Bâtiments et équipement de bureau R60310,603720,603,603720,603,6XXXXX,PNL_00150
+575,603600,603600,603600 Equipement Telecommunications R60310,65278,false,603600 Equipement Telecommunications R60310,603600,603,603600,603,6XXXXX,PNL_00150
+577,708800,708800,708800 Autres produits d'activités annexes R75800,65278,false,708800 Autres produits d'activités annexes R75800,708800,708,708800,708,7XXXXX,PNL_00031
+578,648810,648810,648810 Autres charges sociales R64800,65278,false,648810 Autres charges sociales R64800,648810,648,648810,250MS,6XXXXX,PNL_00131
+580,706501,706501,706501 Protocole ATS-ATR R70600,65278,false,706501 Protocole ATS-ATR R70600,706501,706,706501,706,7XXXXX,PNL_00150
+582,706502,706502,706502 Achat/vente de gaz ST / TR R70600,65278,false,706502 Achat/vente de gaz ST / TR R70600,706502,706,706502,706,7XXXXX,PNL_00150
+584,706503,706503,706503 reliquat raccordement TR/NE R70600,65278,false,706503 reliquat raccordement TR/NE R70600,706503,706,706503,706,7XXXXX,PNL_00150
+586,706504,706504,706504 gestion Opérationnelle TR/NE R70600,65278,false,706504 gestion Opérationnelle TR/NE R70600,706504,706,706504,706,7XXXXX,PNL_00150
+587,708804,708804,708804 Recettes accessoires transit R75800,65278,false,708804 Recettes accessoires transit R75800,708804,708,708804,708,7XXXXX,PNL_00150
+589,706505,706505,706505 Capacité TR/NE R70600,65278,false,706505 Capacité TR/NE R70600,706505,706,706505,706,7XXXXX,PNL_00150
+592,706507,706507,706507 Capacité stockage NE/TR (équilibrage réseau) R70600,65278,false,706507 Capacité stockage NE/TR (équilibrage réseau) R70600,706507,706,706507,706,7XXXXX,PNL_00150
+594,613510,613510,613510 Location informatique - matériels R61300,65278,false,613510 Location informatique - matériels R61300,613510,613,613510,613,6XXXXX,PNL_00150
+595,666001,666001,666001 Pertes temporaires de RXD-compte technique SAP R66600,65278,false,666001 Pertes temporaires de RXD-compte technique SAP R66600,666001,666,666001,666,6XXXXX,PNL_00150
+596,613511,613511,613511 Location informatique - matériels - de 6 mois R61300,65278,false,613511 Location informatique - matériels - de 6 mois R61300,613511,613,613511,613,6XXXXX,PNL_00150
+598,666000,666000,666000 Pertes sur écarts de conversion réalisées (RXD) R66600,65278,false,666000 Pertes sur écarts de conversion réalisées (RXD) R66600,666000,666,666000,666,6XXXXX,PNL_00150
+599,637800,637800,637800 Taxes industrie gazière R63700,65278,false,637800 Taxes industrie gazière R63700,637800,637,637800,637,6XXXXX,PNL_00150
+600,637801,637801,637801 Redevance registre GES R63700,65278,false,637801 Redevance registre GES R63700,637801,637,637801,637,6XXXXX,PNL_00150
+601,612300,612300,612300 Crédit - bail immobilier R61100,65278,false,612300 Crédit - bail immobilier R61100,612300,612,612300,612,6XXXXX,PNL_00150
+606,648700,648700,648700 Personnel-charges diverses R64800,65278,false,648700 Personnel-charges diverses R64800,648700,648,648700,340MS,6XXXXX,PNL_00131
+607,625600,625600,625600 Frais de Mission R62500,65278,false,625600 Frais de Mission R62500,625600,625,625600,625,625XXX,PNL_00150
+608,671800,671800,671800 Autres charges exceptionnelles R67800,65278,false,671800 Autres charges exceptionnelles R67800,671800,671,671800,671,6XXXXX,PNL_00150
+609,637804,637804,637804 Taxes diverses R63700,65278,false,637804 Taxes diverses R63700,637804,637,637804,637,6XXXXX,PNL_00150
+610,637802,637802,637802 Contribution Sociale de Solidarité R63700,65278,false,637802 Contribution Sociale de Solidarité R63700,637802,637,637802,637,6XXXXX,PNL_00150
+611,609000,609000,609000 Rabais Remises et Ristournes obtenus sur achats R60500,65278,false,609000 Rabais Remises et Ristournes obtenus sur achats R60500,609000,609,609000,609,6XXXXX,PNL_00150
+614,623xxx,623XXX,"623XXX Publicité, publication, relations publiques",65278,false,"623XXX Publicité, publication, relations publiques",623XXX,623,623XXX,623,,
+635,656000,656000,656000 Perte de change sur créances et dettes commerciale,65278,false,656000 Perte de change sur créances et dettes commerciale,656000,656,656000,656,6XXXXX,PNL_00190
+336,647500,647500,"647500 Médecine du travail, assistante sociale",65278,false,"647500 Médecine du travail, assistante sociale",647500,647,647500,440MS,6XXXXX,PNL_00131
+613,645305,645305,645305 CRI-AGFF R64500,65278,false,645305 CRI-AGFF R64500,645305,645,645305,999MS,6XXXXX,PNL_00131
+394,666060,666060,666060 Opérateur de pertes de RXD biling R66600,65278,false,666060 Opérateur de pertes de RXD biling R66600,666060,666,666060,666,6XXXXX,PNL_00150
+395,647420,647420,647420 Activités sociales - Comité d'#uvres sociales,65278,false,647420 Activités sociales - Comité d'#uvres sociales,647420,647,647420,610MS,6XXXXX,PNL_00131
+396,648510,648510,648510 Abondement PPESV-PERCO,65278,false,648510 Abondement PPESV-PERCO,648510,648,648510,320MS,6XXXXX,PNL_00131
+397,758200,758200,758200 Produits divers exercices antérieurs R75800,65278,false,758200 Produits divers exercices antérieurs R75800,758200,758,758200,758,7XXXXX,PNL_00040
+398,611507,611507,611507 Etude et assistance comptable R61100,65278,false,611507 Etude et assistance comptable R61100,611507,611,611507,611,6XXXXX,PNL_00150
+399,611506,611506,611506 Prestation de compression R61100,65278,false,611506 Prestation de compression R61100,611506,611,611506,611,6XXXXX,PNL_00150
+403,645360,645360,645360 RECOSUP,65278,false,645360 RECOSUP,645360,645,645360,410MS,6XXXXX,PNL_00131
+420,60,60,60 Achats,65278,false,60 Achats,60,6,60,6,,
+422,61,61,61 Services extérieurs,65278,false,61 Services extérieurs,61,6,61,6,,
+423,62,62,62 Autres services extérieurs,65278,false,62 Autres services extérieurs,62,6,62,6,,
+452,616060,616060,616060 Assurances R61600,65278,false,616060 Assurances R61600,616060,616,616060,616,6XXXXX,PNL_00163
+453,623700,623700,623700 Publications R62300,65278,false,623700 Publications R62300,623700,623,623700,623,6XXXXX,PNL_00150
+456,622850,622850,622850 Frais de formalités R62200,65278,false,622850 Frais de formalités R62200,622850,622,622850,622,6XXXXX,PNL_00150
+460,671400,671400,671400 Pertes sur créances irrécouvrables R67800,65278,false,671400 Pertes sur créances irrécouvrables R67800,671400,671,671400,671,6XXXXX,PNL_00150
+530,61353x,61353X,61353X Licence,65278,false,61353X Licence,61353X,OP4,61353X,OP4,,
+542,613xxx,613XXX,613XXX Location de bureaux,65278,false,613XXX Location de bureaux,613XXX,OP4,613XXX,OP4,,
+561,61351x,61351X,61351X Hébergement,65278,false,61351X Hébergement,61351X,OP4,61351X,OP4,,
+649,641422,641422,641422 Prime Complément Salaire Conjoint,65278,false,641422 Prime Complément Salaire Conjoint,641422,641,641422,530MS,6XXXXX,PNL_00131
+18,7,7,7 - COMPTES DE PRODUITS,65278,false,7 - COMPTES DE PRODUITS,7,Nature_Total,7,Nature_Total,,
+629,651200,651200,651200,65278,false,651200,651200,651,651200,651,6XXXXX,PNL_00150
+630,606402,606402,606402,65278,false,606402,606402,606,606402,606,6XXXXX,PNL_00150
+632,603200,603200,603200,65278,false,603200,603200,603,603200,603,6XXXXX,PNL_00150
+633,791810,791810,791810,65278,false,791810,791810,791,791810,791,7XXXXX,PNL_00150
+636,661810,661810,661810,65278,false,661810,661810,661,661810,661,6XXXXX,PNL_00150
+637,756000,756000,756000 Gains de change sur créances et dettes commerciale,65278,false,756000 Gains de change sur créances et dettes commerciale,756000,756,756000,756,7XXXXX,PNL_00150
+640,706415,706415,706415,65278,false,706415,706415,706,706415,706,7XXXXX,PNL_00150
+641,706414,706414,706414,65278,false,706414,706414,706,706414,706,7XXXXX,PNL_00150
+681,606510,606510,606510,65278,false,606510,606510,606,606510,606,6135YX,PNL_00150
+682,661423,661423,661423,65278,false,661423,661423,661,661423,661,6XXXXX,PNL_00179
+683,635801,635801,635801,65278,false,635801,635801,635,635801,635,6XXXXX,PNL_00165
+1020,787551,787551,787551,65278,false,787551,787551,787,787551,787,7XXXXX,PNL_00174
+1045,605003,605003,605003 Fournitures non techniques,65278,false,605003 Fournitures non techniques,605003,605,605003,605,6XXXXX,PNL_00204
+1276,687251,687251,687251 Amortissement dérogatoire sur titre,65278,false,687251 Amortissement dérogatoire sur titre,687251,687,687251,687,6XXXXX,PNL_00175
+1544,708802,708802,708802 autre produit BU H2,65278,false,708802 autre produit BU H2,708802,708,708802,708,7XXXXX,PNL_00150
+1545,708811,708811,708811 autre produit BU MED,65278,false,708811 autre produit BU MED,708811,708,708811,708,7XXXXX,PNL_00150
+297,766100,766100,766100 Gains de change non réalisés UXD R76600,65278,false,766100 Gains de change non réalisés UXD R76600,766100,766,766100,766,7XXXXX,PNL_00150
+298,768400,768400,768400 Intérêts compte courant Groupe R76820,65278,false,768400 Intérêts compte courant Groupe R76820,768400,768,768400,768,7XXXXX,PNL_00176
+372,706704,706704,706704 Droits de transit AM R70600,65278,false,706704 Droits de transit AM R70600,706704,706,706704,706,7XXXXX,PNL_00150
+507,613561,613561,613561 Location matériels techniques - de 6 mois R61300,65278,false,613561 Location matériels techniques - de 6 mois R61300,613561,613,613561,613,6XXXXX,PNL_00150
+558,633300,633300,633300 Taxe Formation Professionnelle,65278,false,633300 Taxe Formation Professionnelle,633300,633,633300,820MS,6XXXXX,PNL_00131
+559,612200,612200,612200 Crédit - bail d'équipement de bureau R61100,65278,false,612200 Crédit - bail d'équipement de bureau R61100,612200,612,612200,612,6XXXXX,PNL_00150
+1540,408400,408400,408400 FRS. Compte EM/EF CA,65278,false,408400 FRS. Compte EM/EF CA,408400,4,408400,4,,BSH_00009
+1541,601103,601103,601103 Ach. Stk Quotas gaz,65278,false,601103 Ach. Stk Quotas gaz,601103,601,601103,601,6XXXXX,PNL_00150
+684,708801,708801,708801 Autres produits d'activités annexes,65278,false,708801 Autres produits d'activités annexes,708801,708,708801,708,7XXXXX,PNL_00133
+1573,207200,207200,207200 Clientèle,65278,false,207200 Clientèle,207200,2,207200,2,,BSH_00001
+1574,215343,215343,215343 Unité Autoprod Energ,65278,false,215343 Unité Autoprod Energ,215343,2,215343,2,,BSH_00002
+1575,215503,215503,215503 Mat. Méthanisation,65278,false,215503 Mat. Méthanisation,215503,2,215503,2,,BSH_00002
+1576,280720,280720,280720 Amo. Clientèle,65278,false,280720 Amo. Clientèle,280720,2,280720,2,,BSH_00001
+1577,281544,281544,281544 Amort. Unit Energie,65278,false,281544 Amort. Unit Energie,281544,2,281544,3,,BSH_00002
+1578,281552,281552,281552 Amort.Mat.Méthanisat,65278,false,281552 Amort.Mat.Méthanisat,281552,2,281552,2,,BSH_00002
+1579,297120,297120,297120 Dép.aut. titre immo,65278,false,297120 Dép.aut. titre immo,297120,2,297120,2,,BSH_00003
+1580,409999,409999,409999 Dem. acomptes fourn.,65278,false,409999 Dem. acomptes fourn.,409999,4,409999,4,,BSH_00009
+1582,512859,512859,512859 BNP TAE,65278,false,512859 BNP TAE,512859,5,512859,5,,BSH_00019
+631,615210,615210,615210 Assurance TSU et cargaison,65278,false,615210 Assurance TSU et cargaison,615210,615,615210,615,6XXXXX,PNL_00150
+1542,8,8,8 - COMPTES TECHNIQUES,65278,false,8 - COMPTES TECHNIQUES,8,Nature_Total,8,Nature_MS,,
+1507,nature_statistic,Nature_Statistic,Nature Statistic,65278,false,Nature Statistic,Nature_Statistic,Nature_Root,NATS,,,
+650,686200,686200,686200 DP Dep. Fin. Diff,65278,false,686200 DP Dep. Fin. Diff,686200,686,686200,686,6XXXXX,PNL_00182
+652,781570,781570,781570 Rep proc restr coura,65278,false,781570 Rep proc restr coura,781570,781,781570,781,7XXXXX,PNL_00190
+634,681160,681160,681160 DA Branch/PL,65278,false,681160 DA Branch/PL,681160,681,681160,681,6XXXXX,PNL_00171
+638,681570,681570,681570 DP Restructurations,65278,false,681570 DP Restructurations,681570,681,681570,681,6XXXXX,PNL_00190
+1583,661424,661424,661424 Apurem. couverture,65278,false,661424 Apurem. couverture,661424,661,661424,661,6XXXXX,PNL_00180
+1079,550ms,550MS,5.5. Indemnités repas,65278,false,5.5. Indemnités repas,550MS,,550MS,05MS,,
+1086,530ms,530MS,5.3. Primes à caractère familial,65278,false,5.3. Primes à caractère familial,530MS,,530MS,05MS,,
+1091,112ms,112MS,11.2. Indemnités licenciement,65278,false,11.2. Indemnités licenciement,112MS,,112MS,11MS,,
+1587,787252,787252,787252 RA dérog. compl,65278,false,787252 RA dérog. compl,787252,787,787252,787,7XXXXX,PNL_00175
+64,675100,675100,675100 Valeur comptable immo incorporelles cédées R67800,65278,false,675100 Valeur comptable immo incorporelles cédées R67800,675100,675,675100,675,6XXXXX,PNL_00174
+221,661421,661421,661421 Intérêts Emprunt RCF 2015 Transport R66110,65278,false,661421 Intérêts Emprunt RCF 2015 Transport R66110,661421,661,661421,661,6XXXXX,PNL_00181
+501,778800,778800,778800 Autres produits exceptionnels R77800,65278,false,778800 Autres produits exceptionnels R77800,778800,778,778800,778,7XXXXX,PNL_00174
+1588,296110,296110,296110 Prov / titres dans les sociétés liées consolidées,65278,false,296110 Prov / titres dans les sociétés liées consolidées,296110,2,296110,2,,BSH_00003
+1178,512853,512853,512853 Caisse d'épargne,65278,false,512853 Caisse d'épargne,512853,5,512853,5,,BSH_00019
+1589,686611,686611,686611 Dot Prov titres des sociétés liées consolidées,65278,false,686611 Dot Prov titres des sociétés liées consolidées,686611,686,686611,686,6XXXXX,PNL_00211
+1639,108000,108000,108000 Dotations consomptib,65278,false,108000 Dotations consomptib,108000,10,108000,10,,BSH_00024
+1543,800641,800641,800641 Annulation Capitalisation,65278,false,800641 Annulation Capitalisation,800641,8,800641,8,6XXXXX,PNL_00132
+1606,842641,842641,842641 Capitalisation TbD,65278,false,842641 Capitalisation TbD,842641,8,842641,8,7XXXXX,PNL_00132
+1096,240ms,240MS,2.4. Charges sociales sur congés et primes,65278,false,2.4. Charges sociales sur congés et primes,240MS,,240MS,02MS,,
+1097,510ms,510MS,5.1. Indemnités liées à la mobilité géographique,65278,false,5.1. Indemnités liées à la mobilité géographique,510MS,,510MS,05MS,,
+1098,120ms,120MS,1.2. Congés payés,65278,false,1.2. Congés payés,120MS,,120MS,01MS,,
+1100,810ms,810MS,8.1. Effort à la Construction,65278,false,8.1. Effort à la Construction,810MS,,810MS,08MS,,
+1108,910ms,910MS,9.1. Intérimaire,65278,false,9.1. Intérimaire,910MS,,910MS,09MS,,
+1089,101ms,101MS,10.1. Remplacement CICE,65278,false,10.1. Remplacement CICE,101MS,,101MS,10MS,,
+1309,447310,447310,447310,65278,false,447310,447310,4,447310,4,,BSH_00011
+1145,163004,163004,163004 Emprunt obligataire 2020,65278,false,163004 Emprunt obligataire 2020,163004,16,163004,16,,BSH_00018
+1078,430ms,430MS,4.3.Malakoff Mederic,65278,false,4.3.Malakoff Mederic,430MS,,430MS,04MS,,
+1080,310ms,310MS,3.1. PEG,65278,false,3.1. PEG,310MS,,310MS,03MS,,
+1081,410ms,410MS,4.1. RECOSUP,65278,false,4.1. RECOSUP,410MS,,410MS,04MS,,
+1082,121ms,121MS,12.1 Transfert de charges d'exploitation,65278,false,12.1 Transfert de charges d'exploitation,121MS,,121MS,12MS,,
+1083,230ms,230MS,2.3. Assedic,65278,false,2.3. Assedic,230MS,,230MS,02MS,,
+1087,110ms,110MS,1.1. Salaires,65278,false,1.1. Salaires,110MS,,110MS,01MS,,
+1088,330ms,330MS,3.3. CET,65278,false,3.3. CET,330MS,,330MS,03MS,,
+1090,210ms,210MS,2.1. Cotisations URSSAF,65278,false,2.1. Cotisations URSSAF,210MS,,210MS,02MS,,
+1180,512855,512855,512855 Unicredit,65278,false,512855 Unicredit,512855,5,512855,5,,BSH_00019
+1105,830ms,830MS,8.3. Taxe d'apprentissage,65278,false,8.3. Taxe d'apprentissage,830MS,,830MS,08MS,,
+1107,420ms,420MS,4.2. MUTUELLE,65278,false,4.2. MUTUELLE,420MS,,420MS,04MS,,
+1109,560ms,560MS,5.6. Be positif,65278,false,5.6. Be positif,560MS,,560MS,05MS,,
+1111,340ms,340MS,3.4. Frais Amundi,65278,false,3.4. Frais Amundi,340MS,,340MS,03MS,,
+1116,540ms,540MS,5.4. IFC,65278,false,5.4. IFC,540MS,,540MS,05MS,,
+1117,320ms,320MS,3.2. PERCOG,65278,false,3.2. PERCOG,320MS,,320MS,03MS,,
+1120,250ms,250MS,2.5. Autres charges sociales,65278,false,2.5. Autres charges sociales,250MS,,250MS,02MS,,
+1122,130ms,130MS,1.3. Primes et gratifications,65278,false,1.3. Primes et gratifications,130MS,,130MS,01MS,,
+1546,401999,401999,401999 Cpt Tech Reprise FRN,65278,false,401999 Cpt Tech Reprise FRN,401999,4,401999,4,,SAP_T4019
+780,205800,205800,205800 Logiciels,65278,false,205800 Logiciels,205800,2,205800,2,,BSH_00001
+1110,520ms,520MS,5.2. Indemnité transport,65278,false,5.2. Indemnité transport,520MS,,520MS,05MS,,
+1112,220ms,220MS,2.2 Cotisations retraites complémentaires,65278,false,2.2 Cotisations retraites complémentaires,220MS,,220MS,02MS,,
+1113,440ms,440MS,"4.4.Médecine du travail, Assistante sociale",65278,false,"4.4.Médecine du travail, Assistante sociale",440MS,,440MS,04MS,,
+1115,111ms,111MS,11.1. Indemnités de départ,65278,false,11.1. Indemnités de départ,111MS,,111MS,11MS,,
+1581,411999,411999,411999 Cpt Tech Reprise CLT,65278,false,411999 Cpt Tech Reprise CLT,411999,4,411999,4,,SAP_T4119
+1126,820ms,820MS,8.2. Formation professionnelle continue,65278,false,8.2. Formation professionnelle continue,820MS,,820MS,08MS,,
+1128,150ms,150MS,1.5. Valorisation de la performance,65278,false,1.5. Valorisation de la performance,150MS,,150MS,01MS,,
+1000,106810,106810,106810,65278,false,106810,106810,10,106810,10,,BSH_00024
+744,138001,138001,138001 Subventions en-cours corp,65278,false,138001 Subventions en-cours corp,138001,13,138001,13,,BSH_00028
+1344,138002,138002,138002 Subventions en-cours incorp,65278,false,138002 Subventions en-cours incorp,138002,13,138002,13,,BSH_00028
+741,120000,120000,120000 Resultat de l'exercice - Gains,65278,false,120000 Resultat de l'exercice - Gains,120000,12,120000,12,,BSH_00025
+743,138000,138000,138000 Subventions clients install. fixes de transport,65278,false,138000 Subventions clients install. fixes de transport,138000,13,138000,13,,BSH_00028
+906,444000,444000,444000 Etat - CICE,65278,false,444000 Etat - CICE,444000,4,444000,4,,BSH_00012
+745,138010,138010,138010 Subventions clients install. complexes,65278,false,138010 Subventions clients install. complexes,138010,13,138010,13,,BSH_00028
+746,138800,138800,138800 Amort subventions clients install fixes transport,65278,false,138800 Amort subventions clients install fixes transport,138800,13,138800,13,,BSH_00028
+747,138810,138810,138810 Amort subventions clients install complexes,65278,false,138810 Amort subventions clients install complexes,138810,13,138810,13,,BSH_00028
+748,142400,142400,142400 Provision pour investissements,65278,false,142400 Provision pour investissements,142400,14,142400,14,,BSH_00014
+749,143100,143100,143100 Provisions pour hausse des prix,65278,false,143100 Provisions pour hausse des prix,143100,14,143100,14,,BSH_00014
+751,151100,151100,151100 Provision pour litiges autres que fiscaux,65278,false,151100 Provision pour litiges autres que fiscaux,151100,15,151100,15,,BSH_00015
+752,153101,153101,153101 MIP ex Total SA,65278,false,153101 MIP ex Total SA,153101,15,153101,15,,BSH_00015
+753,153102,153102,153102 MIP ex ELF EP,65278,false,153102 MIP ex ELF EP,153102,15,153102,15,,BSH_00015
+756,153301,153301,153301 Garantie retraite ex Total SA,65278,false,153301 Garantie retraite ex Total SA,153301,15,153301,15,,BSH_00015
+757,153401,153401,153401 IFC ex Total SA,65278,false,153401 IFC ex Total SA,153401,15,153401,15,,BSH_00015
+758,153501,153501,153501 Solde compt.ex TOTAL,65278,false,153501 Solde compt.ex TOTAL,153501,15,153501,15,,BSH_00015
+759,153502,153502,153502 Solde compt.ex ELF EP,65278,false,153502 Solde compt.ex ELF EP,153502,15,153502,15,,BSH_00015
+760,154100,154100,154100 Provision pour restructuration courant,65278,false,154100 Provision pour restructuration courant,154100,15,154100,15,,BSH_00015
+764,158203,158203,158203 Provision contentieux RH,65278,false,158203 Provision contentieux RH,158203,15,158203,15,,BSH_00015
+765,163000,163000,163000 Emprunt obligataire 2011,65278,false,163000 Emprunt obligataire 2011,163000,16,163000,16,,BSH_00018
+766,163001,163001,163001 Emprunt obligataire 2015,65278,false,163001 Emprunt obligataire 2015,163001,16,163001,16,,BSH_00018
+767,163002,163002,163002 Emprunt obligataire PP 2015,65278,false,163002 Emprunt obligataire PP 2015,163002,16,163002,16,,BSH_00018
+771,168000,168000,168000 Autres emprunts-dettes similaires,65278,false,168000 Autres emprunts-dettes similaires,168000,16,168000,16,,BSH_00016
+777,185000,185000,185000 Solde d'Interventure,65278,false,185000 Solde d'Interventure,185000,18,185000,18,,BSH_00019
+779,205201,205201,205201 Brevets,65278,false,205201 Brevets,205201,2,205201,2,,BSH_00001
+787,213100,213100,213100 Immeubles de bureau,65278,false,213100 Immeubles de bureau,213100,2,213100,2,,BSH_00002
+788,213101,213101,213101 Immeubles d'exploitation,65278,false,213101 Immeubles d'exploitation,213101,2,213101,2,,BSH_00002
+791,215340,215340,215340 Installations de stockage souterrain,65278,false,215340 Installations de stockage souterrain,215340,2,215340,2,,BSH_00002
+792,215341,215341,215341 Gaz coussin,65278,false,215341 Gaz coussin,215341,2,215341,2,,BSH_00002
+793,215361,215361,215361 Canalisations,65278,false,215361 Canalisations,215361,2,215361,2,,BSH_00002
+794,215366,215366,215366 Branchements / Postes de Livraison,65278,false,215366 Branchements / Postes de Livraison,215366,2,215366,2,,BSH_00002
+795,215371,215371,215371 Stations de compression,65278,false,215371 Stations de compression,215371,2,215371,2,,BSH_00002
+796,215376,215376,215376 Autres installations exploitation,65278,false,215376 Autres installations exploitation,215376,2,215376,2,,BSH_00002
+797,215500,215500,215500 Equipement / Outillage industriel,65278,false,215500 Equipement / Outillage industriel,215500,2,215500,2,,BSH_00002
+798,215502,215502,215502 Installations techniques,65278,false,215502 Installations techniques,215502,2,215502,2,,BSH_00002
+805,231000,231000,231000 Immobilisations corporelles en-cours,65278,false,231000 Immobilisations corporelles en-cours,231000,2,231000,2,,BSH_00002
+806,231999,231999,231999 Immobilisations corporelles en-cours,65278,false,231999 Immobilisations corporelles en-cours,231999,2,231999,2,,BSH_00002
+807,232000,232000,232000 Immobilisations incorporelles en-cours,65278,false,232000 Immobilisations incorporelles en-cours,232000,2,232000,2,,BSH_00001
+808,232999,232999,232999 Immobilisations incorporelles en-cours,65278,false,232999 Immobilisations incorporelles en-cours,232999,2,232999,2,,BSH_00001
+813,274321,274321,274321 Plan Action. 2006,65278,false,274321 Plan Action. 2006,274321,2,274321,2,,BSH_00003
+814,274322,274322,274322 Plan Action. 2008,65278,false,274322 Plan Action. 2008,274322,2,274322,2,,BSH_00003
+815,274323,274323,274323 Plan Action. 2011,65278,false,274323 Plan Action. 2011,274323,2,274323,2,,BSH_00003
+819,280522,280522,280522 Amort brevets,65278,false,280522 Amort brevets,280522,2,280522,2,,BSH_00001
+820,280580,280580,280580 Amortissement des logiciels,65278,false,280580 Amortissement des logiciels,280580,2,280580,2,,BSH_00001
+821,280810,280810,280810 Amort Droits de transit,65278,false,280810 Amort Droits de transit,280810,2,280810,2,,BSH_00001
+823,281310,281310,281310 Amort Immeubles de bureau,65278,false,281310 Amort Immeubles de bureau,281310,2,281310,2,,BSH_00002
+824,281311,281311,281311 Amort Immeubles d'exploitation,65278,false,281311 Amort Immeubles d'exploitation,281311,2,281311,2,,BSH_00002
+827,281534,281534,281534 Amort installations de stockage souterrain,65278,false,281534 Amort installations de stockage souterrain,281534,2,281534,2,,BSH_00002
+828,281535,281535,281535 Amort. Gaz coussin,65278,false,281535 Amort. Gaz coussin,281535,2,281535,2,,BSH_00002
+829,281536,281536,281536 Amort coussin manuel,65278,false,281536 Amort coussin manuel,281536,2,281536,2,,BSH_00002
+830,281540,281540,281540 Amort. Canalisations,65278,false,281540 Amort. Canalisations,281540,2,281540,2,,BSH_00002
+831,281541,281541,281541 Amort. Branchements / Postes de Livraison,65278,false,281541 Amort. Branchements / Postes de Livraison,281541,2,281541,2,,BSH_00002
+832,281542,281542,281542 Amort. Stations de compression,65278,false,281542 Amort. Stations de compression,281542,2,281542,2,,BSH_00002
+833,281543,281543,281543 Amort. Autres installations annexes,65278,false,281543 Amort. Autres installations annexes,281543,2,281543,2,,BSH_00002
+874,425804,425804,425804 Part agent/Cantine Lussagnet,65278,false,425804 Part agent/Cantine Lussagnet,425804,4,425804,4,,BSH_00010
+835,281551,281551,281551 Amort.Installations techniques,65278,false,281551 Amort.Installations techniques,281551,2,281551,2,,BSH_00002
+876,427000,427000,427000 Personnel - Opposition,65278,false,427000 Personnel - Opposition,427000,4,427000,4,,BSH_00010
+843,321100,321100,321100 Stock de gaz,65278,false,321100 Stock de gaz,321100,3,321100,3,,BSH_00007
+845,322000,322000,322000 Stock de fournitures consommables,65278,false,322000 Stock de fournitures consommables,322000,3,322000,3,,BSH_00007
+846,335000,335000,335000 Travaux en-cours,65278,false,335000 Travaux en-cours,335000,3,335000,3,,BSH_00007
+848,401100,401100,401100 Fournisseurs - Groupe,65278,false,401100 Fournisseurs - Groupe,401100,4,401100,4,,BSH_00009
+849,401200,401200,401200 Fournisseurs - Hors groupe,65278,false,401200 Fournisseurs - Hors groupe,401200,4,401200,4,,BSH_00009
+850,401700,401700,401700 Fournisseurs - Retenues de garantie,65278,false,401700 Fournisseurs - Retenues de garantie,401700,4,401700,4,,BSH_00009
+851,408000,408000,408000 Fournisseurs - compte de compensation GR/IR,65278,false,408000 Fournisseurs - compte de compensation GR/IR,408000,4,408000,4,,BSH_00009
+852,408100,408100,408100 Fournisseurs - Factures non parvenues - Groupe,65278,false,408100 Fournisseurs - Factures non parvenues - Groupe,408100,4,408100,4,,BSH_00009
+853,408200,408200,408200 Fournisseurs - Factures non parvenues-Hors Groupe,65278,false,408200 Fournisseurs - Factures non parvenues-Hors Groupe,408200,4,408200,4,,BSH_00009
+855,411100,411100,411100 Clients - Groupe,65278,false,411100 Clients - Groupe,411100,4,411100,4,,BSH_00008
+856,411200,411200,411200 Clients - hors groupe,65278,false,411200 Clients - hors groupe,411200,4,411200,4,,BSH_00008
+857,416000,416000,416000 Clients douteux ou litigieux,65278,false,416000 Clients douteux ou litigieux,416000,4,416000,4,,BSH_00008
+858,416100,416100,416100 Clients douteux EAG,65278,false,416100 Clients douteux EAG,416100,4,416100,4,,BSH_00008
+863,420001,420001,420001 Personnel-(cpte techn),65278,false,420001 Personnel-(cpte techn),420001,4,420001,4,,BSH_00011
+869,425000,425000,425000 Personnel - Avances et acomptes sur salaires,65278,false,425000 Personnel - Avances et acomptes sur salaires,425000,4,425000,4,,BSH_00010
+870,425100,425100,425100 Personnel - Avances sur missions,65278,false,425100 Personnel - Avances sur missions,425100,4,425100,4,,BSH_00010
+872,425802,425802,425802 Part agent/Cantine Avenance,65278,false,425802 Part agent/Cantine Avenance,425802,4,425802,4,,BSH_00010
+873,425803,425803,425803 Part agent/Tickets restaurant,65278,false,425803 Part agent/Tickets restaurant,425803,4,425803,4,,BSH_00010
+875,425805,425805,425805 Part agent/CESU,65278,false,425805 Part agent/CESU,425805,4,425805,4,,BSH_00011
+879,428201,428201,428201 Pers. Dettes prov transfert solde ind. Ex TOTAL,65278,false,428201 Pers. Dettes prov transfert solde ind. Ex TOTAL,428201,4,428201,4,,BSH_00010
+880,428202,428202,428202 Pers. Dettes prov transfert solde ind. Ex ELF EP,65278,false,428202 Pers. Dettes prov transfert solde ind. Ex ELF EP,428202,4,428202,4,,BSH_00010
+887,437001,437001,437001 Urrpimmec,65278,false,437001 Urrpimmec,437001,4,437001,4,,BSH_00011
+888,437002,437002,437002 Assedic,65278,false,437002 Assedic,437002,4,437002,4,,BSH_00011
+889,437004,437004,437004 Cri-Retraite,65278,false,437004 Cri-Retraite,437004,4,437004,4,,BSH_00011
+891,437006,437006,437006 Urc-Retraite,65278,false,437006 Urc-Retraite,437006,4,437006,4,,BSH_00011
+892,437007,437007,437007 Versements volontaires PEG,65278,false,437007 Versements volontaires PEG,437007,4,437007,4,,BSH_00011
+893,437008,437008,437008 PEC,65278,false,437008 PEC,437008,4,437008,4,,BSH_00011
+894,437009,437009,437009 Cri-Agff,65278,false,437009 Cri-Agff,437009,4,437009,4,,BSH_00011
+895,437010,437010,437010 Urc-Agff,65278,false,437010 Urc-Agff,437010,4,437010,4,,BSH_00011
+896,437011,437011,437011 CNP-Recosup,65278,false,437011 CNP-Recosup,437011,4,437011,4,,BSH_00011
+897,437012,437012,437012 MIP,65278,false,437012 MIP,437012,4,437012,4,,BSH_00011
+898,437013,437013,437013 PPESV-PERCO,65278,false,437013 PPESV-PERCO,437013,4,437013,4,,BSH_00011
+899,437014,437014,437014 PEE,65278,false,437014 PEE,437014,4,437014,4,,BSH_00011
+909,445200,445200,445200 TVA intracommunautaire - Biens,65278,false,445200 TVA intracommunautaire - Biens,445200,4,445200,4,,BSH_00013
+910,445210,445210,445210 TVA intracommunautaire Prestations,65278,false,445210 TVA intracommunautaire Prestations,445210,4,445210,4,,BSH_00013
+913,445213,445213,445213 TVA hors CEE - inves,65278,false,445213 TVA hors CEE - inves,445213,4,445213,4,,BSH_00013
+914,445214,445214,445214 TVA hors UE prestations,65278,false,445214 TVA hors UE prestations,445214,4,445214,4,,BSH_00013
+918,445621,445621,445621 TVA - LASM,65278,false,445621 TVA - LASM,445621,4,445621,4,,BSH_00013
+921,445662,445662,445662 TVA intracommunautaire biens,65278,false,445662 TVA intracommunautaire biens,445662,4,445662,4,,BSH_00013
+922,445663,445663,445663 TVA intracommunautaire Prestations,65278,false,445663 TVA intracommunautaire Prestations,445663,4,445663,4,,BSH_00013
+925,445666,445666,445666 TVA hors CEE - inves,65278,false,445666 TVA hors CEE - inves,445666,4,445666,4,,BSH_00013
+926,445667,445667,445667 TVA hors UE prestations,65278,false,445667 TVA hors UE prestations,445667,4,445667,4,,BSH_00013
+930,445712,445712,445712 TVA - LASM,65278,false,445712 TVA - LASM,445712,4,445712,4,,BSH_00013
+934,445860,445860,445860 TVA ded/factures non parvenue,65278,false,445860 TVA ded/factures non parvenue,445860,4,445860,4,,BSH_00013
+936,447100,447100,447100 Taxe professionnelle,65278,false,447100 Taxe professionnelle,447100,4,447100,4,,BSH_00014
+937,447111,447111,447111 Acomptes CFE,65278,false,447111 Acomptes CFE,447111,4,447111,4,,BSH_00014
+938,447112,447112,447112 Acomptes CVAE,65278,false,447112 Acomptes CVAE,447112,4,447112,4,,BSH_00014
+939,447300,447300,447300 Taxe d'apprentissage,65278,false,447300 Taxe d'apprentissage,447300,4,447300,4,,BSH_00011
+940,447400,447400,447400 Investissement obligatoire,65278,false,447400 Investissement obligatoire,447400,4,447400,4,,BSH_00011
+941,447500,447500,447500 TGAP Mont,65278,false,447500 TGAP Mont,447500,4,447500,4,,BSH_00014
+942,447501,447501,447501 TGAP Barbaira,65278,false,447501 TGAP Barbaira,447501,4,447501,4,,BSH_00014
+945,451150,451150,451150 Mouvt gaz < 1998 EAG,65278,false,451150 Mouvt gaz < 1998 EAG,451150,4,451150,4,,BSH_00018
+946,451600,451600,451600 Total Treasury TIGF EUR,65278,false,451600 Total Treasury TIGF EUR,451600,4,451600,4,,BSH_00019
+947,451602,451602,451602 Sofax TSGF,65278,false,451602 Sofax TSGF,451602,4,451602,4,,BSH_00019
+948,451603,451603,451603 Sofax TTGF,65278,false,451603 Sofax TTGF,451603,4,451603,4,,BSH_00019
+949,451610,451610,451610 Total Treasury TIGF USD,65278,false,451610 Total Treasury TIGF USD,451610,4,451610,4,,BSH_00019
+950,451900,451900,451900 Provisions/Mouvts gaz < 1998 EAG,65278,false,451900 Provisions/Mouvts gaz < 1998 EAG,451900,4,451900,4,,BSH_00014
+951,455100,455100,455100 Compte courant Declaranet,65278,false,455100 Compte courant Declaranet,455100,4,455100,4,,BSH_00014
+983,512850,512850,512850 NATIXIS TIGF,65278,false,512850 NATIXIS TIGF,512850,5,512850,5,,BSH_00019
+954,467002,467002,467002 Contributions inactifs,65278,false,467002 Contributions inactifs,467002,4,467002,4,,BSH_00014
+955,467003,467003,467003 Compte d'attente IMP,65278,false,467003 Compte d'attente IMP,467003,4,467003,4,,BSH_00014
+959,473000,473000,473000 Refacturation TEREGA,65278,false,473000 Refacturation TEREGA,473000,4,473000,4,,BSH_00014
+960,473001,473001,473001 Refacturation TEPF,65278,false,473001 Refacturation TEPF,473001,4,473001,4,,BSH_00014
+961,473002,473002,473002 Refacturation TIGF INVESTISSEMENTS,65278,false,473002 Refacturation TIGF INVESTISSEMENTS,473002,4,473002,4,,BSH_00014
+962,473004,473004,473004 Refact.TOTAL Geneve,65278,false,473004 Refact.TOTAL Geneve,473004,4,473004,4,,BSH_00014
+971,512000,512000,512000 BQ CASH A RECEVOIR,65278,false,512000 BQ CASH A RECEVOIR,512000,5,512000,5,,BSH_00019
+973,512300,512300,512300 Nordea Bank Finland Plc,65278,false,512300 Nordea Bank Finland Plc,512300,5,512300,5,,BSH_00019
+974,512310,512310,512310 Nordea Marge,65278,false,512310 Nordea Marge,512310,5,512310,5,,BSH_00019
+975,512400,512400,512400 BNP/Paribas TIGF,65278,false,512400 BNP/Paribas TIGF,512400,5,512400,5,,BSH_00019
+976,512402,512402,512402 BNP/Paribas TSGF,65278,false,512402 BNP/Paribas TSGF,512402,5,512402,5,,BSH_00019
+977,512510,512510,512510 BNP CFL B18U TIGF,65278,false,512510 BNP CFL B18U TIGF,512510,5,512510,5,,BSH_00019
+978,512520,512520,512520 BNP CFL B18U1 TIGF,65278,false,512520 BNP CFL B18U1 TIGF,512520,5,512520,5,,BSH_00019
+979,512530,512530,512530 BNP CFL - ECC SPOT,65278,false,512530 BNP CFL - ECC SPOT,512530,5,512530,5,,BSH_00019
+982,512800,512800,512800 Barclays TIGF,65278,false,512800 Barclays TIGF,512800,5,512800,5,,BSH_00019
+987,531400,531400,531400 Devises,65278,false,531400 Devises,531400,5,531400,5,,BSH_00019
+988,104300,104300,104300 Prime d'apport,65278,false,104300 Prime d'apport,104300,10,104300,10,,BSH_00022
+994,451501,451501,451501 Compte courant TIGF SA,65278,false,451501 Compte courant TIGF SA,451501,4,451501,4,,BSH_00019
+943,448600,448600,448600 Etat - charges à payer,65278,false,448600 Etat - charges à payer,448600,4,448600,4,,BSH_00014
+996,512110,512110,512110 BNP HOLDING,65278,false,512110 BNP HOLDING,512110,5,512110,5,,BSH_00019
+997,512750,512750,512750 HSBC TIGFH 066,65278,false,512750 HSBC TIGFH 066,512750,5,512750,5,,BSH_00019
+998,512751,512751,512751 HSBC TIGFH 589,65278,false,512751 HSBC TIGFH 589,512751,5,512751,5,,BSH_00019
+999,512752,512752,512752 HSBC TIGFH 375,65278,false,512752 HSBC TIGFH 375,512752,5,512752,5,,BSH_00019
+1002,129000,129000,129000,65278,false,129000,129000,12,129000,12,,BSH_00026
+1003,145001,145001,145001,65278,false,145001,145001,14,145001,14,,BSH_00003
+1015,512703,512703,512703,65278,false,512703,512703,5,512703,5,,BSH_00019
+1017,512852,512852,512852,65278,false,512852,512852,5,512852,5,,BSH_00019
+1016,512851,512851,512851,65278,false,512851,512851,5,512851,5,,BSH_00019
+1019,163003,163003,163003,65278,false,163003,163003,16,163003,16,,BSH_00018
+1210,467004,467004,467004,65278,false,467004,467004,4,467004,4,,BSH_00014
+308,681161,681161,681161 Dot Amort installat transport/canal hydrocarbures R68112,65278,false,681161 Dot Amort installat transport/canal hydrocarbures R68112,681161,681,681161,681,6XXXXX,PNL_00171
+325,681170,681170,681170 DA Gaz coussin R68112,65278,false,681170 DA Gaz coussin R68112,681170,681,681170,681,6XXXXX,PNL_00171
+330,681164,681164,681164 Dot Amort installations stockage souterrain R68112,65278,false,681164 Dot Amort installations stockage souterrain R68112,681164,681,681164,681,6XXXXX,PNL_00171
+331,681168,681168,681168 DA autres installations d'exploitation R68112,65278,false,681168 DA autres installations d'exploitation R68112,681168,681,681168,681,6XXXXX,PNL_00171
+359,680580,680580,680580 Dot Amortissement des logiciels R68111,65278,false,680580 Dot Amortissement des logiciels R68111,680580,680,680580,680,6XXXXX,PNL_00172
+729,101300,101300,"101300 Capital souscrit-appele, verse",65278,false,"101300 Capital souscrit-appele, verse",101300,10,101300,10,,BSH_00021
+730,104000,104000,104000 Primes versees en excedent du capital,65278,false,104000 Primes versees en excedent du capital,104000,10,104000,10,,BSH_00022
+732,105300,105300,105300 Reserves de reevaluation,65278,false,105300 Reserves de reevaluation,105300,10,105300,10,,BSH_00023
+4,686550,686550,686550 Dot Provision pour risques - frais financiers R68650,65278,false,686550 Dot Provision pour risques - frais financiers R68650,686550,686,686550,686,6XXXXX,PNL_00182
+52,781500,781500,781500 Rep prov risques-charges exploit/litiges non fisc R68750,65278,false,781500 Rep prov risques-charges exploit/litiges non fisc R68750,781500,781,781500,781,7XXXXX,PNL_00189
+1243,168850,168850,168850,65278,false,168850,168850,16,168850,16,,BSH_00016
+1280,215342,215342,215342 Stations GNV,65278,false,215342 Stations GNV,215342,2,215342,2,,BSH_00002
+1281,281538,281538,281538 Amort station GNV,65278,false,281538 Amort station GNV,281538,2,281538,2,,BSH_00002
+406,681580,681580,681580 Dot Prov charges sociales et fiscales sur CP R68150,65278,false,681580 Dot Prov charges sociales et fiscales sur CP R68150,681580,681,681580,681,6XXXXX,PNL_00189
+415,681103,681103,681103 Dot Amortissement des Brevets R68111,65278,false,681103 Dot Amortissement des Brevets R68111,681103,681,681103,681,6XXXXX,PNL_00171
+417,787500,787500,787500 Rep prov autres charges exceptionnelles R78750,65278,false,787500 Rep prov autres charges exceptionnelles R78750,787500,787,787500,787,7XXXXX,PNL_00190
+418,681104,681104,681104 Dot Amortissement des Droits de transit R68111,65278,false,681104 Dot Amortissement des Droits de transit R68111,681104,681,681104,681,6XXXXX,PNL_00171
+1004,167001,167001,167001,65278,false,167001,167001,16,167001,16,,BSH_00018
+1005,167002,167002,167002,65278,false,167002,167002,16,167002,16,,BSH_00018
+1006,167003,167003,167003,65278,false,167003,167003,16,167003,16,,BSH_00018
+1007,167004,167004,167004,65278,false,167004,167004,16,167004,16,,BSH_00018
+1008,167005,167005,167005,65278,false,167005,167005,16,167005,16,,BSH_00018
+1009,447600,447600,447600,65278,false,447600,447600,4,447600,4,,BSH_00014
+1010,451111,451111,451111,65278,false,451111,451111,4,451111,4,,BSH_00018
+1011,512100,512100,512100,65278,false,512100,512100,5,512100,5,,BSH_00019
+1012,512700,512700,512700,65278,false,512700,512700,5,512700,5,,BSH_00019
+1013,512701,512701,512701,65278,false,512701,512701,5,512701,5,,BSH_00019
+1014,512702,512702,512702,65278,false,512702,512702,5,512702,5,,BSH_00019
+470,786550,786550,786550 Reprise sur provisions pour risques financiers R78650,65278,false,786550 Reprise sur provisions pour risques financiers R78650,786550,786,786550,786,7XXXXX,PNL_00182
+476,787400,787400,787400 Reprises sur autres provisions reglementees R78750,65278,false,787400 Reprises sur autres provisions reglementees R78750,787400,787,787400,787,7XXXXX,PNL_00190
+192,787300,787300,787300 Reprises provisions Hausses des Prix R78750,65278,false,787300 Reprises provisions Hausses des Prix R78750,787300,787,787300,787,7XXXXX,PNL_00190
+525,687100,687100,687100 Dot Amort except immob. R68760,65278,false,687100 Dot Amort except immob. R68760,687100,687,687100,687,6XXXXX,PNL_00192
+573,681500,681500,681500 Dot Prov risques-charges expl/litiges non fiscaux R68150,65278,false,681500 Dot Prov risques-charges expl/litiges non fiscaux R68150,681500,681,681500,681,6XXXXX,PNL_00190
+612,771100,771100,771100 Participation clients R77800,65278,false,771100 Participation clients R77800,771100,771,771100,771,7XXXXX,PNL_00174
+1672,231009,231009,231009 Immobilisations corporelles Tech,65278,false,231009 Immobilisations corporelles Tech,231009,2,231009,2,,SAP_T2310
+1277,681171,681171,681171 DA Stations GNV,65278,false,681171 DA Stations GNV,681171,681,681171,681,6XXXXX,PNL_00171
+1673,232009,232009,232009 Immobilisations incorporelles Tech,65278,false,232009 Immobilisations incorporelles Tech,232009,2,232009,2,,SAP_T2320
+1508,contrat,Contrat,Contrat,65278,false,Contrat,Contrat,Nature_Statistic,Contrat,,,
+1509,ct_00001,CT_00001,CDI,65278,false,CDI,CT_00001,Contrat,CT_00001,,,
+1510,ct_00002,CT_00002,CDD,65278,false,CDD,CT_00002,Contrat,CT_00002,,,
+472,681565,681565,681565 Dot provision Retraite et PRC,65278,false,681565 Dot provision Retraite et PRC,681565,681,681565,570MS,6XXXXX,PNL_00131
+1512,ct_00004,CT_00004,Alternant,65278,false,Alternant,CT_00004,Contrat,CT_00004,,,
+1585,681172,681172,681172 DA Unit auto energie,65278,false,681172 DA Unit auto energie,681172,681,681172,681,6XXXXX,PNL_00171
+29,781730,781730,781730 Reprise prov dépréciation des stocks de matériel R78170,65278,false,781730 Reprise prov dépréciation des stocks de matériel R78170,781730,781,781730,781,7XXXXX,PNL_00189
+235,681120,681120,681120 Dot Amort agencements aménagements terrains-pro R68112,65278,false,681120 Dot Amort agencements aménagements terrains-pro R68112,681120,681,681120,681,6XXXXX,PNL_00171
+560,681730,681730,681730 Dot Prov dépréciation inventaires de matériels R68170,65278,false,681730 Dot Prov dépréciation inventaires de matériels R68170,681730,681,681730,681,6XXXXX,PNL_00189
+290,681186,681186,681186 Dot Amort équipement IT & informatique R68112,65278,false,681186 Dot Amort équipement IT & informatique R68112,681186,681,681186,681,6XXXXX,PNL_00171
+571,681741,681741,681741 Dot Prov dépréciation créances clients R68190,65278,false,681741 Dot Prov dépréciation créances clients R68190,681741,681,681741,681,6XXXXX,PNL_00189
+572,681501,681501,681501 Dot Prov médailles du travail R68160,65278,false,681501 Dot Prov médailles du travail R68160,681501,681,681501,681,6XXXXX,PNL_00190
+593,771000,771000,771000 Produits exceptionnels sur opérations de gestion R77800,65278,false,771000 Produits exceptionnels sur opérations de gestion R77800,771000,771,771000,771,7XXXXX,PNL_00174
+1511,ct_00003,CT_00003,Intérim,65278,false,Intérim,CT_00003,Contrat,CT_00003,,,
+521,781565,781565,781565 Rep provision Retraite et PRC,65278,false,781565 Rep provision Retraite et PRC,781565,781,781565,570MS,7XXXXX,PNL_00131
