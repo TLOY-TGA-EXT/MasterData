@@ -15,6 +15,7 @@ member_id,customer_key,unaltered_customer_key,display_name,level_id,is_deleted,a
 49,opms_pbt,OpMS_PBT,PBT,64904,false,PBT,,OpMS_PBT,,,,OpMP,OpMP_Tax1,
 95,bsh_00013,BSH_00013,VAT,64904,false,VAT,,BSH_00013,CFS_00016,,,BSH_NonTradeWorkingCapital,BS16-004,
 96,bsh_00014,BSH_00014,Other,64904,false,Other,,BSH_00014,CFS_00017,,,BSH_NonTradeWorkingCapital,BS16-005,
+1289,pnl_00222,PNL_00222,Revenu PITPE,64904,false,Revenu PITPE,,PNL_00222,,,OpMP_ATR,PNL_ATRCapacitésHorsITC,C1111-0101,OpxY_ChiffreAffaireInp
 404,cfs_00013,CFS_00013,Var. Inventory,64904,false,Var. Inventory,,CFS_00013,BSH_00007,-,,CFS_TradeWorkingCapitalVariation,CFS14300,
 105,bsh_00006,BSH_00006,Financing fee,64904,false,Financing fee,,BSH_00006,,,,BSH_NetAssets,BS14,
 403,cfs_00014,CFS_00014,Var. Personnel,64904,false,Var. Personnel,,CFS_00014,BSH_00010,-,,CFS_NonTradeWorkingCapitalVariation,CFS15100,

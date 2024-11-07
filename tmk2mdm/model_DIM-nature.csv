@@ -243,7 +243,6 @@ member_id,customer_key,unaltered_customer_key,display_name,level_id,is_deleted,a
 944,448700,448700,448700 Etat - produits à recevoir,65278,false,448700 Etat - produits à recevoir,448700,4,448700,4,,BSH_00012
 952,457000,457000,457000 Associés - Dividende à Payer,65278,false,457000 Associés - Dividende à Payer,457000,4,457000,4,,BSH_00014
 953,467001,467001,467001 Débiteurs divers,65278,false,467001 Débiteurs divers,467001,4,467001,4,,BSH_00014
-956,467005,467005,467005 Créditeurs divers,65278,false,467005 Créditeurs divers,467005,4,467005,4,,BSH_00014
 957,468600,468600,468600 Divers-Charges à payer,65278,false,468600 Divers-Charges à payer,468600,4,468600,4,,BSH_00014
 958,468700,468700,468700 Divers-Produits à recevoir,65278,false,468700 Divers-Produits à recevoir,468700,4,468700,4,,BSH_00014
 963,481600,481600,481600 Frais d'émission des emprunts à répartir,65278,false,481600 Frais d'émission des emprunts à répartir,481600,4,481600,4,,BSH_00006
@@ -349,6 +348,22 @@ member_id,customer_key,unaltered_customer_key,display_name,level_id,is_deleted,a
 2266,478720,478720,478720 Diff. d'évaluation instruments trésorerie-PASSIF,65278,false,478720 Diff. d'évaluation instruments trésorerie-PASSIF,478720,4,478720,4,,BSH_00006
 2299,512860,512860,512860 BNP Hy'Touraine Dist,65278,false,512860 BNP Hy'Touraine Dist,512860,5,512860,5,,BSH_00019
 2432,999990,999990,999990 Cpt Mig. AuC,65278,false,999990 Cpt Mig. AuC,999990,9,999990,9,7XXXXX,SAP_T9999
+2464,467006,467006,467006 Créditeurs divers autre,65278,false,467006 Créditeurs divers autre,467006,4,467006,4,,BSH_00014
+2497,786611,786611,786611 Rep prov titres des sociétés liées consolidées,65278,false,786611 Rep prov titres des sociétés liées consolidées,786611,786,786611,786,7XXXXX,
+2498,606530,606530,606530 IAAS et PAAS,65278,false,606530 IAAS et PAAS,606530,606,606530,606,6XXXXX,
+2499,611508,611508,611508 Assist hébergt appli,65278,false,611508 Assist hébergt appli,611508,611,611508,611,611XXX,
+2500,787550,787550,787550 RP litige fisc + IS,65278,false,787550 RP litige fisc + IS,787550,787,787550,787,7XXXXX,
+2501,870000,870000,870000 Contrib.volontaires,65278,false,870000 Contrib.volontaires,870000,8,870000,8,,SAP_T8001
+2502,872000,872000,872000 Dons en nature,65278,false,872000 Dons en nature,872000,8,872000,8,,SAP_T8001
+2503,891000,891000,891000 FEC Ouv-Clot,65278,false,891000 FEC Ouv-Clot,891000,8,891000,8,,SAP_T8001
+2504,993000,993000,993000 Transfert de données,65278,false,993000 Transfert de données,993000,9,993000,9,,SAP_T9999
+2505,994001,994001,994001 Cible TVA intrac ded,65278,false,994001 Cible TVA intrac ded,994001,9,994001,9,,SAP_T9999
+2506,994002,994002,994002 Temp TVA intrac ded,65278,false,994002 Temp TVA intrac ded,994002,9,994002,9,,SAP_T9999
+2507,999983,999983,999983 Reprise Charge Anté,65278,false,999983 Reprise Charge Anté,999983,9,999983,9,,SAP_T9999
+956,467005,467005,467005 Créditeurs divers CPAM,65278,false,467005 Créditeurs divers CPAM,467005,4,467005,4,,BSH_00014
+2530,163005,163005,163005 Emprunt obligataire 2024,65278,false,163005 Emprunt obligataire 2024,163005,16,163005,16,,BSH_00018
+2563,169001,169001,169001 Prime d'émission bond 600 M€ 2024,65278,false,169001 Prime d'émission bond 600 M€ 2024,169001,16,169001,16,,BSH_00006
+2596,706201,706201,706201 Loyer agris unité Metha Infra Berry,65278,false,706201 Loyer agris unité Metha Infra Berry,706201,706,706201,706,7XXXXX,PNL_00150
 1708,708820,708820,708820 Loyer véhicules,65278,false,708820 Loyer véhicules,708820,708,708820,708,7XXXXX,PNL_00141
 2010,428610,428610,428610 Pers - Dettes prov / Prime Vacances,65278,false,428610 Pers - Dettes prov / Prime Vacances,428610,4,428610,4,,BSH_00010
 2267,478620,478620,478620 Diff. d'évaluation instruments trésorerie-ACTIF,65278,false,478620 Diff. d'évaluation instruments trésorerie-ACTIF,478620,4,478620,4,,BSH_00006
@@ -473,13 +488,13 @@ member_id,customer_key,unaltered_customer_key,display_name,level_id,is_deleted,a
 43,641302,641302,641302 Personnel - prime unité de performance R64100,65278,false,641302 Personnel - prime unité de performance R64100,641302,641,641302,150MS,6XXXXX,PNL_00131
 47,695000,695000,695000 Impôt/bénéfices R69500,65278,false,695000 Impôt/bénéfices R69500,695000,695,695000,695,6XXXXX,PNL_00184
 50,781501,781501,781501 Rep prov médailles du travail R78160,65278,false,781501 Rep prov médailles du travail R78160,781501,781,781501,781,7XXXXX,PNL_00190
+60,791300,791300,791300 TCE encaissements IJ Divers,65278,false,791300 TCE encaissements IJ Divers,791300,791,791300,121MS,7XXXXX,PNL_00131
 53,641440,641440,641440 Personnel - Indemnités journalières R64100,65278,false,641440 Personnel - Indemnités journalières R64100,641440,641,641440,110MS,6XXXXX,PNL_00131
 54,641200,641200,641200 Personnel - congés payés,65278,false,641200 Personnel - congés payés,641200,641,641200,120MS,6XXXXX,PNL_00131
 337,645320,645320,645320 CREA R64500,65278,false,645320 CREA R64500,645320,645,645320,999MS,6XXXXX,PNL_00131
 24,791400,791400,791400 TCE URRPIMMEC R79100,65278,false,791400 TCE URRPIMMEC R79100,791400,791,791400,999MS,7XXXXX,PNL_00131
 58,616400,616400,616400 Tous risques chantiers R61600,65278,false,616400 Tous risques chantiers R61600,616400,616,616400,616,6XXXXX,PNL_00150
 59,740000,740000,740000 Subvention d'exploitation R74000,65278,false,740000 Subvention d'exploitation R74000,740000,740,740000,740,7XXXXX,PNL_00150
-60,791300,791300,791300 TCE encaissements IJ R79100,65278,false,791300 TCE encaissements IJ R79100,791300,791,791300,121MS,7XXXXX,PNL_00131
 61,615549,615549,"615549 Travaux de chaudronnerie, tuyauterie, robinetterie R61500",65278,false,"615549 Travaux de chaudronnerie, tuyauterie, robinetterie R61500",615549,615,615549,615,6XXXXX,PNL_00150
 62,654400,654400,654400 Pertes sur créances irrécouvrables des exercices a R65800,65278,false,654400 Pertes sur créances irrécouvrables des exercices a R65800,654400,654,654400,654,6XXXXX,PNL_00150
 63,763000,763000,763000 Produits Bancaires R76200,65278,false,763000 Produits Bancaires R76200,763000,763,763000,763,7XXXXX,PNL_00150
@@ -667,7 +682,6 @@ member_id,customer_key,unaltered_customer_key,display_name,level_id,is_deleted,a
 85,603560,603560,603560 Machines motrices R60310,65278,false,603560 Machines motrices R60310,603560,603,603560,603,6XXXXX,PNL_00150
 86,603440,603440,603440 Équipement et pièces de rechange mécaniques R60310,65278,false,603440 Équipement et pièces de rechange mécaniques R60310,603440,603,603440,603,6XXXXX,PNL_00150
 88,603680,603680,603680 Bennes/containers (stock) R60310,65278,false,603680 Bennes/containers (stock) R60310,603680,603,603680,603,6XXXXX,PNL_00150
-488,706407,706407,706407 Achat/vente de gaz TR R70600,65278,false,706407 Achat/vente de gaz TR R70600,706407,706,706407,706,7XXXXX,PNL_00150
 489,613571,613571,613571 Location véhicules - de 6 mois R61300,65278,false,613571 Location véhicules - de 6 mois R61300,613571,613,613571,613,6XXXXX,PNL_00150
 490,624100,624100,624100 Transport sur achats R62400,65278,false,624100 Transport sur achats R62400,624100,624,624100,624,6XXXXX,PNL_00150
 491,706408,706408,706408 Pénalités Transport R70600,65278,false,706408 Pénalités Transport R70600,706408,706,706408,706,7XXXXX,PNL_00150
@@ -700,6 +714,7 @@ member_id,customer_key,unaltered_customer_key,display_name,level_id,is_deleted,a
 150,799990,799990,799990 Comptes techniques Produits CS9999,65278,false,799990 Comptes techniques Produits CS9999,799990,799,799990,799,7XXXXX,PNL_00150
 151,651600,651600,651600 Droits d'auteur et reproduction R65800,65278,false,651600 Droits d'auteur et reproduction R65800,651600,651,651600,651,6XXXXX,PNL_00150
 129,645810,645810,645810 CHARGES SOCIALES/CONGES,65278,false,645810 CHARGES SOCIALES/CONGES,645810,645,645810,240MS,6XXXXX,PNL_00131
+488,706407,706407,706407 Timbre d'injection biométhane Transport,65278,false,706407 Timbre d'injection biométhane Transport,706407,706,706407,706,7XXXXX,PNL_00150
 152,611709,611709,611709 Controles et inspections R61100,65278,false,611709 Controles et inspections R61100,611709,611,611709,611,6XXXXX,PNL_00150
 153,758400,758400,758400 Indemnité résiliation R75800,65278,false,758400 Indemnité résiliation R75800,758400,758,758400,758,7XXXXX,PNL_00150
 154,611708,611708,611708 Gestion des déchets R61100,65278,false,611708 Gestion des déchets R61100,611708,611,611708,611,6XXXXX,PNL_00150
